@@ -1,6 +1,6 @@
 # Role-Based Reinforcement Learning for LLM Selection
 
-This project implements a reinforcement learning (RL) framework to dynamically select the most suitable Large Language Models (LLMs) for different roles in a text processing pipeline. The goal is to optimize the performance (reward) and cost of using LLMs for various tasks such as topic finding, topic locating, relationship checking, and content organization.
+This project implements a Role Reinforcement Learning (RL) framework to dynamically select the most suitable Large Language Models (LLMs) for different roles in a text processing pipeline. The goal is to optimize the performance (reward) and cost of using LLMs for Online Long-Transcript Processing (OLP) including topic finding, topic locating, relationship checking, and content organization.
 
 ## Overview
 
