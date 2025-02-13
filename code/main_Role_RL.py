@@ -65,7 +65,7 @@ LLMs = [["llama3-8b-8192", 0.08, 0.08], ["mixtral-8x7b-32768", 0.7, 0.7], ["comm
         ["gpt-4o-2024-05-13", 5, 15], ["gemini-1.5-pro", 7, 21], ["claude-3-opus-20240229", 15, 75]]
 
 # Define the initial LLM board member
-# LLM_judger = "claude-3-opus-20240229"
+# LLM_judger = "claude-3-opus"
 # c1_judger = 15 / 1000000
 # c2_judger = 75 / 1000000
 # weight_list = [0, 0, 0, 0, 0, 1]     ###
@@ -329,7 +329,7 @@ def judge(LLM_name, question, answer, hint, hint2):
     if English:
         txt = " - Question: " + question + "\n - Answer: " + answer + "\nDo you think the content and the format of the answer are correct?" + hint2 + "If they are correct, please answer 'Both content and format are correct!'; If not, please answer 'No, they are wrong', and" + hint + " remember to put the correct answer behind 'Correct answer: '"
     else:
-        txt = " - ÎÊÌâ£º" + question + "\n - ´ğ°¸£º" + answer + "\nÄãÈÏÎªÕâ¸ö´ğ°¸µÄÄÚÈİºÍ¸ñÊ½¶¼ÕıÈ·Âğ£¿" + hint2 + "Èç¹ûÕıÈ·£¬Çë»Ø´ğ¡°ÄÚÈİºÍ¸ñÊ½¶¼ÕıÈ·£¡¡±£»Èç¹û´íÎó£¬Çë»Ø´ğ¡°´íÎó£¡¡±²¢" + hint + "×¢Òâ½«ÕıÈ·´ğ°¸Ğ´ÔÚ¡°ÕıÈ·´ğ°¸£º¡±Ö®ºó"
+        txt = " - é—®é¢˜ï¼š" + question + "\n - ç­”æ¡ˆï¼š" + answer + "\nä½ è®¤ä¸ºè¿™ä¸ªç­”æ¡ˆçš„å†…å®¹å’Œæ ¼å¼éƒ½æ­£ç¡®å—ï¼Ÿ" + hint2 + "å¦‚æœæ­£ç¡®ï¼Œè¯·å›ç­”â€œå†…å®¹å’Œæ ¼å¼éƒ½æ­£ç¡®ï¼â€ï¼›å¦‚æœé”™è¯¯ï¼Œè¯·å›ç­”â€œé”™è¯¯ï¼â€å¹¶" + hint + "æ³¨æ„å°†æ­£ç¡®ç­”æ¡ˆå†™åœ¨â€œæ­£ç¡®ç­”æ¡ˆï¼šâ€ä¹‹å"
 
     again = 1
     while again > 0:
@@ -364,9 +364,9 @@ def judge(LLM_name, question, answer, hint, hint2):
             true_or_false = true_value
             answer_corrected = ""
     else:
-        if "ÕıÈ·£¡" not in response and "ÕıÈ·´ğ°¸" in response:
+        if "æ­£ç¡®ï¼" not in response and "æ­£ç¡®ç­”æ¡ˆ" in response:
             true_or_false = false_value
-            start = response.find('ÕıÈ·´ğ°¸')
+            start = response.find('æ­£ç¡®ç­”æ¡ˆ')
             answer_corrected = response[start + 5:]
         else:
             true_or_false = true_value
@@ -409,7 +409,7 @@ def relationship_checker(LLM_index, a):
             if English:
                 question = "Are '" + this_name + "' and '" + next_name + "' the same product on eBay? Please answer by 'Yes, they are' or 'No, they aren't'. Do not output any other content."
             else:
-                question = "¡°" + this_name + "¡±ºÍ¡°" + next_name + "¡±ÔÚÌÔ±¦ÉÏÊôÓÚÍ¬Ò»ÉÌÆ·Âğ£¿ÇëÓÃ¡°ÊÇ¡£¡±»òÕß¡°·ñ¡£¡±»Ø´ğ£¬²»ÒªÊä³öÆäËûÄÚÈİ¡£"
+                question = "â€œ" + this_name + "â€å’Œâ€œ" + next_name + "â€åœ¨æ·˜å®ä¸Šå±äºåŒä¸€å•†å“å—ï¼Ÿè¯·ç”¨â€œæ˜¯ã€‚â€æˆ–è€…â€œå¦ã€‚â€å›ç­”ï¼Œä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ã€‚"
 
             hint = ""
             hint2 = ""
@@ -424,8 +424,8 @@ def relationship_checker(LLM_index, a):
             true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
             if true_or_false != true_value:
-                f1 = -1 if "No" in result or "·ñ" in result else 1
-                f2 = -1 if "No" in answer_corrected or "·ñ" in answer_corrected else 1
+                f1 = -1 if "No" in result or "å¦" in result else 1
+                f2 = -1 if "No" in answer_corrected or "å¦" in answer_corrected else 1
 
                 true_or_false = true_value if f1 * f2 == 1 else false_value
 
@@ -442,14 +442,14 @@ def relationship_checker(LLM_index, a):
             if true_or_false != true_value:
                 result = answer_corrected
 
-            if "No" in result or "·ñ" in result:
+            if "No" in result or "å¦" in result:
                 # print("No need to combine.") if iter > (iters - print_limit) or iter < print_limit else None
                 pass
             else:
                 if English:
                     question = "Please combine'" + this_name + "' and '" + next_name + "' into one item and answer with '[{merged item}]', and remember not to output other content."
                 else:
-                    question = "Çë°Ñ¡°" + this_name + "¡±ºÍ¡°" + next_name + "¡±ºÏ²¢ÎªÒ»¸öÀà±ğ²¢Êä³ö³É['ºÏ²¢ºóµÄÀà±ğ']£¬×¢Òâ²»ÒªÊä³öÆäËûÄÚÈİ¡£"
+                    question = "è¯·æŠŠâ€œ" + this_name + "â€å’Œâ€œ" + next_name + "â€åˆå¹¶ä¸ºä¸€ä¸ªç±»åˆ«å¹¶è¾“å‡ºæˆ['åˆå¹¶åçš„ç±»åˆ«']ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ã€‚"
 
                 hint = ""
                 hint2 = ""
@@ -524,8 +524,8 @@ def topic_locator(LLM_index, text, item_list):
             hint = "Please read sentence by sentence and extract the first index related to " + the_item + " and the last index related to " + the_item + " from the above text, and then answer by [first index, last index], remember not to output any other content."
             hint2 = ""
         else:
-            question = "ÇëÒ»¾äÒ»¾äµØ¶Á²¢Õª³­³öÒÔÏÂ¶ÎÂäÖĞ½éÉÜ" + the_item + "µÄµÚÒ»¾äµÄºÅÂëºÍ½éÉÜ" + the_item + "µÄ×îºóÒ»¾äµÄºÅÂë" + "¡°" + text + "¡±" + "²¢ÓÃ[µÚÒ»¾äµÄºÅÂë, ×îºóÒ»¾äµÄºÅÂë]À´»Ø´ğ£¬×¢Òâ²»ÒªÊä³öºÅÂëÒÔÍâµÄÆäËûÄÚÈİ"
-            hint = "Ò»¾äÒ»¾äµØ¶Á²¢Õª³­³öÒÔÉÏ¶ÎÂäÖĞ½éÉÜ" + the_item + "µÄµÚÒ»¾äµÄºÅÂëºÍ½éÉÜ" + the_item + "µÄ×îºóÒ»¾äµÄºÅÂë" + "ÔÙÓÃ[µÚÒ»¾äµÄºÅÂë, ×îºóÒ»¾äµÄºÅÂë]À´»Ø´ğ£¬×¢Òâ²»ÒªÊä³öºÅÂëÒÔÍâµÄÆäËûÄÚÈİ"
+            question = "è¯·ä¸€å¥ä¸€å¥åœ°è¯»å¹¶æ‘˜æŠ„å‡ºä»¥ä¸‹æ®µè½ä¸­ä»‹ç»" + the_item + "çš„ç¬¬ä¸€å¥çš„å·ç å’Œä»‹ç»" + the_item + "çš„æœ€åä¸€å¥çš„å·ç " + "â€œ" + text + "â€" + "å¹¶ç”¨[ç¬¬ä¸€å¥çš„å·ç , æœ€åä¸€å¥çš„å·ç ]æ¥å›ç­”ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå·ç ä»¥å¤–çš„å…¶ä»–å†…å®¹"
+            hint = "ä¸€å¥ä¸€å¥åœ°è¯»å¹¶æ‘˜æŠ„å‡ºä»¥ä¸Šæ®µè½ä¸­ä»‹ç»" + the_item + "çš„ç¬¬ä¸€å¥çš„å·ç å’Œä»‹ç»" + the_item + "çš„æœ€åä¸€å¥çš„å·ç " + "å†ç”¨[ç¬¬ä¸€å¥çš„å·ç , æœ€åä¸€å¥çš„å·ç ]æ¥å›ç­”ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå·ç ä»¥å¤–çš„å…¶ä»–å†…å®¹"
             hint2 = ""
 
         result, run_time = ask(LLM_name, question)
@@ -537,7 +537,7 @@ def topic_locator(LLM_index, text, item_list):
         end = result.rfind(']')
 
         result = result[start:end + 1]
-        result = result.replace('¡±', '"').replace('¡°', '"')
+        result = result.replace('â€', '"').replace('â€œ', '"')
         # print("the answer of ", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
         true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
@@ -552,7 +552,7 @@ def topic_locator(LLM_index, text, item_list):
         end = answer_corrected.rfind(']')
 
         answer_corrected = answer_corrected[start:end + 1]
-        answer_corrected = answer_corrected.replace('¡±', '"').replace('¡°', '"')
+        answer_corrected = answer_corrected.replace('â€', '"').replace('â€œ', '"')
         # print("answer_corrected =", answer_corrected) if iter > (iters - print_limit) or iter < print_limit else None
         try:
             answer_corrected = ast.literal_eval(answer_corrected)
@@ -610,9 +610,9 @@ def topic_finder(LLM_index, text):
         hint = "read sentence by sentence and determine which items are being sold in the above sentences" + "'" + slice_txt + "'" + 'Only select the items with price, and answer in the format of ["item 1: price 1 (if exist)", "item 2: price 2 (if exist)", "item 3: price 3 (if exist)"] in the order of appearance.'
         hint2 = "Please note not to output items whose prices are not mentioned,"
     else:
-        question = "ÇëÅĞ¶ÏÒÔÏÂ¶ÎÂäÔÚÏúÊÛÄÄĞ©ÉÌÆ·£¬´ÓÍ·µ½Î²Ò»¾äÒ»¾äµØÔÄ¶Á" + "¡°" + text + "¡±" + "Ö»½«ÓĞ¼Û¸ñµÄÉÌÆ·Ãû³Æ°´³öÏÖË³ĞòÊä³ö³ÉÒ»¸ö['ÉÌÆ·1µÄÃû³Æ:ÉÌÆ·1µÄ¼Û¸ñ', 'ÉÌÆ·2µÄÃû³Æ:ÉÌÆ·2µÄ¼Û¸ñ', 'ÉÌÆ·3µÄÃû³Æ:ÉÌÆ·3µÄ¼Û¸ñ']ÁĞ±í"
-        hint = "ÅĞ¶ÏÒÔÉÏ¶ÎÂäÔÚÏúÊÛÄÄĞ©ÉÌÆ·£¬´ÓÍ·µ½Î²Ò»¾äÒ»¾äµØÔÄ¶Á£¬Ö»½«ÓĞ¼Û¸ñµÄÉÌÆ·Ãû³Æ°´³öÏÖË³ĞòÊä³ö³ÉÒ»¸ö['ÉÌÆ·1µÄÃû³Æ:ÉÌÆ·1µÄ¼Û¸ñ', 'ÉÌÆ·2µÄÃû³Æ:ÉÌÆ·2µÄ¼Û¸ñ', 'ÉÌÆ·3µÄÃû³Æ:ÉÌÆ·3µÄ¼Û¸ñ']ÁĞ±í"
-        hint2 = "×¢Òâ²»ÒªÊä³ö¼Û¸ñÎ´Ìá¼°µÄÉÌÆ·£¬"
+        question = "è¯·åˆ¤æ–­ä»¥ä¸‹æ®µè½åœ¨é”€å”®å“ªäº›å•†å“ï¼Œä»å¤´åˆ°å°¾ä¸€å¥ä¸€å¥åœ°é˜…è¯»" + "â€œ" + text + "â€" + "åªå°†æœ‰ä»·æ ¼çš„å•†å“åç§°æŒ‰å‡ºç°é¡ºåºè¾“å‡ºæˆä¸€ä¸ª['å•†å“1çš„åç§°:å•†å“1çš„ä»·æ ¼', 'å•†å“2çš„åç§°:å•†å“2çš„ä»·æ ¼', 'å•†å“3çš„åç§°:å•†å“3çš„ä»·æ ¼']åˆ—è¡¨"
+        hint = "åˆ¤æ–­ä»¥ä¸Šæ®µè½åœ¨é”€å”®å“ªäº›å•†å“ï¼Œä»å¤´åˆ°å°¾ä¸€å¥ä¸€å¥åœ°é˜…è¯»ï¼Œåªå°†æœ‰ä»·æ ¼çš„å•†å“åç§°æŒ‰å‡ºç°é¡ºåºè¾“å‡ºæˆä¸€ä¸ª['å•†å“1çš„åç§°:å•†å“1çš„ä»·æ ¼', 'å•†å“2çš„åç§°:å•†å“2çš„ä»·æ ¼', 'å•†å“3çš„åç§°:å•†å“3çš„ä»·æ ¼']åˆ—è¡¨"
+        hint2 = "æ³¨æ„ä¸è¦è¾“å‡ºä»·æ ¼æœªæåŠçš„å•†å“ï¼Œ"
 
     result, run_time = ask(LLM_name, question)
 
@@ -672,7 +672,7 @@ def topic_finder(LLM_index, text):
         if "-" in retained_content:
             retained_content = retained_content.replace("-", ",")
 
-        retained_content = retained_content.replace('¡±', '"').replace('¡°', '"').replace('£º', ':').replace('£¬', ',')
+        retained_content = retained_content.replace('â€', '"').replace('â€œ', '"').replace('ï¼š', ':').replace('ï¼Œ', ',')
         print("retained_content =", retained_content)
         try:
             item_list = ast.literal_eval(retained_content)
@@ -680,12 +680,12 @@ def topic_finder(LLM_index, text):
             print("not successful")
 
         try:
-            item_list = [re.split(r'[£º:]', item)[0] for item in item_list]
+            item_list = [re.split(r'[ï¼š:]', item)[0] for item in item_list]
         except Exception as e:
             print("not successful")
 
     else:
-        temp = re.split(r'[£º:-]', result)
+        temp = re.split(r'[ï¼š:-]', result)
         item_list = []
         for index, element in enumerate(temp):
             if index % 2 == 0 and index > 0:
@@ -718,8 +718,8 @@ def content_organizer(LLM_index, Text, The_item):
             hint = "Please extract the sentences related to " + my_item + ' from the above document through 4 categories: (1) Opening, (2) Order Urging, (3) Price, (4) Product Description. Remember to answer in the format of - [sentence index, sentence]'
             hint2 = ""
         else:
-            question = "ÇëÍ¨¹ı4¸öÀà±ğ£º**£¨1£©ÉÌÆ·¿ª³¡**¡¢**£¨2£©ÉÌÆ·¼Û¸ñ**¡¢**£¨3£©Òıµ¼¹ºÂò**¡¢**£¨4£©ÉÌÆ·½éÉÜºÍÂôµãÃèÊö**£¬¶ÔÒÔÏÂÎÄµµÓë" + the_item + "ÓĞ¹ØµÄ²¿·Ö½øĞĞÕª³­" + "¡°" + text + "¡±" + '£¬×¢ÒâÒÔ- [±àºÅ, "¾ä×Ó"]µÄ¸ñÊ½ÖğĞĞÕª³­ÔÚ4¸öÀà±ğÏÂ'
-            hint = "Í¨¹ı4¸öÀà±ğ£º**£¨1£©ÉÌÆ·¿ª³¡**¡¢**£¨2£©ÉÌÆ·¼Û¸ñ**¡¢**£¨3£©Òıµ¼¹ºÂò**¡¢**£¨4£©ÉÌÆ·½éÉÜºÍÂôµãÃèÊö**£¬¶ÔÒÔÉÏÎÄµµÓë" + the_item + "ÓĞ¹ØµÄ²¿·Ö½øĞĞÕª³­" + '£¬×¢ÒâÒÔ- [±àºÅ, "¾ä×Ó"]µÄ¸ñÊ½ÖğĞĞÕª³­ÔÚ4¸öÀà±ğÏÂ'
+            question = "è¯·é€šè¿‡4ä¸ªç±»åˆ«ï¼š**ï¼ˆ1ï¼‰å•†å“å¼€åœº**ã€**ï¼ˆ2ï¼‰å•†å“ä»·æ ¼**ã€**ï¼ˆ3ï¼‰å¼•å¯¼è´­ä¹°**ã€**ï¼ˆ4ï¼‰å•†å“ä»‹ç»å’Œå–ç‚¹æè¿°**ï¼Œå¯¹ä»¥ä¸‹æ–‡æ¡£ä¸" + the_item + "æœ‰å…³çš„éƒ¨åˆ†è¿›è¡Œæ‘˜æŠ„" + "â€œ" + text + "â€" + 'ï¼Œæ³¨æ„ä»¥- [ç¼–å·, "å¥å­"]çš„æ ¼å¼é€è¡Œæ‘˜æŠ„åœ¨4ä¸ªç±»åˆ«ä¸‹'
+            hint = "é€šè¿‡4ä¸ªç±»åˆ«ï¼š**ï¼ˆ1ï¼‰å•†å“å¼€åœº**ã€**ï¼ˆ2ï¼‰å•†å“ä»·æ ¼**ã€**ï¼ˆ3ï¼‰å¼•å¯¼è´­ä¹°**ã€**ï¼ˆ4ï¼‰å•†å“ä»‹ç»å’Œå–ç‚¹æè¿°**ï¼Œå¯¹ä»¥ä¸Šæ–‡æ¡£ä¸" + the_item + "æœ‰å…³çš„éƒ¨åˆ†è¿›è¡Œæ‘˜æŠ„" + 'ï¼Œæ³¨æ„ä»¥- [ç¼–å·, "å¥å­"]çš„æ ¼å¼é€è¡Œæ‘˜æŠ„åœ¨4ä¸ªç±»åˆ«ä¸‹'
             hint2 = ""
 
         result, run_time = ask(LLM_name, question)
