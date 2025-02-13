@@ -16,7 +16,7 @@ import pandas as pd
 url = "https://api.ainewserver.com/v1/chat/completions"
 
 headers = {
-    "Authorization": "Bearer sk-xxx",
+    "Authorization": "Bearer sk-xpqaolSdwUgRVyCV094cBc08A78142CaB060291f5231Ee85",
     "content-type": "application/json"
 }
 
@@ -329,7 +329,7 @@ def judge(LLM_name, question, answer, hint, hint2):
     if English:
         txt = " - Question: " + question + "\n - Answer: " + answer + "\nDo you think the content and the format of the answer are correct?" + hint2 + "If they are correct, please answer 'Both content and format are correct!'; If not, please answer 'No, they are wrong', and" + hint + " remember to put the correct answer behind 'Correct answer: '"
     else:
-        txt = " - é—®é¢˜ï¼š" + question + "\n - ç­”æ¡ˆï¼š" + answer + "\nä½ è®¤ä¸ºè¿™ä¸ªç­”æ¡ˆçš„å†…å®¹å’Œæ ¼å¼éƒ½æ­£ç¡®å—ï¼Ÿ" + hint2 + "å¦‚æœæ­£ç¡®ï¼Œè¯·å›ç­”â€œå†…å®¹å’Œæ ¼å¼éƒ½æ­£ç¡®ï¼â€ï¼›å¦‚æœé”™è¯¯ï¼Œè¯·å›ç­”â€œé”™è¯¯ï¼â€å¹¶" + hint + "æ³¨æ„å°†æ­£ç¡®ç­”æ¡ˆå†™åœ¨â€œæ­£ç¡®ç­”æ¡ˆï¼šâ€ä¹‹å"
+        txt = " - ÎÊÌâ£º" + question + "\n - ´ğ°¸£º" + answer + "\nÄãÈÏÎªÕâ¸ö´ğ°¸µÄÄÚÈİºÍ¸ñÊ½¶¼ÕıÈ·Âğ£¿" + hint2 + "Èç¹ûÕıÈ·£¬Çë»Ø´ğ¡°ÄÚÈİºÍ¸ñÊ½¶¼ÕıÈ·£¡¡±£»Èç¹û´íÎó£¬Çë»Ø´ğ¡°´íÎó£¡¡±²¢" + hint + "×¢Òâ½«ÕıÈ·´ğ°¸Ğ´ÔÚ¡°ÕıÈ·´ğ°¸£º¡±Ö®ºó"
 
     again = 1
     while again > 0:
@@ -364,9 +364,9 @@ def judge(LLM_name, question, answer, hint, hint2):
             true_or_false = true_value
             answer_corrected = ""
     else:
-        if "æ­£ç¡®ï¼" not in response and "æ­£ç¡®ç­”æ¡ˆ" in response:
+        if "ÕıÈ·£¡" not in response and "ÕıÈ·´ğ°¸" in response:
             true_or_false = false_value
-            start = response.find('æ­£ç¡®ç­”æ¡ˆ')
+            start = response.find('ÕıÈ·´ğ°¸')
             answer_corrected = response[start + 5:]
         else:
             true_or_false = true_value
@@ -380,27 +380,27 @@ def judge(LLM_name, question, answer, hint, hint2):
 # define the role of relationship_checker with its output and reward
 def relationship_checker(LLM_index, a):
     global ttt
-    cal_times = 0
+    cal_times = 0   # Counter to track the number of calculations
     LLM_name = LLMs_relationship_checker[LLM_index][0]
-    c = (LLMs_relationship_checker[LLM_index][1] + LLMs_relationship_checker[LLM_index][2]) / 2
-    c1 = LLMs_relationship_checker[LLM_index][1] / 1000000
-    c2 = LLMs_relationship_checker[LLM_index][2] / 1000000
-    cost_ref = 0
+    c1 = LLMs_relationship_checker[LLM_index][1] / 1000000   # input cost
+    c2 = LLMs_relationship_checker[LLM_index][2] / 1000000   # output cost
+    cost_ref = 0   # initialization
     cost_min = 0
     reward = 0
 
-    delete_index = []
+    delete_index = []  # List to store indices of items to delete
 
+    # Iterate through the list of items except the last one
     for item_index, the_item in enumerate(a[:-1]):
 
-        index = the_item[1]
-        this_name = the_item[0]
+        index = the_item[1]  # Get the index range of the current item
+        this_name = the_item[0]  # Get the name of the current item
         this_start = index[0]
         this_end = index[1]
 
-        next_item = a[item_index + 1]
-        index = next_item[1]
-        next_name = next_item[0]
+        next_item = a[item_index + 1]  # Get the next item in the list
+        index = next_item[1]  # Get the index range of the next item
+        next_name = next_item[0]  # Get the name of the next item
         next_start = index[0]
         next_end = index[1]
 
@@ -409,95 +409,93 @@ def relationship_checker(LLM_index, a):
             if English:
                 question = "Are '" + this_name + "' and '" + next_name + "' the same product on eBay? Please answer by 'Yes, they are' or 'No, they aren't'. Do not output any other content."
             else:
-                question = "â€œ" + this_name + "â€å’Œâ€œ" + next_name + "â€åœ¨æ·˜å®ä¸Šå±äºåŒä¸€å•†å“å—ï¼Ÿè¯·ç”¨â€œæ˜¯ã€‚â€æˆ–è€…â€œå¦ã€‚â€å›ç­”ï¼Œä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ã€‚"
+                question = "¡°" + this_name + "¡±ºÍ¡°" + next_name + "¡±ÔÚÌÔ±¦ÉÏÊôÓÚÍ¬Ò»ÉÌÆ·Âğ£¿ÇëÓÃ¡°ÊÇ¡£¡±»òÕß¡°·ñ¡£¡±»Ø´ğ£¬²»ÒªÊä³öÆäËûÄÚÈİ¡£"
 
+            # rule repeat
             hint = ""
             hint2 = ""
 
             result, run_time = ask(LLM_name, question)
 
-            # length_input = len(question)
-            # length_output = len(result)
-
-            # print("the answer of ", LLM_name, "result=", result) if iter > (iters - print_limit) or iter < print_limit else None
-
             true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
+            # Adjust true_or_false based on the response
             if true_or_false != true_value:
-                f1 = -1 if "No" in result or "å¦" in result else 1
-                f2 = -1 if "No" in answer_corrected or "å¦" in answer_corrected else 1
+                f1 = -1 if "No" in result or "·ñ" in result else 1
+                f2 = -1 if "No" in answer_corrected or "·ñ" in answer_corrected else 1
 
                 true_or_false = true_value if f1 * f2 == 1 else false_value
 
+            # Update costs and reward
             cost_min += (c1 * length_input + c2 * length_output)
             cost_ref += c1_judger * length_input + c2_judger * length_output
             reward = reward + true_or_false * v - k_t * t - (
                         c1 * length_input + c2 * length_output)
             cal_times += 1
-            # print("relationship_checker reward =", reward, "true_or_false =", true_or_false, "cost_min =", cost_min,
-            #       "LLM =", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
+
             ttt = str(ttt) + "file_name = " + str(the_file) + " relationship_checker reward = " + str(
                 reward) + " true_or_false = " + str(true_or_false) + " cost_min = " + str(
                 cost_min) + " LLM = " + LLM_name + "\n"
+
+            # If the response is incorrect, use the corrected answer
             if true_or_false != true_value:
                 result = answer_corrected
 
-            if "No" in result or "å¦" in result:
+            # If the response is "No" or "·ñ", no further action is needed
+            if "No" in result or "·ñ" in result:
                 # print("No need to combine.") if iter > (iters - print_limit) or iter < print_limit else None
                 pass
             else:
+                # If the response is "Yes" or "ÊÇ", ask the LLM to merge the items
                 if English:
                     question = "Please combine'" + this_name + "' and '" + next_name + "' into one item and answer with '[{merged item}]', and remember not to output other content."
                 else:
-                    question = "è¯·æŠŠâ€œ" + this_name + "â€å’Œâ€œ" + next_name + "â€åˆå¹¶ä¸ºä¸€ä¸ªç±»åˆ«å¹¶è¾“å‡ºæˆ['åˆå¹¶åçš„ç±»åˆ«']ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ã€‚"
+                    question = "Çë°Ñ¡°" + this_name + "¡±ºÍ¡°" + next_name + "¡±ºÏ²¢ÎªÒ»¸öÀà±ğ²¢Êä³ö³É['ºÏ²¢ºóµÄÀà±ğ']£¬×¢Òâ²»ÒªÊä³öÆäËûÄÚÈİ¡£"
 
                 hint = ""
                 hint2 = ""
 
+                # Ask the LLM to merge the items
                 result, run_time = ask(LLM_name, question)
 
-                # length_input = len(question)
-                # length_output = len(result)
-
+                # Extract the merged result from the response
                 start = result.find('[')
                 end = result.find(']')
-
                 result = result[start + 2:end - 1]
 
-                # print("merged product =", result) if iter > (iters - print_limit) or iter < print_limit else None
-
-                # print("the answer of ", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
+                # Judge the correctness of the merged result
                 true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
+                # Update costs and reward
                 cost_min += (c1 * length_input + c2 * length_output)
                 cost_ref += c1_judger * length_input + c2_judger * length_output
                 reward = reward + true_or_false * v - k_t * t - (c1 * length_input + c2 * length_output)
                 cal_times += 1
 
-                # print("relationship_checker reward =", reward, "true_or_false =", true_or_false, "cost_min =", cost_min,
-                #       "LLM =", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
                 ttt = str(ttt) + "file_name = " + str(the_file) + " relationship_checker reward = " + str(
                     reward) + " true_or_false = " + str(true_or_false) + " cost_min = " + str(
                     cost_min) + " LLM = " + LLM_name + "\n"
+
+                # If the response is incorrect, use the corrected answer
                 if true_or_false != true_value:
                     result = answer_corrected
-
                     start = result.find('[')
                     end = result.find(']')
-
                     result = result[start + 2:end - 1]
 
-                # print("Checked item =", result) if iter > (iters - print_limit) or iter < print_limit else None
-
+                # Update the current item with the merged result
                 a[item_index] = [result, [min(this_start, next_start), max(this_end, next_end)]]
 
+                # Mark the next item for deletion
                 delete_index.append(item_index + 1)
 
+    # Delete the marked items in reverse order to avoid index issues
     if delete_index:
         delete_index.sort(reverse=True)  #
         for i in delete_index:
             del a[i]
 
+    # Calculate average reward and cost
     if cal_times != 0:
         reward = reward / cal_times
         cost_min = cost_min / cal_times
@@ -508,9 +506,9 @@ def topic_locator(LLM_index, text, item_list):
     global ttt
     cal_times = 0
     LLM_name = LLMs_topic_locator[LLM_index][0]
-    c = (LLMs_topic_locator[LLM_index][1] + LLMs_topic_locator[LLM_index][2]) / 2
-    c1 = LLMs_topic_locator[LLM_index][1] / 1000000
-    c2 = LLMs_topic_locator[LLM_index][2] / 1000000
+
+    c1 = LLMs_topic_locator[LLM_index][1] / 1000000   # input cost
+    c2 = LLMs_topic_locator[LLM_index][2] / 1000000   # output cost
     cost_ref = 0
     cost_min = 0
     reward = 0
@@ -524,46 +522,47 @@ def topic_locator(LLM_index, text, item_list):
             hint = "Please read sentence by sentence and extract the first index related to " + the_item + " and the last index related to " + the_item + " from the above text, and then answer by [first index, last index], remember not to output any other content."
             hint2 = ""
         else:
-            question = "è¯·ä¸€å¥ä¸€å¥åœ°è¯»å¹¶æ‘˜æŠ„å‡ºä»¥ä¸‹æ®µè½ä¸­ä»‹ç»" + the_item + "çš„ç¬¬ä¸€å¥çš„å·ç å’Œä»‹ç»" + the_item + "çš„æœ€åä¸€å¥çš„å·ç " + "â€œ" + text + "â€" + "å¹¶ç”¨[ç¬¬ä¸€å¥çš„å·ç , æœ€åä¸€å¥çš„å·ç ]æ¥å›ç­”ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå·ç ä»¥å¤–çš„å…¶ä»–å†…å®¹"
-            hint = "ä¸€å¥ä¸€å¥åœ°è¯»å¹¶æ‘˜æŠ„å‡ºä»¥ä¸Šæ®µè½ä¸­ä»‹ç»" + the_item + "çš„ç¬¬ä¸€å¥çš„å·ç å’Œä»‹ç»" + the_item + "çš„æœ€åä¸€å¥çš„å·ç " + "å†ç”¨[ç¬¬ä¸€å¥çš„å·ç , æœ€åä¸€å¥çš„å·ç ]æ¥å›ç­”ï¼Œæ³¨æ„ä¸è¦è¾“å‡ºå·ç ä»¥å¤–çš„å…¶ä»–å†…å®¹"
+            question = "ÇëÒ»¾äÒ»¾äµØ¶Á²¢Õª³­³öÒÔÏÂ¶ÎÂäÖĞ½éÉÜ" + the_item + "µÄµÚÒ»¾äµÄºÅÂëºÍ½éÉÜ" + the_item + "µÄ×îºóÒ»¾äµÄºÅÂë" + "¡°" + text + "¡±" + "²¢ÓÃ[µÚÒ»¾äµÄºÅÂë, ×îºóÒ»¾äµÄºÅÂë]À´»Ø´ğ£¬×¢Òâ²»ÒªÊä³öºÅÂëÒÔÍâµÄÆäËûÄÚÈİ"
+            hint = "Ò»¾äÒ»¾äµØ¶Á²¢Õª³­³öÒÔÉÏ¶ÎÂäÖĞ½éÉÜ" + the_item + "µÄµÚÒ»¾äµÄºÅÂëºÍ½éÉÜ" + the_item + "µÄ×îºóÒ»¾äµÄºÅÂë" + "ÔÙÓÃ[µÚÒ»¾äµÄºÅÂë, ×îºóÒ»¾äµÄºÅÂë]À´»Ø´ğ£¬×¢Òâ²»ÒªÊä³öºÅÂëÒÔÍâµÄÆäËûÄÚÈİ"
             hint2 = ""
 
+        # Ask the LLM
         result, run_time = ask(LLM_name, question)
 
-        # length_input = len(question)
-        # length_output = len(result)
-
+        # Extract the indices from the LLM's response
         start = result.rfind('[')
         end = result.rfind(']')
 
         result = result[start:end + 1]
-        result = result.replace('â€', '"').replace('â€œ', '"')
-        # print("the answer of ", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
+        result = result.replace('¡±', '"').replace('¡°', '"')
+
+        # Judge the correctness of the LLM's response
         true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
-        # print("result =", result) if iter > (iters - print_limit) or iter < print_limit else None
+        # Attempt to convert the result into a list of indices
         try:
             result = ast.literal_eval(result)
         except Exception as e:
             print("not successful")
             result = [0, 1]
 
+        # Extract and normalize the corrected answer
         start = answer_corrected.rfind('[')
         end = answer_corrected.rfind(']')
 
         answer_corrected = answer_corrected[start:end + 1]
-        answer_corrected = answer_corrected.replace('â€', '"').replace('â€œ', '"')
-        # print("answer_corrected =", answer_corrected) if iter > (iters - print_limit) or iter < print_limit else None
+        answer_corrected = answer_corrected.replace('¡±', '"').replace('¡°', '"')
+
+        # Attempt to convert the corrected answer into a list of indices
         try:
             answer_corrected = ast.literal_eval(answer_corrected)
         except Exception as e:
             # print("not successful")
             answer_corrected = [2, 3]
 
+        # If the response is incorrect, calculate the Intersection Over Union (IOU) and adjust the result
         if true_or_false != true_value:
-            # print("result =", result) if iter > (iters - print_limit) or iter < print_limit else None
-            # print("answer_corrected =", answer_corrected) if iter > (
-            #             iters - print_limit) or iter < print_limit else None
+
             IOU = iou(result, answer_corrected)
             result = answer_corrected
             k = (IOU * (true_value + true_value) - true_value)
@@ -571,6 +570,7 @@ def topic_locator(LLM_index, text, item_list):
             k = true_value
             IOU = 1
 
+        # Update costs and reward
         cost_min += (c1 * length_input + c2 * length_output)
         cost_ref += c1_judger * length_input + c2_judger * length_output
         reward = reward + k * v - k_t * t - (
@@ -581,15 +581,17 @@ def topic_locator(LLM_index, text, item_list):
         ttt = str(ttt) + "file_name = " + str(the_file) + " topic_locator reward = " + str(
             reward) + " IOU = " + str(IOU) + " cost_min = " + str(cost_min) + " LLM = " + LLM_name + "\n" if iter > (
                     iters - print_limit) or iter < print_limit else None
-        # print("result =", result) if iter > (iters - print_limit) or iter < print_limit else None
+
         try:
             result = ast.literal_eval(result)
         except Exception as e:
             print("not successful")
 
+        # Store the item and its indices in the Index_list
         temp = [the_item, result]
         Index_list.append(copy.deepcopy(temp))
 
+    # Calculate average reward
     if cal_times != 0:
         reward = reward / cal_times
         cost_min = cost_min / cal_times
@@ -599,9 +601,9 @@ def topic_locator(LLM_index, text, item_list):
 def topic_finder(LLM_index, text):
     global ttt
     LLM_name = LLMs_topic_finder[LLM_index][0]
-    c = (LLMs_topic_finder[LLM_index][1] + LLMs_topic_finder[LLM_index][2]) / 2
-    c1 = LLMs_topic_finder[LLM_index][1] / 1000000
-    c2 = LLMs_topic_finder[LLM_index][2] / 1000000
+
+    c1 = LLMs_topic_finder[LLM_index][1] / 1000000   # input cost
+    c2 = LLMs_topic_finder[LLM_index][2] / 1000000   # output cost
     cost_ref = 0
     cost_min = 0
     reward = 0
@@ -610,17 +612,14 @@ def topic_finder(LLM_index, text):
         hint = "read sentence by sentence and determine which items are being sold in the above sentences" + "'" + slice_txt + "'" + 'Only select the items with price, and answer in the format of ["item 1: price 1 (if exist)", "item 2: price 2 (if exist)", "item 3: price 3 (if exist)"] in the order of appearance.'
         hint2 = "Please note not to output items whose prices are not mentioned,"
     else:
-        question = "è¯·åˆ¤æ–­ä»¥ä¸‹æ®µè½åœ¨é”€å”®å“ªäº›å•†å“ï¼Œä»å¤´åˆ°å°¾ä¸€å¥ä¸€å¥åœ°é˜…è¯»" + "â€œ" + text + "â€" + "åªå°†æœ‰ä»·æ ¼çš„å•†å“åç§°æŒ‰å‡ºç°é¡ºåºè¾“å‡ºæˆä¸€ä¸ª['å•†å“1çš„åç§°:å•†å“1çš„ä»·æ ¼', 'å•†å“2çš„åç§°:å•†å“2çš„ä»·æ ¼', 'å•†å“3çš„åç§°:å•†å“3çš„ä»·æ ¼']åˆ—è¡¨"
-        hint = "åˆ¤æ–­ä»¥ä¸Šæ®µè½åœ¨é”€å”®å“ªäº›å•†å“ï¼Œä»å¤´åˆ°å°¾ä¸€å¥ä¸€å¥åœ°é˜…è¯»ï¼Œåªå°†æœ‰ä»·æ ¼çš„å•†å“åç§°æŒ‰å‡ºç°é¡ºåºè¾“å‡ºæˆä¸€ä¸ª['å•†å“1çš„åç§°:å•†å“1çš„ä»·æ ¼', 'å•†å“2çš„åç§°:å•†å“2çš„ä»·æ ¼', 'å•†å“3çš„åç§°:å•†å“3çš„ä»·æ ¼']åˆ—è¡¨"
-        hint2 = "æ³¨æ„ä¸è¦è¾“å‡ºä»·æ ¼æœªæåŠçš„å•†å“ï¼Œ"
+        question = "ÇëÅĞ¶ÏÒÔÏÂ¶ÎÂäÔÚÏúÊÛÄÄĞ©ÉÌÆ·£¬´ÓÍ·µ½Î²Ò»¾äÒ»¾äµØÔÄ¶Á" + "¡°" + text + "¡±" + "Ö»½«ÓĞ¼Û¸ñµÄÉÌÆ·Ãû³Æ°´³öÏÖË³ĞòÊä³ö³ÉÒ»¸ö['ÉÌÆ·1µÄÃû³Æ:ÉÌÆ·1µÄ¼Û¸ñ', 'ÉÌÆ·2µÄÃû³Æ:ÉÌÆ·2µÄ¼Û¸ñ', 'ÉÌÆ·3µÄÃû³Æ:ÉÌÆ·3µÄ¼Û¸ñ']ÁĞ±í"
+        hint = "ÅĞ¶ÏÒÔÉÏ¶ÎÂäÔÚÏúÊÛÄÄĞ©ÉÌÆ·£¬´ÓÍ·µ½Î²Ò»¾äÒ»¾äµØÔÄ¶Á£¬Ö»½«ÓĞ¼Û¸ñµÄÉÌÆ·Ãû³Æ°´³öÏÖË³ĞòÊä³ö³ÉÒ»¸ö['ÉÌÆ·1µÄÃû³Æ:ÉÌÆ·1µÄ¼Û¸ñ', 'ÉÌÆ·2µÄÃû³Æ:ÉÌÆ·2µÄ¼Û¸ñ', 'ÉÌÆ·3µÄÃû³Æ:ÉÌÆ·3µÄ¼Û¸ñ']ÁĞ±í"
+        hint2 = "×¢Òâ²»ÒªÊä³ö¼Û¸ñÎ´Ìá¼°µÄÉÌÆ·£¬"
 
+    # Ask the LLM
     result, run_time = ask(LLM_name, question)
 
-    # length_input = len(question)
-    # length_output = len(result)
-
-    # print("result=", result) if iter > (iters - print_limit) or iter < print_limit else None
-
+    # Extract the content within brackets from the LLM's response
     try:
         first_bracket_index = result.rfind('[')
         last_bracket_index = result.rfind(']')
@@ -630,34 +629,33 @@ def topic_finder(LLM_index, text):
     except Exception as e:
         print("not successful")
 
-    # print("the answer of ", LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
+    # Judge the correctness of the LLM's response
     true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
     answer_corrected = answer_corrected.replace("\n", "")
     result = result.replace("\n", "")
 
-    # print("answer_corrected 5=", answer_corrected) if iter > (iters - print_limit) or iter < print_limit else None
-    # print("result 5=", result) if iter > (iters - print_limit) or iter < print_limit else None
-
+    # If the response is incorrect but matches the corrected answer after removing spaces, mark it as correct
     if true_or_false != true_value:
         if result.replace(" ", "") == answer_corrected.replace(" ", ""):
             true_or_false = true_value
         result = answer_corrected
 
+    # Update costs and reward
     cost_min += (c1 * length_input + c2 * length_output)
     cost_ref += c1_judger * length_input + c2_judger * length_output
     reward = true_or_false * v - k_t * t - (
                 c1 * length_input + c2 * length_output)
 
-    # print("topic_finder reward =", reward, "true_or_false =", true_or_false, "cost_min =", cost_min, "LLM =",
-    #       LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
     ttt = str(ttt) + "file_name = " + str(the_file) + " topic_finder reward = " + str(
         reward) + " true_or_false = " + str(true_or_false) + " cost_min = " + str(
         cost_min) + " LLM = " + LLM_name + "\n"
 
+    # Check if the result contains brackets
     contains_bracket = '[' in result
 
     if contains_bracket:
+        # Extract the content within the brackets
         first_bracket_index = result.rfind('[')
         last_bracket_index = result.rfind(']')
 
@@ -672,7 +670,7 @@ def topic_finder(LLM_index, text):
         if "-" in retained_content:
             retained_content = retained_content.replace("-", ",")
 
-        retained_content = retained_content.replace('â€', '"').replace('â€œ', '"').replace('ï¼š', ':').replace('ï¼Œ', ',')
+        retained_content = retained_content.replace('¡±', '"').replace('¡°', '"').replace('£º', ':').replace('£¬', ',')
         print("retained_content =", retained_content)
         try:
             item_list = ast.literal_eval(retained_content)
@@ -680,17 +678,19 @@ def topic_finder(LLM_index, text):
             print("not successful")
 
         try:
-            item_list = [re.split(r'[ï¼š:]', item)[0] for item in item_list]
+            item_list = [re.split(r'[£º:]', item)[0] for item in item_list]
         except Exception as e:
             print("not successful")
 
     else:
-        temp = re.split(r'[ï¼š:-]', result)
+        # If no brackets are found, split the result by colons or hyphens
+        temp = re.split(r'[£º:-]', result)
         item_list = []
         for index, element in enumerate(temp):
             if index % 2 == 0 and index > 0:
                 item_list.append(copy.deepcopy(element))
 
+    # Remove duplicates from the item list
     seen = set()
     item_list = [x for x in item_list if not (x in seen or seen.add(x))]
 
@@ -700,15 +700,16 @@ def topic_finder(LLM_index, text):
 def content_organizer(LLM_index, Text, The_item):
     global ttt
     LLM_name = LLMs_content_organizer[LLM_index][0]
-    c = (LLMs_content_organizer[LLM_index][1] + LLMs_content_organizer[LLM_index][2]) / 2
-    c1 = LLMs_content_organizer[LLM_index][1] / 1000000
-    c2 = LLMs_content_organizer[LLM_index][2] / 1000000
-    cost_ref = 0
+
+    c1 = LLMs_content_organizer[LLM_index][1] / 1000000   # input cost
+    c2 = LLMs_content_organizer[LLM_index][2] / 1000000   # output cost
+    cost_ref = 0   # initialization
     cost_min = 0
     reward = 0
     cal_times = 0
     Result = ""
 
+    # Iterate through each item and corresponding text
     for ii in range(len(The_item)):
         text = Text[ii]
         the_item = The_item[ii]
@@ -718,21 +719,21 @@ def content_organizer(LLM_index, Text, The_item):
             hint = "Please extract the sentences related to " + my_item + ' from the above document through 4 categories: (1) Opening, (2) Order Urging, (3) Price, (4) Product Description. Remember to answer in the format of - [sentence index, sentence]'
             hint2 = ""
         else:
-            question = "è¯·é€šè¿‡4ä¸ªç±»åˆ«ï¼š**ï¼ˆ1ï¼‰å•†å“å¼€åœº**ã€**ï¼ˆ2ï¼‰å•†å“ä»·æ ¼**ã€**ï¼ˆ3ï¼‰å¼•å¯¼è´­ä¹°**ã€**ï¼ˆ4ï¼‰å•†å“ä»‹ç»å’Œå–ç‚¹æè¿°**ï¼Œå¯¹ä»¥ä¸‹æ–‡æ¡£ä¸" + the_item + "æœ‰å…³çš„éƒ¨åˆ†è¿›è¡Œæ‘˜æŠ„" + "â€œ" + text + "â€" + 'ï¼Œæ³¨æ„ä»¥- [ç¼–å·, "å¥å­"]çš„æ ¼å¼é€è¡Œæ‘˜æŠ„åœ¨4ä¸ªç±»åˆ«ä¸‹'
-            hint = "é€šè¿‡4ä¸ªç±»åˆ«ï¼š**ï¼ˆ1ï¼‰å•†å“å¼€åœº**ã€**ï¼ˆ2ï¼‰å•†å“ä»·æ ¼**ã€**ï¼ˆ3ï¼‰å¼•å¯¼è´­ä¹°**ã€**ï¼ˆ4ï¼‰å•†å“ä»‹ç»å’Œå–ç‚¹æè¿°**ï¼Œå¯¹ä»¥ä¸Šæ–‡æ¡£ä¸" + the_item + "æœ‰å…³çš„éƒ¨åˆ†è¿›è¡Œæ‘˜æŠ„" + 'ï¼Œæ³¨æ„ä»¥- [ç¼–å·, "å¥å­"]çš„æ ¼å¼é€è¡Œæ‘˜æŠ„åœ¨4ä¸ªç±»åˆ«ä¸‹'
+            question = "ÇëÍ¨¹ı4¸öÀà±ğ£º**£¨1£©ÉÌÆ·¿ª³¡**¡¢**£¨2£©ÉÌÆ·¼Û¸ñ**¡¢**£¨3£©Òıµ¼¹ºÂò**¡¢**£¨4£©ÉÌÆ·½éÉÜºÍÂôµãÃèÊö**£¬¶ÔÒÔÏÂÎÄµµÓë" + the_item + "ÓĞ¹ØµÄ²¿·Ö½øĞĞÕª³­" + "¡°" + text + "¡±" + '£¬×¢ÒâÒÔ- [±àºÅ, "¾ä×Ó"]µÄ¸ñÊ½ÖğĞĞÕª³­ÔÚ4¸öÀà±ğÏÂ'
+            hint = "Í¨¹ı4¸öÀà±ğ£º**£¨1£©ÉÌÆ·¿ª³¡**¡¢**£¨2£©ÉÌÆ·¼Û¸ñ**¡¢**£¨3£©Òıµ¼¹ºÂò**¡¢**£¨4£©ÉÌÆ·½éÉÜºÍÂôµãÃèÊö**£¬¶ÔÒÔÉÏÎÄµµÓë" + the_item + "ÓĞ¹ØµÄ²¿·Ö½øĞĞÕª³­" + '£¬×¢ÒâÒÔ- [±àºÅ, "¾ä×Ó"]µÄ¸ñÊ½ÖğĞĞÕª³­ÔÚ4¸öÀà±ğÏÂ'
             hint2 = ""
 
+        # Ask the LLM
         result, run_time = ask(LLM_name, question)
 
-        # length_input = len(question)
-        # length_output = len(result)
-
+        # Extract the relevant part of the result
         star_index = result.find('*')
         bracket_index = result.rfind(']')
 
         if star_index != -1 and bracket_index != -1:
             result = result[star_index: bracket_index + 1]
 
+        # Judge the correctness of the LLM's response
         true_or_false, answer_corrected = judge(LLM_judger, question, result, hint, hint2)
 
         star_index = answer_corrected.find('*')
@@ -741,10 +742,8 @@ def content_organizer(LLM_index, Text, The_item):
         if star_index != -1 and bracket_index != -1:
             answer_corrected = answer_corrected[star_index: bracket_index + 1]
 
+        # If the response is incorrect, calculate similarity and adjust the result
         if true_or_false != true_value:
-            # print("result =", result) if iter > (iters - print_limit) or iter < print_limit else None
-            # print("answer_corrected =", answer_corrected) if iter > (
-            #             iters - print_limit) or iter < print_limit else None
             simi = similarity(result, answer_corrected)
             result = answer_corrected
             f_value = -10 * true_value
@@ -755,16 +754,17 @@ def content_organizer(LLM_index, Text, The_item):
         Result += the_item + "\n"
         Result += result + "\n"
 
+        # Update costs and reward
         cost_min += (c1 * length_input + c2 * length_output)
         cost_ref += c1_judger * length_input + c2_judger * length_output
         reward = reward + k * v - k_t * t - (c1 * length_input + c2 * length_output)
         cal_times += 1
-        # print("content_organizer reward =", reward, "simi =", simi, "cost_min =", cost_min, "LLM =",
-        #       LLM_name) if iter > (iters - print_limit) or iter < print_limit else None
+
         ttt = str(ttt) + "file_name = " + str(the_file) + " content_organizer reward = " + str(
             reward) + " simi = " + str(
             simi) + " cost_min = " + str(cost_min) + " LLM = " + LLM_name + "\n"
 
+    # Calculate average reward
     if cal_times != 0:
         reward = reward / cal_times
         cost_min = cost_min / cal_times
@@ -818,6 +818,7 @@ def update(task, *args):
         Reward = [0] * n_LLMs
         Cost = [0] * n_LLMs
 
+        # Greedy update
         for i in range(n_LLMs - 1, -1, -1):
             args = (i, *args[1:])
 
@@ -1029,8 +1030,7 @@ def update(task, *args):
 
     return copy.deepcopy(output)
 
-### main
-
+### main()
 final_txt = ""
 Weight = []
 Weight.append(copy.deepcopy(weight_list))
@@ -1124,8 +1124,7 @@ for iter in range(iters):
 
             first_time = False
 
-            ### Uncomment to replace the weakest LLM with gpt-4o-mini
-
+            ### Uncomment to replace the weakest LLM with gpt-4o-mini  ##
             # LLMs_topic_finder[random_min_indices[0]] = ["gpt-4o-mini", 0.15, 0.6]
             # LLMs_topic_locator[random_min_indices[1]] = ["gpt-4o-mini", 0.15, 0.6]
             # LLMs_relationship_checker[random_min_indices[2]] = ["gpt-4o-mini", 0.15, 0.6]
