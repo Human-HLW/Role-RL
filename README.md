@@ -6,11 +6,11 @@ This project implements a reinforcement learning (RL) framework to dynamically s
 The program uses a Q-learning algorithm to learn the best LLM for each role based on the rewards and costs associated with their performance. The framework is designed to handle multiple tasks and adapt to changes in task difficulty over time.
 
 ## Key Components
-LLM Selection: The program selects from a predefined list of LLMs, each with associated input and output costs.
+1. LLM Selection: The program selects from a predefined list of LLMs, each with associated input and output costs.
 
-Roles:
+2. Roles:
 
-Topic Finder: Identifies items being sold in a given text.
+  -- Topic Finder: Identifies items being sold in a given text.
 
 Topic Locator: Locates the sentences related to each identified item.
 
