@@ -16,7 +16,7 @@ import pandas as pd
 url = "https://api.ainewserver.com/v1/chat/completions"
 
 headers = {
-    "Authorization": "Bearer sk-xpqaolSdwUgRVyCV094cBc08A78142CaB060291f5231Ee85",
+    "Authorization": "Bearer sk-xxx",
     "content-type": "application/json"
 }
 
@@ -65,7 +65,7 @@ LLMs = [["llama3-8b-8192", 0.08, 0.08], ["mixtral-8x7b-32768", 0.7, 0.7], ["comm
         ["gpt-4o-2024-05-13", 5, 15], ["gemini-1.5-pro", 7, 21], ["claude-3-opus-20240229", 15, 75]]
 
 # Define the initial LLM board member
-# LLM_judger = "claude-3-opus"
+# LLM_judger = "claude-3-opus-20240229"
 # c1_judger = 15 / 1000000
 # c2_judger = 75 / 1000000
 # weight_list = [0, 0, 0, 0, 0, 1]     ###
