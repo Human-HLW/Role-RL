@@ -1,0 +1,303 @@
+Montpelier shooting
+(1) Future Plans:
+[22337, "They're also asking anyone who may know where he is to contact them."]
+
+(2) Assumptions:
+[22309, 'WCAX News is learning the victim and the shooter may have been friends.']
+[22310, 'It appears to have been a night out at the bar gone wrong.']
+[22313, "'He may have gotten on a bus yesterday morning in White River Junction, a Greyhound bus, heading south,' said Maj. Glenn Hall, Vermont State Police."]
+[22335, 'Authorities say the bus Caballero may have gotten on was headed for New York City.']
+[22336, "They're unsure if he got off at a stop before that and are now reaching out to other states to help."]
+
+(3) Opinions:
+[22329, "Neighbors say they've dealt with constant problems from the property in the past."]
+[22330, "'Drag racing up and down."]
+[22331, "Cars constantly in and out,' said a neighbor."]
+
+(4) Facts: 
+[22307, 'A murder suspect remains on the run following a weekend shooting in Montpelier.']
+[22308, 'It left a former Vermont Frost Heaves basketball player dead.']
+[22311, 'Jayveon Caballero, 29, is wanted for second-degree murder.']
+[22312, "Nearly 48 hours after he allegedly shot a man to death in Montpelier, police still don't know where he is."]
+[22314, 'Police say Caballero fatally shot Markus Austin, 33.']
+[22315, "A friend told investigators Austin was invited out with friends to join Caballero, who he called 'my boy Jay.'"]
+[22316, 'But at the end of the night a fight broke out.']
+[22317, "'We do know from the investigation that there was an altercation outside Gusto's bar in Barre,' said Hall."]
+[22318, "The alleged shooter's girlfriend, Desiree Cary, 22, told police that she got mad and hit Austin as they left the bar."]
+[22319, 'Austin allegedly hit her back, injuring her jaw bone.']
+[22320, 'Court documents show Caballero appeared upset and then went to find Austin at a Barre Street apartment.']
+[22321, "'He walked over to the victim's car and shot him and walked back,' said Jeff Sarpong, witness."]
+[22322, 'Sarpong says he woke up to someone yelling outside and a gunshot, and then looked out his window.']
+[22323, "'I see him turn around, wave with a gun,' said Sarpong."]
+[22324, 'He said Caballero appeared to show sympathy just seconds after pulling the trigger.']
+[22325, "'He then just kept on asking, 'Are you OK?''"]
+[22326, 'Sarpong said.']
+[22327, "'After he noticed what he had done and that he wasn't responsive, he just drove away,' said Sarpong."]
+[22328, "In an attempt to locate Caballero, police raided his apartment early Monday morning but he wasn't there."]
+[22332, "Late Sunday, Caballero's girlfriend was taken into custody on charges unrelated to the shooting."]
+[22333, "'She was a target of an ongoing drug investigation,' said Hall."]
+[22334, 'Meanwhile, the search for Caballero continues.']
+
+Daycare Abuse Investigation
+(1) Future Plans:
+[22340, "She is scheduled to return to court on Dec. 26."]
+
+(2) Assumptions:
+[22346, "Later in the day, in what appears to have been an effort to cover up what had happened, prosecutors said Cosme asked the father of one of the burned children whether the child had been injured at home."]
+
+(3) Opinions:
+[22340, "In an email, daycare spokeswoman Lissa Druss Christman said: 'The well-being of our students is paramount."]
+[22347, "Cosme's defense attorney said in court his client 'screwed up' but did not act out of malice, citing her 12 years working with young c"]
+
+(4) Facts:
+[22338, "Two women were charged in connection to an incident at a Logan Square daycare in which five toddlers were injured with hot glue.Lizandra Cosme, 32, of Chicago, was arrested Sunday and charged with five counts of aggravated battery of a child under 13 years old causing great bodily harm."]
+[22339, "A Cook County judge ordered her held without bail on Monday."]
+[22340, "Cosme allegedly 'caused injury' to the five 2-year-old children - three girls and two boys - on Dec. 1 at the Children's Learning Place in the 3100-block of West Fullerton, authorities said.A second woman, Susana D. Gonzalez, 27, of Melrose Park, was charged with five misdemeanor counts of causing the circumstances of child endangerment, police said."]
+[22341, "Upon learning of the alleged incident, we notified DCFS immediately and terminated two of our employees."]
+[22342, "We are currently working with investigators."]
+[22343, "The state Department of Children and Family Services is investigating allegations of abuse , an agency spokeswoman said.Cosme brought the glue gun to the daycare to use on a Christmas project, prosecutors said during a hearing in a Cook County court."]
+[22344, "Cosme, who had 16 children under her care, was captured on surveillance video applying the glue gun directly to the hands and arms of five 2-year-old children."]
+[22345, "An assistant in the room with her at the time allegedly stood idly by, laughing with Cosme as this was taking place."]
+[22346, "Each of the child victims winced and some whined at the hot glue gun application,' a prosecutor said, adding that Cosme tried to apply neosporin to one of them after she saw circular burn marks starting to appear."]
+[22347, "Her actions were discovered, they said in court, after the mother of another child, who is an ER physician, noticed the burns and called the daycare director to inquire about what happened, demanding that surveillance footage be reviewed."]
+
+Senate report on data industry
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[21981, 'The Senate Commerce Committee issued a report on the multibillion dollar data industry today, and the accompanying testimony and findings are chilling.']
+
+(4) Facts:
+[21982, 'Over the last year, the Committee queried nine of the major data companies and invited testimony from privacy groups.']
+[21983, "What's emerged is that collectively, these companies own an astounding number of consumer profiles, and they're selling deeply personal information — sometimes to identity thieves — in categories like rape victims, people with cancer, and 'Rural and Barely Making It.'"]
+[21984, 'One data broker is selling lists of addresses and names of consumers suffering from conditions including cancer, diabetes, and depression, and the medications used for those conditions; another is offering lists naming consumers, their credit scores, and specific health conditions.']
+[21985, "Of the nine companies the Committee approached — Acxiom, Experian, Epsilon, Reed Elsevier, Equifax, TransUnion, Rapleaf, Spokeo, and Datalogix — 'some' were forthcoming."]
+[21986, 'The report mentions Equifax as being particularly cooperative.']
+[21987, "Others weren't."]
+[21988, "Acxiom, which according to the report has 'multi-sourced insight into approximately 700 million consumers worldwide,' Experian, and Epsilon refused to explain how they collected their data or who they were selling it to, citing confidentiality clauses in their contracts."]
+[21989, '(The Attorney General of New Jersey recently released documents indicating Acxiom sold another company, Dataium, 400,000 dossiers for a mere $2,500.)']
+[21990, 'In October, Experian admitted that it sold personal information — including social security numbers and banking information — through a subsidiary to an alleged online identity theft ring.']
+[21991, 'That same subsidiary, Court Ventures, also appeared on a list of companies that requested private information about gun permit holders in Virginia.']
+[21992, "Equifax told the Committee they had information as specific as: Whether a consumer purchased a particular soft drink or shampoo product in the last six months Whether they use laxatives or yeast infection products How many OB/GYN doctor visits they've had within the last 12 months How many miles they traveled in the last 4 weeks The number of whiskey drinks they consumed in the past 30 days."]
+[21993, "That data is then sorted into a dictionary with more than 75,000 data points like, 'whether the individual or household is a pet owner, smokes, has a propensity to purchase prescriptions through the mail, donates to charitable causes, is active military or a veteran, holds certain insurance products including burial insurance or juvenile life insurance, enjoys reading romance novels, or is a hunter.'"]
+[21994, 'Privacy groups testified that the companies also sell lists of rape victims and people with HIV and AIDs.']
+[21995, "This fine-tuned data collection isn't new — last year, the Times reported a story of how Target figured out a teenager was pregnant before her father did."]
+[21996, "Even in 2007, the Times reported on a company selling lists like, 'Oldies but Goodies,' 500,000 gamblers over 55 years old, for 8.5 cents each, and one list that said: 'These people are gullible."]
+[21997, "They want to believe that their luck can change.'"]
+[21998, 'But their databases are growing infinitely, and there are still no relevant consumer protection laws in place to protect individual privacy.']
+[21999, "And despite recent transparency efforts — like Acxiom's aboutthedata.com — that also means the consumers on these lists still have no right to find out what information is out there, or who is buying it."]
+
+Trump-Kim summit
+(1) Future Plans:
+[22005, 'Instead of doing that you could have the best hotels in the world right there.']
+
+(2) Assumptions:
+[22009, "[Trump shows Kim video that imagines North Korea glowing with electric lights: Watch] Despite telling Kim he could 'do a smaller version' of the proposal, Trump expressed optimism that the North Korean head of state was interested in the ideas presented to him."]
+[22010, "'Although I tell you what, he looked at that tape, he looked at that iPad, and I'm telling you they really enjoyed it I believe,' Trump added."]
+
+(3) Opinions:
+[22000, "President Trump on Tuesday touted North Korea's untapped property market potential, and said one benefit North Korea would see if it opens up its economy could be placing the 'best hotel in the world' on its coastline."]
+[22004, "Wouldn't that make a great condo?"]
+[22006, 'Think of it from a real estate perspective, you have South Korea, you have China, and they own the land in the middle, how bad is that, right?']
+[22007, "It's great,' Trump said."]
+
+(4) Facts:
+[22001, "'They have great beaches."]
+[22002, "You see that whenever they're exploding their cannons into the ocean,' Trump said during a marathon press conference held after the conclusion of his historic summit with North Korean leader Kim Jong Un in Singapore."]
+[22003, "'I said, 'Boy, look at that view."]
+[22008, 'The U.S. delegation, using economic development as an incentive for their North Korea counterparts to enter denuclearization talks, showed Kim a video simulation of possible projects that could take place in the rogue nation.']
+[22011, 'In the wide-ranging solo press conference given after Kim had already left the Singapore, Trump announced North Korea had agreed to relinquish its nuclear weapons and was prepared to rewrite history to push for a lasting peace and complete denuclearization of the Korean Peninsula.']
+[22012, "[Related: Trump emerges from 'very good' private meeting with Kim] Trump is expected to leave Singapore at 7 p.m. local time."]
+
+Pittsfield prostitution ring
+(1) Future Plans:
+[22049, 'The investigation remains ongoing and additional charges may be coming.']
+
+(2) Assumptions:
+[22036, 'Police were told some of the women Lambach had recruited used to be his foster children.']
+[22040, 'That witness said it appeared several of the women in those photos were very young and estimated the age of one at about 15.']
+[22042, 'Another witness told police Lambach may have been involved in prostitution and trafficking for about 10 years.']
+
+(3) Opinions:
+No sentences fit this category.
+
+(4) Facts:
+[22013, 'Anyone with information regarding this case is asked to call Pittsfield Police Officer Brenna Dorr at 413-448-9700, ext 384.']
+[22014, 'PITTSFIELD — Two men are facing charges for allegedly participating in a citywide prostitution ring involving multiple women — one of whom may have been as young as 15 — who were allegedly plied with drugs and threats.']
+[22015, 'Joseph E. Van Wert, 65, of Becket, and Randy W. Lambach, 45, of Pittsfield, are being held on charges including human trafficking pending dangerousness hearing Nov. 29 to determine if bail should be set and in what amount.']
+[22016, 'The investigation began in the spring of 2017 after police began receiving calls and complaints regarding apparent increases in prostitution throughout the city.']
+[22017, 'Most of the activity seemed to be centered around the areas of First, Adam, North, Linden and Wahconah streets, police said.']
+[22018, "Many of the women had been recruited by a white male named 'Randy.'"]
+[22019, 'Randy would seek out women with a drug addiction, photograph them and post advertisements online, seeking clients for sexual services, police were told.']
+[22020, "While conducting patrols around First and Second streets, police interviewed multiple women, many of whom admitted to being prostitutes, but declined to identify who 'tricked them out.'"]
+[22021, "One told police she didn't 'street-walk,' but instead got her 'dates' through ads on backpage.com."]
+[22022, "Police also began receiving reports of suspected prostitution from a North Street senior living facility, where Randy had driven at least five women to and from Van Wert's third-floor apartment."]
+[22023, 'Police were provided the plate number of the blue station wagon used to shuttle the women and identified Lambach as its owner.']
+[22024, 'And witnesses identified Lambach via photographs as the man they knew as Randy.']
+[22025, 'One woman told police she was prostituted by Lambach for about a year and had sex with him for money or to pay off a debt on multiple occasions.']
+[22026, 'Lambach photographed her and placed advertisements on backpage.com.']
+[22027, 'Men would contact Lambach via cellphone and a date, time, location and fee would be agreed upon.']
+[22028, 'Rates were typically $80 for 30 minutes or between $160 and $200 for an hour.']
+[22029, 'Lambach would then contact the woman and drive her to the appointment, police said.']
+[22030, 'He would sometimes wait outside or watch from a closet or doorway.']
+[22031, 'He would collect the money and keep anywhere from 50 to 90 percent of it.']
+[22032, 'Sometimes he would keep all of the money and pay the woman with a few bags of heroin or some crack cocaine instead.']
+[22033, 'One of the women told police Lambach would drive her to appointments outside of Pittsfield, and on at least one occasion, outside of the state.']
+[22034, 'He allegedly recruited and transported about 10 other women in a similar manner and provided narcotics to those that used drugs to get them high before having sex.']
+[22035, "Lambach allegedly threatened to turn the women in if they stopped working for him, and warned them the police would not believe them because they were, 'drug addicts and whores.'"]
+[22037, "He would host meetings between women and customers at Van Wert's apartment."]
+[22038, 'Van Wert allegedly paid for sex with the women and was paid by Lambach in cash and drugs for use of his apartment.']
+[22039, 'Another witness told police that Lambach approached her in August, telling her he ran a prostitution ring and showed her several photographs of women he said worked for him.']
+[22041, 'Lambach allegedly said he also drives women to Springfield, where they prostitute themselves from a strip club.']
+[22043, 'Other witnesses told police Lambach would threaten the women if he thought they were giving information to the police.']
+[22044, 'By mid-November, police felt they had enough probable cause to arrest the men.']
+[22045, 'Lambach was picked up without incident about 4 p.m. Nov. 14.']
+[22046, 'Van Wert was arrested at his apartment shortly thereafter.']
+[22047, 'Lambach has pleaded not guilty in Central Berkshire District Court to four counts of human trafficking.']
+[22048, 'Van Wert has pleaded not guilty to conspiracy to commit human trafficking, deriving support from prostitution, maintaining a house of prostitution and sexual conduct for a fee.']
+[22050, "The Pittsfield Police Department detective bureau, anti-crime unit, drug unit as well as members of the state police detective unit assigned to the District Attorney's Office, are assisting with this investigation."]
+[22051, 'Reach Bob Dunn at bdunn@berkshireeagle.com, at @BobDunn413 on Twitter and 413-496-6249.']
+
+Obituary of Fabio Sementilli
+(4) Facts:
+[22052, 'It is with great sadness MODERN SALON reports the passing of Coty Professional Beauty Vice President of Education Fabio Sementilli, who died suddenly and tragically Monday evening January 23, 2017, at his Woodland Hills home.']
+[22053, 'His death leaves a devastated family in Los Angeles and Toronto and thousands of bereft professional brothers and sisters all over the world.']
+[22054, 'Arrests have been made.']
+[22055, 'A champion competitor, the Canadian-born Semintelli has used his success to give back.']
+[22056, "He was the heart behind Wella's Hairdressers at Heart program and, as reported in MODERN in 2012, 'Humor, gratitude and paying it forward guide Fabio Sementilli's approach to life and work.'"]
+[22057, 'Sementilli, who was 49 years old at the time of his death, mentored tens of thousands of hairdressers with a hands-on approach either on a one-to-one basis or on a grander scale.']
+[22058, "Among his mentors was his sister Mirella Rota Sementilli, who he once told MODERN was 'the best hairdresser in the world.'"]
+[22059, 'Sementilli was continuously available to share advice and direction to the thousands of salon professionals he touched on a daily basis.']
+[22060, 'He was always there with a thought or quote to just simplify matters.']
+[22061, "His favorite quote was his own: 'Being a leader is not about age; instead, it's all about attitude toward others.'"]
+[22062, "Some of our favorite Sementilli quotes that we've gathered over the years: ON HAPPINESS: 'To be truly happy, you must be ready to give 100% and expect nothing in return.'"]
+[22063, "ON LEADERSHIP: 'Leadership is not about a title."]
+[22064, "It's about attitude…the right attitude.'"]
+[22065, "ON ATTITUDE: 'You must have a positive attitude."]
+[22066, "Surround yourself with people who add to your life who are positive and have a great attitude.'"]
+[22067, "ON INTEGRITY: 'You need to make sure you have integrity."]
+[22068, "Make sure it's with your clients, friends and co-workers."]
+[22069, "ON MENTORSHIP: 'There are so many great hairdressers out there, and the best way to be successful is to give it away and pass on to the next generation.'"]
+[22070, "ON VISION: 'It's more than just having an idea."]
+[22071, "It's not enough."]
+[22072, "It's taking that vision and making it come to life...following through.'"]
+[22073, "PAYING IT FORWARD: 'The next level of greatness is about being a human."]
+[22074, "We are all in the same business - we must pay it forward.'"]
+[22075, 'There are very few details available at this point, but we will continue to update this report.']
+
+(3) Opinions:
+[22076, 'We ask you to share your thoughts and memories of Fabio Sementilli.']
+[22077, 'He was a special person in our industry.']
+
+Donald Trump's media criticism
+(1) Future Plans:
+[22097, "He even suggested he would take away its reporters' credentials."]
+
+(2) Assumptions:
+[22084, "In the article, colleagues who spoke on the condition of anonymity described Trump as 'exhausted, frustrated and still bewildered by fine points of the political process.'"]
+[22085, "'The failing @nytimes, which never spoke to me, keeps saying that I am saying to advisers that I will change."]
+
+(3) Opinions:
+[22078, "'My rallies are not covered properly by the media,' Donald Trump tweeted."]
+[22082, 'Their reporting is fiction.']
+[22083, "The media protects Hillary!'"]
+[22088, "'She is not a talented person or politician."]
+[22089, "The dishonest media refuses to expose!'"]
+[22091, "I am not only fighting Crooked Hillary, I am fighting the dishonest and corrupt media and her government protection process."]
+[22092, "People get it!'"]
+[22095, 'They never discuss the real message and never show crowd size or enthusiasm.']
+[22098, "'When they write dishonest stories we should be a little bit tough,' Trump said at his rally in Fairfield, Connecticut."]
+[22100, 'Their stories about me always quote non-existent unnamed sources.']
+[22101, "Very dishonest!'"]
+
+(4) Facts:
+[22079, "| Getty Trump blames 'disgusting' media: 'I would be beating Hillary by 20%' In a series of tweets Sunday, Donald Trump launched a new tirade against the media, calling it 'disgusting' and blaming it for his drop in polls."]
+[22080, "His latest tweet storm first targeted The New York Times, which published an article Saturday about the GOP nominee's allegedly failing campaign, but quickly expanded as an indictment of the media in general."]
+[22081, "Story Continued Below 'The failing @nytimes talks about anonymous sources and meetings that never happened."]
+[22086, "False, I am who I am-never said,' Trump tweeted."]
+[22087, "The GOP nominee later tweeted Sunday afternoon saying Hillary Clinton is 'being protected by the media.'"]
+[22090, 'The tweet said.']
+[22093, "Trump's relationship with the news media has been shaky, at times denying reporters credentials to cover his rallies, including those from POLITICO, BuzzFeed and The Washington Post."]
+[22094, "If the disgusting and corrupt media covered me honestly and didn't put false meaning into the words I say, I would be beating Hillary by 20% — Donald J. Trump (@realDonaldTrump) August 14, 2016 My rallies are not covered properly by the media."]
+[22096, "At a rally on Saturday, hours after The New York Times article was released, Trump said 'the newspaper is going to hell.'"]
+[22099, "He also tweeted yesterday: 'The failing @nytimes has become a newspaper of fiction."]
+
+Nirvana's first concert photos
+(1) Future Plans:
+- [22115, 'After a successful stretch on the festival circuit, limited theatrical run and HBO premiere, Montage of Heck is set to return to movie theaters starting August 7th.']
+
+## (2) Assumptions:
+- [22105, "'I had no idea that those were during Nirvana's first concert,' Poukkula tells Rolling Stone."]
+- [22106, "'My dad showed me them a while back, but he never mentioned that's what was going on in the photos.'"]
+- [22108, "I didn't realize it was such a historical thing."]
+
+## (3) Opinions:
+- [22109, "I thought they were just cool pictures of my dad and Kurt jamming together."]
+
+## (4) Facts:
+- [22102, "Rare photographs from Nirvana's first concert in March 1987 have been unearthed and shared by an unlikely source: Maggie Poukkula, the 19-year-old daughter of Tony Poukkula, a member of Seattle band Laytem who grew up with Kurt Cobain and hosted the fledging outfit's first show in his basement."]
+- [22103, "Related PHOTOS: No Apologies: All 102 Nirvana Songs Ranked RS tackles the complete catalog of the band that defined the Nineties and made the world a lot noisier Last week, Poukkula tweeted a photo strip featuring three snapshots from the 1987 gig in Raymond, Washington, along with the caption, 'Pictures of my dad and Kurt Cobain playing together back in the day.'"]
+- [22104, "At the time, Nirvana's lineup consisted of Cobain, bassist Krist Novoselic and drummer Aaron Burckhard, though that night, Poukkula reportedly joined the outfit on guitar for, at least, two Led Zeppelin covers."]
+- [22107, 'I found out because of all the articles.']
+- [22110, "Poukkula said she found the photos tucked away inside her father's biographies of Cobain and Nirvana."]
+- [22111, "According to an incomplete set list from the show, Nirvana jammed on covers of Led Zeppelin's 'Heartbreaker' and 'How Many More Times,' but also performed nascent versions of 'Aero Zeppelin,' 'Mexican Seafood,' 'Pen Cap Chew,' 'Hairspray Queen,' 'Spank Thru' and 'If You Must.'"]
+- [22112, "A recording of the band's 'Heartbreaker' jam appeared on the 2004 box set, With the Lights Out, while a bootleg version of 'If You Must' is available on YouTube."]
+- [22113, "Poukkula's shots come on the heels of a deluge of rare Cobain and Nirvana artifacts, many of which were incorporated into Brett Morgen's acclaimed documentary, Montage of Heck."]
+- [22114, "Morgen was given unprecedented access to Cobain's archives, comprising mountains of notebooks and hours of never-before-heard audio cassette tapes, which featured eerie Beatles covers and the noise collage that gave the film its title."]
+
+Tesla going private
+(1) Future Plans:
+[22132, "Another question is what the 'appropriate next steps' are, though that's probably the imminent formation of a committee to evaluate the bid."]
+
+(2) Assumptions:
+[22123, "But the board's statement leaves open the crucial question of whether they were satisfied that—as Musk's surprise tweet put it—he had enough backing to assert 'funding secured.'"]
+[22131, "News of a takeover would certainly be considered material, yet it wasn't disclosed until Musk's tweet on Tuesday."]
+
+(3) Opinions:
+[22116, "A statement from Tesla's board members on Wednesday raises further questions following the shock tweet from Elon Musk that he wants to take the auto maker private."]
+[22129, "Another crucial question raised by the statement is the timing."]
+[22133, "What was left out of the statement also is worth considering."]
+[22134, "For instance, there was no indication that the board was satisfied with either Musk's method or timing for announcing the approach, though they didn't rebuke him, either."]
+
+(4) Facts:
+[22117, 'The brief news release from Tesla board members—Brad Buss, Robyn Denholm, Ira Ehrenpreis, Antonio Gracias, Linda Johnson Rice, and James Murdoch—consisted of three sentences: Last week, Elon opened a discussion with the board about taking the company private.']
+[22118, "This included discussion as to how being private could better serve Tesla's long-term interests, and also addressed the funding for this to occur."]
+[22119, 'The board has met several times over the last week and is taking the appropriate next steps to evaluate this.']
+[22120, "Two board members, venture capital investor Steve Jurvetson as well as Musk's brother, Kimbal Musk, didn't sign on to the statement."]
+[22121, '(Jurvetson has taken leave from Tesla after being accused of sexual harassment.)']
+[22122, "The statement from members of Tesla Inc.'s TSLA, +5.77% board does show there was a discussion of how he could fund such a bid."]
+[22124, 'At $420 a share, the price at which Musk tweeted he was considering setting the bid, the deal would be valued at $72 billion before debt.']
+[22125, 'Related: A Tesla buyout would be the largest in history—by a wide margin Tesla shares were down more than 1% early Wednesday, after surging by about 11% on Tuesday.']
+[22126, "The electric-car maker's stock has climbed by 21% so far this year."]
+[22127, 'By comparison, the Dow Jones Industrial Average DJIA, +3.29% is set for a year-to-date gain of 3.5%, the S&P 500 index SPX, +3.43% is on track for a return of 6.8%, while the Nasdaq Composite Index COMP, +4.26% has advanced by more than 14% so far this year, according to FactSet data.']
+[22128, "Tesla's run-up comes despite the company being a consistent target of investors aiming to short the its stock, or bet against Tesla's shares rising."]
+[22130, "'Last week' predates Tesla's filing on Monday of its 10-Q with the Securities and Exchange Commission, which didn't mention such discussions."]
+[22135, 'Murdoch also sits on the board of News Corp., which owns MarketWatch, the publisher of this report.']
+
+Robert Durst Sentencing
+(1) Future Plans:
+[22150, "Durst could move to California within four to six weeks, his attorney Dick DeGuerin said before Wednesday's hearing."]
+[22151, 'He was expected to be arraigned on the murder charge in Los Angeles on August 18.']
+
+(2) Assumptions:
+No sentences fit this category.
+
+(3) Opinions:
+[22139, "'I truly, truly want to express my statement that I am not guilty of killing Susan Berman,' said Durst, appearing thin in his loose-fitting orange prison jumpsuit."]
+
+(4) Facts:
+[22136, "A New Orleans judge on Wednesday sentenced real estate scion Robert Durst to seven years in prison for a federal gun crime and agreed to recommend that he serve his time in California, where he faces a murder charge in a friend's 2000 death."]
+[22137, 'The 73-year-old, who entered and left the courtroom in a wheelchair, had pleaded guilty to the gun charge in February.']
+[22138, 'Speaking in a weak voice, he asked U.S. District Judge Kurt Engelhardt to speed his transfer to California, so he can defend himself in the death of writer Susan Berman.']
+[22140, 'Durst has been held in Louisiana since his March 2015 arrest on a charge of being a felon in possession of a firearm after a search of his New Orleans hotel room turned up a handgun.']
+[22141, "His arrest came one day before the series finale of an HBO documentary entitled, 'The Jinx: The Life and Deaths of Robert Durst,' which chronicled several police investigations of the multimillionaire whose family is known for its significant New York real estate holdings."]
+[22142, 'Engelhardt approved a plea agreement calling for an 85-month prison stint, followed by three years of supervised release.']
+[22143, 'The judge said the deal also resolved several pending charges against Durst in New York, Texas, and Louisiana state court.']
+[22144, 'The HBO series documented investigations of Durst in connection with the dismemberment killing of a male neighbor in Texas in 2003, for which he was tried and acquitted of murder, and the 1982 disappearance in New York of his wife, Kathleen.']
+[22145, "In the series' final episode, Durst's voice was captured on a microphone after an interview as he muttered that he had 'killed them all.'"]
+[22146, 'Real estate heir Robert Durst appears in a criminal courtroom for his trial on charges of trespassing on property owned by his estranged family, in New York December 10, 2014.']
+[22147, 'REUTERS/Mike Segar/File Photo Durst has previous convictions in Texas related to jumping bail and carrying a weapon across state lines in 2004 as he tried to flee the murder prosecution there.']
+[22148, 'Durst served about three years in connection with those charges.']
+[22149, 'Prosecutors say Durst, who has long been estranged from his family, is worth some $100 million.']

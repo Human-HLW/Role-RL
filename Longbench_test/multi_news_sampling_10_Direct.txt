@@ -1,0 +1,295 @@
+Headline 1: Homicide detectives take over investigation into deaths of pharmaceutical billionaires
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[21987, "'We are shocked' 'We are shocked and think it's irresponsible that police sources have reportedly advised the media of a theory which neither their family, their friends nor their colleagues believe to be true,' the statement continued."]
+
+(4) Facts:
+[21981, "Homicide detectives have now taken over the investigation into the deaths of two pharmaceutical billionaires that police have deemed 'suspicious.'"]
+[21982, "Apotex founder Barry Sherman, 75, and his wife, Honey Sherman, 70, both died from 'ligature neck compression,' meaning strangulation, police said in a statement issued Sunday."]
+[21983, 'The influential couple were found dead in their North York home on Friday.']
+[21984, 'A police source previously told CBC News that someone outside the Sherman family discovered the bodies, but police remain tight-lipped about the investigation.']
+[21985, 'As questions mount about the cause of the deaths, some news outlets are quoting police sources, saying the case is being investigated as a murder-suicide.']
+[21986, "In a statement released Saturday, the family said 'our parents shared an enthusiasm for life and commitment to their family and community totally inconsistent with the rumours regrettably circulated in the media as to the circumstances surrounding their deaths.'"]
+
+Headline 2: Bodies removed from home of Canadian pharmaceutical billionaire
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[21988, "One of two bodies removed from the home of billionaire founder of Canadian pharmaceutical firm Apotex Inc., Barry Sherman and his wife Honey, who were found dead under circumstances that police described as 'suspicious' Friday."]
+[21989, '(Chris Helgren/Reuters) Toronto homicide Det.']
+[21990, "Brandon Price told reporters outside the couple's home on Friday that police 'cannot say 100 per cent with certainty' whether or not foul play was involved."]
+[21991, 'Price said there were no signs of forced entry into the home, and that police were not searching for any outstanding suspects.']
+[21992, 'The couple had listed their home at 50 Old Colony Rd.']
+[21993, 'in Willowdale near Bayview Avenue and Highway 401, shortly before they died, for $7 million.']
+
+
+Headline 3: Kim Jong-nam killed by VX nerve agent, say Malaysian police
+
+(1) Future Plans:
+[22096, The authorities say they intend to decontaminate the airport and areas the suspects are known to have visited.]
+
+(2) Assumptions:
+[22098, "'It's as persistent as motor oil.]
+[22099, "It's going to stay there for a long time... which means anyone coming in contact with this could be intoxicated from it,' forensic toxicologist John Trestrail told the Associated Press news agency."]
+
+(3) Opinions:
+[22079, There is widespread suspicion that North Korea was responsible for the attack, which it fiercely denies.]
+
+(4) Facts:
+[22076, "Kim Jong-nam, the half-brother of North Korea's leader, was killed by a highly toxic nerve agent, says Malaysia."]
+[22077, 'Mr Kim died last week after two women accosted him briefly in a check-in hall at a Kuala Lumpur airport.']
+[22078, 'Malaysian toxicology reports indicate he was attacked using VX nerve agent, which is classified as a weapon of mass destruction by the United Nations.']
+[22080, "It responded furiously to Malaysia's insistence on conducting a post-mortem examination and has accused Malaysia of having 'sinister' purposes."]
+[22081, 'What does the toxicology report say?']
+[22082, "Malaysia's police chief Khalid Abu Bakar said on Friday that the presence of the nerve agent had been detected in swabs taken from Mr Kim's eyes and face."]
+[22083, 'One of the women Mr Kim interacted with at the airport on 13 February had also fallen ill with vomiting afterwards, he added.']
+[22084, 'Mr Khalid said other exhibits were still under analysis and that police were investigating how the banned substance might have entered Malaysia.']
+[22085, "'If the amount of the chemical brought in was small, it would be difficult for us to detect,' he said."]
+[22086, 'What is the deadly VX nerve agent?']
+[22087, 'Image copyright Science Photo Library Image caption Molecular model of VX nerve agent shows atoms represented as spheres The most potent of the known chemical warfare agents, it is a clear, amber-coloured, oily liquid which is tasteless and odourless Works by penetrating the skin and disrupting the transmission of nerve impulses - a drop on the skin can kill in minutes.']
+[22088, 'Lower doses can cause eye pain, blurred vision, drowsiness and vomiting It can be disseminated in a spray or vapour when used as a chemical weapon, or used to contaminate water, food, and agricultural products VX can be absorbed into the body by inhalation, ingestion, skin contact, or eye contact Clothing can carry VX for about 30 minutes after contact with the vapour, which can expose other people Banned by the 1993 Chemical Weapons Convention Read more about VX Who could be behind the attack?']
+[22089, 'How could it have killed Mr Kim?']
+[22090, 'Media playback is unsupported on your device Media caption CCTV footage appears to show the moment Kim Jong-nam is attacked Bruce Bennett, a weapons expert at the research institute the Rand Corporation, told the BBC it would have taken only a tiny amount of the substance to kill Mr Kim.']
+[22091, 'He suggests a small quantity of VX - just a drop - was likely to have been put on cloths used by the attackers to touch his face.']
+[22092, 'A separate spray may have been used as a diversion.']
+[22093, "Mr Khalid has previously said the fact the woman who accosted Mr Kim immediately went to wash her hands showed she was 'very aware' that she had been handling a toxin."]
+[22094, 'It would have begun affecting his nervous system immediately, causing first shaking and then death within minutes.']
+[22095, 'More from expert Bruce Bennett Is Kuala Lumpur airport safe?']
+[22097, 'VX is a v-type nerve agent, which means the substance can remain lethal for a long period of time.']
+[22100, 'No passengers, airport workers or medical staff who treated Mr Kim were reported to have become ill in the aftermath of the incident, the news agency adds.']
+[22101, 'Tens of thousands of passengers are believed to have passed through the airport since the attack more than 10 days ago.']
+
+Headline 4: United Airlines updates boarding process to cut down on congestion
+
+(1) Future Plans:
+[22132, 'Moving forward, the airline will still have five boarding groups but will only use two lanes for boarding.']
+[22133, 'Elite and other priority passengers in group 1 and 2 will load through lane 1, while customers in group 3, 4 and 5 will use lane 2.']
+[22134, 'Those not actively boarding will be asked to remain seated until paged.']
+[22135, 'Chase co-branded credit card holders, according to the blog Wandering Aramean, will board in group 2.']
+[22136, "In addition to the new boarding process, United is also launching push notifications for those who have the airline's mobile app."]
+[22137, 'Those who opt in will be given a push notification when boarding starts, a tool that will be particularly useful if a flight is delayed or if the ground crew decides to load the aircraft early.']
+
+(2) Assumptions:
+[22129, 'The new boarding process has been in the works for months.']
+[22141, 'The new strategy launched this week helps alleviate that problem.']
+
+(3) Opinions:
+[22128, 'Just this week, Chicago-based United Airlines updated its boarding process to rely on fewer boarding lanes, a move that will cut down on congestion and potentially speed up passenger loading.']
+
+(4) Facts:
+[22127, "Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers."]
+[22130, "In June, United started experimenting with different boarding procedures in a handful of test gates in Chicago and Houston, two of the busiest hubs in the airline's network."]
+[22131, 'Now, as of this week, the official new boarding process is finally in place.']
+[22138, "This week's updates come as the latest milestone in a long history of experimentation that United and other airlines have performed around the oft-complicated and congested boarding process."]
+[22139, 'Several years ago, in an effort to better segment the cabin and speed up loading, United started using five lanes to feed through passengers.']
+[22140, 'And while that method successfully segmented passengers in the boarding zone and prepared them for departure, it also created a fair amount of idle, standing passengers and congestion near the gate – especially during delays.']
+[22142, "Indeed, some of United's peers are already using this simplified process."]
+[22143, 'American Airlines currently boards by zone using only two lanes while Delta Air Lines splits the difference and boards with four.']
+[22144, "One difference between United and its competitors, however, is that as of this week, top tier or '1K' elite members will be able to pre-board before the official process starts; with most carriers only VIP passengers are given that access."]
+
+
+Headline 5: Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers.
+
+Headline 6: Ariel Winter is tired of being told what to wear.
+
+Headline 5:
+
+(1) Future Plans: 
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22127, "Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers."]
+[22128, 'Just this week, Chicago-based United Airlines updated its boarding process to rely on fewer boarding lanes, a move that will cut down on congestion and potentially speed up passenger loading.']
+[22129, 'The new boarding process has been in the works for months.']
+[22130, "In June, United started experimenting with different boarding procedures in a handful of test gates in Chicago and Houston, two of the busiest hubs in the airline's network."]
+[22131, 'Now, as of this week, the official new boarding process is finally in place.']
+[22132, 'Moving forward, the airline will still have five boarding groups but will only use two lanes for boarding.']
+[22133, 'Elite and other priority passengers in group 1 and 2 will load through lane 1, while customers in group 3, 4 and 5 will use lane 2.']
+[22134, 'Those not actively boarding will be asked to remain seated until paged.']
+[22135, 'Chase co-branded credit card holders, according to the blog Wandering Aramean, will board in group 2.']
+[22136, "In addition to the new boarding process, United is also launching push notifications for those who have the airline's mobile app."]
+[22137, 'Those who opt in will be given a push notification when boarding starts, a tool that will be particularly useful if a flight is delayed or if the ground crew decides to load the aircraft early.']
+[22138, "This week's updates come as the latest milestone in a long history of experimentation that United and other airlines have performed around the oft-complicated and congested boarding process."]
+[22139, 'Several years ago, in an effort to better segment the cabin and speed up loading, United started using five lanes to feed through passengers.']
+[22140, 'And while that method successfully segmented passengers in the boarding zone and prepared them for departure, it also created a fair amount of idle, standing passengers and congestion near the gate – especially during delays.']
+[22141, 'The new strategy launched this week helps alleviate that problem.']
+[22142, "Indeed, some of United's peers are already using this simplified process."]
+[22143, 'American Airlines currently boards by zone using only two lanes while Delta Air Lines splits the difference and boards with four.']
+[22144, "One difference between United and its competitors, however, is that as of this week, top tier or '1K' elite members will be able to pre-board before the official process starts; with most carriers only VIP passengers are given that access."]
+
+Headline 6:
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[22146, "USA TODAY Ariel Winter has got it and she isn't afraid to flaunt it."]
+[22147, "She also isn't afraid to call out her haters."]
+[22151, '*Insert fire emojis here.']
+
+(4) Facts:
+[22145, 'Ariel Winter is tired of being told what to wear.']
+[22148, 'The Modern Family actress attended an event for the ABC series Wednesday night, embracing the cold-shoulder trend in a gilded, embellished minidress.']
+[22149, 'Mesh panels showed off her cleavage as well as the tops of her thighs.']
+[22150, 'She paired the look with fire engine red nail polish and matching gold pumps.']
+[22152, '* (Photo: Jordan Strauss/Invision/AP) And, yes, compared to her co-stars she was dressed the snazziest.']
+[22153, 'Most of the men opted for casual slacks or jeans and neither of her female counterparts pictured opted for cocktail attire.']
+[22154, "But we're still at a loss in trying to find what gave people the right to make some of the remarks tweeted in response to a cast photo."]
+[22155, "Though in all honesty, we didn't search too hard."]
+[22156, "(Left to right) Nolan Gould, Steven Levitan, Ariel Winter, Eric Stonestreet, Julie Bowen, Aubrey Anderson-Emmons, Jesse Tyler Ferguson and Ty Burrell attend the 'Modern Family' ATAS event at Saban Media Center on May 3, 2017 in North Hollywood."]
+[22157, '(Photo: Jason LaVeris, FilmMagic) Some commenters implied she was overdressed.']
+[22158, 'But some tweets were incredibly offensive.']
+[22159, "'Ariel is def trying too hard to look slutty,' one user wrote."]
+[22160, "'That girl @arielwinter1 oozes insecurity and is 2 minutes away from being like or worse than Lindsay Lohan."]
+[22161, "Sad,' another tweeted."]
+[22162, 'Winter chose to clapback on Instagram Thursday evening, telling haters to mind their business.']
+[22163, "'Why TF does anyone care that I didn't dress casual like everyone else for the panel?'"]
+[22164, 'she asked in the shared screenshot, captioned with just an emoji.']
+[22165, "'Why do I have to be like everyone else?"]
+[22166, "Why can't people just let other people feel good about themselves and do what they want?'"]
+[22167, "😘 A post shared by ARIEL WINTER (@arielwinter) on May 4, 2017 at 5:57pm PDT 'WEAR WHATEVER YOU WANT PEOPLE!'"]
+[22168, 'she exclaimed.']
+[22169, "'As long as you feel good about yourself that's what matters."]
+[22170, 'I know I did.']
+[22171, "Don't ever let anyone stifle who you are and how you express yourself.'"]
+
+
+Headline 7: Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers.
+
+(1) Future Plans:
+[22136, "In addition to the new boarding process, United is also launching push notifications for those who have the airline's mobile app."]
+[22137, 'Those who opt in will be given a push notification when boarding starts, a tool that will be particularly useful if a flight is delayed or if the ground crew decides to load the aircraft early.']
+
+(2) Assumptions:
+[22127, "Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers."]
+
+(3) Opinions:
+
+(4) Facts:
+[22128, 'Just this week, Chicago-based United Airlines updated its boarding process to rely on fewer boarding lanes, a move that will cut down on congestion and potentially speed up passenger loading.']
+[22129, 'The new boarding process has been in the works for months.']
+[22130, "In June, United started experimenting with different boarding procedures in a handful of test gates in Chicago and Houston, two of the busiest hubs in the airline's network."]
+[22131, 'Now, as of this week, the official new boarding process is finally in place.']
+[22132, 'Moving forward, the airline will still have five boarding groups but will only use two lanes for boarding.']
+[22133, 'Elite and other priority passengers in group 1 and 2 will load through lane 1, while customers in group 3, 4 and 5 will use lane 2.']
+[22134, 'Those not actively boarding will be asked to remain seated until paged.']
+[22135, 'Chase co-branded credit card holders, according to the blog Wandering Aramean, will board in group 2.']
+[22138, "This week's updates come as the latest milestone in a long history of experimentation that United and other airlines have performed around the oft-complicated and congested boarding process."]
+[22139, 'Several years ago, in an effort to better segment the cabin and speed up loading, United started using five lanes to feed through passengers.']
+[22140, 'And while that method successfully segmented passengers in the boarding zone and prepared them for departure, it also created a fair amount of idle, standing passengers and congestion near the gate – especially during delays.']
+[22141, 'The new strategy launched this week helps alleviate that problem.']
+[22142, "Indeed, some of United's peers are already using this simplified process."]
+[22143, 'American Airlines currently boards by zone using only two lanes while Delta Air Lines splits the difference and boards with four.']
+[22144, "One difference between United and its competitors, however, is that as of this week, top tier or '1K' elite members will be able to pre-board before the official process starts; with most carriers only VIP passengers are given that access."]
+
+Headline 8: Ariel Winter is tired of being told what to wear.
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[22146, "USA TODAY Ariel Winter has got it and she isn't afraid to flaunt it."]
+[22147, "She also isn't afraid to call out her haters."]
+[22151, '*Insert fire emojis here.']
+[22152, '* (Photo: Jordan Strauss/Invision/AP) And, yes, compared to her co-stars she was dressed the snazziest.']
+[22155, "Though in all honesty, we didn't search too hard."]
+
+(4) Facts:
+[22145, 'Ariel Winter is tired of being told what to wear.']
+[22148, 'The Modern Family actress attended an event for the ABC series Wednesday night, embracing the cold-shoulder trend in a gilded, embellished minidress.']
+[22149, 'Mesh panels showed off her cleavage as well as the tops of her thighs.']
+[22150, 'She paired the look with fire engine red nail polish and matching gold pumps.']
+[22153, 'Most of the men opted for casual slacks or jeans and neither of her female counterparts pictured opted for cocktail attire.']
+[22154, "But we're still at a loss in trying to find what gave people the right to make some of the remarks tweeted in response to a cast photo."]
+[22156, "(Left to right) Nolan Gould, Steven Levitan, Ariel Winter, Eric Stonestreet, Julie Bowen, Aubrey Anderson-Emmons, Jesse Tyler Ferguson and Ty Burrell attend the 'Modern Family' ATAS event at Saban Media Center on May 3, 2017 in North Hollywood."]
+[22157, '(Photo: Jason LaVeris, FilmMagic) Some commenters implied she was overdressed.']
+[22158, 'But some tweets were incredibly offensive.']
+[22159, "'Ariel is def trying too hard to look slutty,' one user wrote."]
+[22160, "'That girl @arielwinter1 oozes insecurity and is 2 minutes away from being like or worse than Lindsay Lohan."]
+[22161, "Sad,' another tweeted."]
+[22162, 'Winter chose to clapback on Instagram Thursday evening, telling haters to mind their business.']
+[22163, "'Why TF does anyone care that I didn't dress casual like everyone else for the panel?'"]
+[22164, 'she asked in the shared screenshot, captioned with just an emoji.']
+[22165, "'Why do I have to be like everyone else?"]
+[22166, "Why can't people just let other people feel good about themselves and do what they want?'"]
+[22167, "😘 A post shared by ARIEL WINTER (@arielwinter) on May 4, 2017 at 5:57pm PDT 'WEAR WHATEVER YOU WANT PEOPLE!'"]
+[22168, 'she exclaimed.']
+[22169, "'As long as you feel good about yourself that's what matters."]
+[22170, 'I know I did.']
+[22171, "Don't ever let anyone stifle who you are and how you express yourself.'"]
+
+
+Headline 9: Suspect remains on the run after fatal shooting in Montpelier
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22307, 'A murder suspect remains on the run following a weekend shooting in Montpelier.']
+[22308, 'It left a former Vermont Frost Heaves basketball player dead.']
+[22309, 'WCAX News is learning the victim and the shooter may have been friends.']
+[22310, 'It appears to have been a night out at the bar gone wrong.']
+[22311, 'Jayveon Caballero, 29, is wanted for second-degree murder.']
+[22312, "Nearly 48 hours after he allegedly shot a man to death in Montpelier, police still don't know where he is."]
+[22313, "'He may have gotten on a bus yesterday morning in White River Junction, a Greyhound bus, heading south,' said Maj. Glenn Hall, Vermont State Police."]
+[22314, 'Police say Caballero fatally shot Markus Austin, 33.']
+[22315, "A friend told investigators Austin was invited out with friends to join Caballero, who he called 'my boy Jay.'"]
+[22316, 'But at the end of the night a fight broke out.']
+[22317, "'We do know from the investigation that there was an altercation outside Gusto's bar in Barre,' said Hall."]
+[22318, "The alleged shooter's girlfriend, Desiree Cary, 22, told police that she got mad and hit Austin as they left the bar."]
+[22319, 'Austin allegedly hit her back, injuring her jaw bone.']
+[22320, 'Court documents show Caballero appeared upset and then went to find Austin at a Barre Street apartment.']
+[22321, "'He walked over to the victim's car and shot him and walked back,' said Jeff Sarpong, witness."]
+[22322, 'Sarpong says he woke up to someone yelling outside and a gunshot, and then looked out his window.']
+[22323, "'I see him turn around, wave with a gun,' said Sarpong."]
+[22324, 'He said Caballero appeared to show sympathy just seconds after pulling the trigger.']
+[22325, "'He then just kept on asking, 'Are you OK?''"]
+[22326, 'Sarpong said.']
+[22327, "'After he noticed what he had done and that he wasn't responsive, he just drove away,' said Sarpong."]
+[22328, "In an attempt to locate Caballero, police raided his apartment early Monday morning but he wasn't there."]
+[22329, "Neighbors say they've dealt with constant problems from the property in the past."]
+[22330, "'Drag racing up and down."]
+[22331, "Cars constantly in and out,' said a neighbor."]
+[22332, "Late Sunday, Caballero's girlfriend was taken into custody on charges unrelated to the shooting."]
+[22333, "'She was a target of an ongoing drug investigation,' said Hall."]
+[22334, 'Meanwhile, the search for Caballero continues.']
+[22335, 'Authorities say the bus Caballero may have gotten on was headed for New York City.']
+[22336, "They're unsure if he got off at a stop before that and are now reaching out to other states to help."]
+[22337, "They're also asking anyone who may know where he is to contact them."]
+
+Headline 10: Two women charged in connection with hot glue gun incident at Chicago daycare
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22338, "Two women were charged in connection to an incident at a Logan Square daycare in which five toddlers were injured with hot glue.Lizandra Cosme, 32, of Chicago, was arrested Sunday and charged with five counts of aggravated battery of a child under 13 years old causing great bodily harm."]
+[22339, 'A Cook County judge ordered her held without bail on Monday.']
+[22340, "She is scheduled to return to court on Dec. 26.Cosme allegedly 'caused injury' to the five 2-year-old children - three girls and two boys - on Dec. 1 at the Children's Learning Place in the 3100-block of West Fullerton, authorities said.A second woman, Susana D. Gonzalez, 27, of Melrose Park, was charged with five misdemeanor counts of causing the circumstances of child endangerment, police said.In an email, daycare spokeswoman Lissa Druss Christman said: 'The well-being of our students is paramount."]
+[22341, 'Upon learning of the alleged incident, we notified DCFS immediately and terminated two of our employees.']
+[22342, 'We are currently working with investigators.']
+[22343, "'The state Department of Children and Family Services is investigating allegations of abuse , an agency spokeswoman said.Cosme brought the glue gun to the daycare to use on a Christmas project, prosecutors said during a hearing in a Cook County court."]
+[22344, 'Cosme, who had 16 children under her care, was captured on surveillance video applying the glue gun directly to the hands and arms of five 2-year-old children.']
+[22345, 'An assistant in the room with her at the time allegedly stood idly by, laughing with Cosme as this was taking place.']
+[22346, "'Each of the child victims winced and some whined at the hot glue gun application,' a prosecutor said, adding that Cosme tried to apply neosporin to one of them after she saw circular burn marks starting to appear.Later in the day, in what appears to have been an effort to cover up what had happened, prosecutors said Cosme asked the father of one of the burned children whether the child had been injured at home."]
+[22347, "Her actions were discovered, they said in court, after the mother of another child, who is an ER physician, noticed the burns and called the daycare director to inquire about what happened, demanding that surveillance footage be reviewed.Cosme's defense attorney said in court his client 'screwed up' but did not act out of malice, citing her 12 years working with young childre"]

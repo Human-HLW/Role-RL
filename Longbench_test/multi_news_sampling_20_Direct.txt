@@ -1,0 +1,395 @@
+Headlines 1-2:
+
+1. "Data Brokers Sell Deepest Secrets About Americans"
+
+(1) Future Plans: 
+[21998, 'But their databases are growing infinitely, and there are still no relevant consumer protection laws in place to protect individual privacy.']
+[21999, "And despite recent transparency efforts — like Acxiom's aboutthedata.com — that also means the consumers on these lists still have no right to find out what information is out there, or who is buying it."]
+
+(2) Assumptions:
+None
+
+(3) Opinions: 
+[21981, "The Senate Commerce Committee issued a report on the multibillion dollar data industry today, and the accompanying testimony and findings are chilling."]
+[21983, "What's emerged is that collectively, these companies own an astounding number of consumer profiles, and they're selling deeply personal information — sometimes to identity thieves — in categories like rape victims, people with cancer, and 'Rural and Barely Making It.'"]
+[21994, 'Privacy groups testified that the companies also sell lists of rape victims and people with HIV and AIDs.']
+[21996, "Even in 2007, the Times reported on a company selling lists like, 'Oldies but Goodies,' 500,000 gamblers over 55 years old, for 8.5 cents each, and one list that said: 'These people are gullible."]
+[21997, "They want to believe that their luck can change.'"]
+[21998, 'But their databases are growing infinitely, and there are still no relevant consumer protection laws in place to protect individual privacy.']
+
+(4) Facts:
+[21982, 'Over the last year, the Committee queried nine of the major data companies and invited testimony from privacy groups.']
+[21984, 'One data broker is selling lists of addresses and names of consumers suffering from conditions including cancer, diabetes, and depression, and the medications used for those conditions; another is offering lists naming consumers, their credit scores, and specific health conditions.']
+[21985, "Of the nine companies the Committee approached — Acxiom, Experian, Epsilon, Reed Elsevier, Equifax, TransUnion, Rapleaf, Spokeo, and Datalogix — 'some' were forthcoming."]
+[21986, 'The report mentions Equifax as being particularly cooperative.']
+[21987, "Others weren't."]
+[21988, "Acxiom, which according to the report has 'multi-sourced insight into approximately 700 million consumers worldwide,' Experian, and Epsilon refused to explain how they collected their data or who they were selling it to, citing confidentiality clauses in their contracts."]
+[21989, '(The Attorney General of New Jersey recently released documents indicating Acxiom sold another company, Dataium, 400,000 dossiers for a mere $2,500.)']
+[21990, 'In October, Experian admitted that it sold personal information — including social security numbers and banking information — through a subsidiary to an alleged online identity theft ring.']
+[21991, 'That same subsidiary, Court Ventures, also appeared on a list of companies that requested private information about gun permit holders in Virginia.']
+[21992, "Equifax told the Committee they had information as specific as: Whether a consumer purchased a particular soft drink or shampoo product in the last six months Whether they use laxatives or yeast infection products How many OB/GYN doctor visits they've had within the last 12 months How many miles they traveled in the last 4 weeks The number of whiskey drinks they consumed in the past 30 days."]
+[21993, "That data is then sorted into a dictionary with more than 75,000 data points like, 'whether the individual or household is a pet owner, smokes, has a propensity to purchase prescriptions through the mail, donates to charitable causes, is active military or a veteran, holds certain insurance products including burial insurance or juvenile life insurance, enjoys reading romance novels, or is a hunter.'"]
+[21995, "This fine-tuned data collection isn't new — last year, the Times reported a story of how Target figured out a teenager was pregnant before her father did."]
+
+2. "Trump Touts North Korea's Untapped Property Market Potential"
+
+(1) Future Plans:
+[22005, 'Instead of doing that you could have the best hotels in the world right there.']
+[22006, 'Think of it from a real estate perspective, you have South Korea, you have China, and they own the land in the middle, how bad is that, right?']
+[22008, 'The U.S. delegation, using economic development as an incentive for their North Korea counterparts to enter denuclearization talks, showed Kim a video simulation of possible projects that could take place in the rogue nation.']
+[22009, "[Trump shows Kim video that imagines North Korea glowing with electric lights: Watch] Despite telling Kim he could 'do a smaller version' of the proposal, Trump expressed optimism that the North Korean head of state was interested in the ideas presented to him."]
+[22010, "'Although I tell you what, he looked at that tape, he looked at that iPad, and I'm telling you they really enjoyed it I believe,' Trump added."]
+
+(2) Assumptions:
+None
+
+(3) Opinions:
+[22000, "President Trump on Tuesday touted North Korea's untapped property market potential, and said one benefit North Korea would see if it opens up its economy could be placing the 'best hotel in the world' on its coastline."]
+[22001, "'They have great beaches."]
+[22002, "You see that whenever they're exploding their cannons into the ocean,' Trump said during a marathon press conference held after the conclusion of his historic summit with North Korean leader Kim Jong Un in Singapore."]
+[22003, "'I said, 'Boy, look at that view."]
+[22004, "Wouldn't that make a great condo?"]
+[22007, "'It's great,' Trump said."]
+[22011, 'In the wide-ranging solo press conference given after Kim had already left the Singapore, Trump announced North Korea had agreed to relinquish its nuclear weapons and was prepared to rewrite history to push for a lasting peace and complete denuclearization of the Korean Peninsula.']
+
+(4) Facts:
+[22012, "[Related: Trump emerges from 'very good' private meeting with Kim] Trump is expected to leave Singapore at 7 p.m. local time."]
+
+3. "Heir of Nazi war criminal Vladimir Katriuk dies at 93"
+4. "Police: Pittsfield Prostitution Ring Involved Minors"
+
+Headlines 3-4:
+
+(3) Heir of Nazi war criminal Vladimir Katriuk dies at 93
+
+(1) Future Plans: None
+(2) Assumptions: None
+(3) Opinions: None
+(4) Facts:
+[22076, "The second most wanted man on the Simon Wiesenthal Centre's list of Nazi war criminals has died at 93 after a long illness, his lawyer has said."]
+[22077, "News of Vladimir Katriuk's death emerged several hours after the Canadian Centre for Israel and Jewish Affairs said Ottawa should take the necessary steps to ensure he be held accountable if he were found guilty of war crimes."]
+[22078, 'Russia charged Katriuk with genocide this month in connection with the 1943 killing of civilians in Khatyn, now part of Belarus.']
+[22079, 'According to war reports, Katriuk was a member of a Ukrainian battalion of the SS, the elite Nazi storm troops, between 1942 and 1944.']
+[22080, 'He had denied the accusations against him.']
+[22081, 'The Russian embassy in Ottawa called on the Canadian government a few weeks ago to support a criminal case against Katriuk.']
+[22082, 'The Investigative Committee of the Russian Federation, a law enforcement body that reports only to President Vladimir Putin, called on Canada to deliver Katriuk to Moscow so he could be tried for alleged war crimes.']
+[22083, "Canada ignored the request and said it would never recognise Moscow's annexation of Crimea and its interference in Ukraine."]
+[22084, 'A study three years ago alleged Katriuk was a key participant in a village massacre during the second world war.']
+[22085, "A man with Katriuk's name lay in wait in March 1943 outside a barn that had been set ablaze, operating a machine-gun and firing on civilians as they tried to flee the burning building, it said."]
+[22086, "'One witness stated that Katriuk was a particularly active participant in the atrocity: he reportedly lay behind the stationary machine-gun, firing rounds on anyone attempting to escape the flames,' the study by Lund University historian Per Anders Rudling says."]
+[22087, 'Rudling, whose research was published in spring 2012 issue of Holocaust and Genocide Studies, attributed these details to KGB interrogations released for the first time in 2008.']
+[22088, 'Katriuk allegedly deserted his SS unit when it moved to France from eastern Europe in 1944.']
+[22089, 'He lived in Paris before moving to Canada in 1951, according to court documents.']
+[22090, 'He later became a Canadian citizen and lived with his French-born wife in Ontario, working as a beekeeper.']
+[22091, "In 1999, Canada's federal court ruled Katriuk obtained Canadian citizenship under false pretences, by not telling authorities about his collaboration with the Nazis, but could find no evidence he committed atrocities."]
+[22092, 'In 2007, the Harper cabinet decided not to revoke his citizenship.']
+
+(4) Police: Pittsfield Prostitution Ring Involved Minors
+(1) Future Plans: 
+[22049, 'The investigation remains ongoing and additional charges may be coming.']
+[22050, "The Pittsfield Police Department detective bureau, anti-crime unit, drug unit as well as members of the state police detective unit assigned to the District Attorney's Office, are assisting with this investigation."]
+(2) Assumptions: None
+(3) Opinions: None
+(4) Facts:
+[22014, 'PITTSFIELD — Two men are facing charges for allegedly participating in a citywide prostitution ring involving multiple women — one of whom may have been as young as 15 — who were allegedly plied with drugs and threats.']
+[22015, 'Joseph E. Van Wert, 65, of Becket, and Randy W. Lambach, 45, of Pittsfield, are being held on charges including human trafficking pending dangerousness hearing Nov. 29 to determine if bail should be set and in what amount.']
+[22016, 'The investigation began in the spring of 2017 after police began receiving calls and complaints regarding apparent increases in prostitution throughout the city.']
+[22017, 'Most of the activity seemed to be centered around the areas of First, Adam, North, Linden and Wahconah streets, police said.']
+[22018, "Many of the women had been recruited by a white male named 'Randy.'"]
+[22019, 'Randy would seek out women with a drug addiction, photograph them and post advertisements online, seeking clients for sexual services, police were told.']
+[22020, "While conducting patrols around First and Second streets, police interviewed multiple women, many of whom admitted to being prostitutes, but declined to identify who 'tricked them out.'"]
+[22021, "One told police she didn't 'street-walk,' but instead got her 'dates' through ads on backpage.com."]
+[22022, "Police also began receiving reports of suspected prostitution from a North Street senior living facility, where Randy had driven at least five women to and from Van Wert's third-floor apartment."]
+[22023, 'Police were provided the plate number of the blue station wagon used to shuttle the women and identified Lambach as its owner.']
+[22024, 'And witnesses identified Lambach via photographs as the man they knew as Randy.']
+[22025, 'One woman told police she was prostituted by Lambach for about a year and had sex with him for money or to pay off a debt on multiple occasions.']
+[22026, 'Lambach photographed her and placed advertisements on backpage.com.']
+[22027, 'Men would contact Lambach via cellphone and a date, time, location and fee would be agreed upon.']
+[22028, 'Rates were typically $80 for 30 minutes or between $160 and $200 for an hour.']
+[22029, 'Lambach would then contact the woman and drive her to the appointment, police said.']
+[22030, 'He would sometimes wait outside or watch from a closet or doorway.']
+[22031, 'He would collect the money and keep anywhere from 50 to 90 percent of it.']
+[22032, 'Sometimes he would keep all of the money and pay the woman with a few bags of heroin or some crack cocaine instead.']
+[22033, 'One of the women told police Lambach would drive her to appointments outside of Pittsfield, and on at least one occasion, outside of the state.']
+[22034, 'He allegedly recruited and transported about 10 other women in a similar manner and provided narcotics to those that used drugs to get them high before having sex.']
+[22035, "Lambach allegedly threatened to turn the women in if they stopped working for him, and warned them the police would not believe them because they were, 'drug addicts and whores.'"]
+[22036, 'Police were told some of the women Lambach had recruited used to be his foster children.']
+[22037, "He would host meetings between women and customers at Van Wert's apartment."]
+[22038, 'Van Wert allegedly paid for sex with the women and was paid by Lambach in cash and drugs for use of his apartment.']
+[22039, 'Another witness told police that Lambach approached her in August, telling her he ran a prostitution ring and showed her several photographs of women he said worked for him.']
+[22040, 'That witness said it appeared several of the women in those photos were very young and estimated the age of one at about 15.']
+[22041, 'Lambach allegedly said he also drives women to Springfield, where they prostitute themselves from a strip club.']
+[22042, 'Another witness told police Lambach may have been involved in prostitution and trafficking for about 10 years.']
+[22043, 'Other witnesses told police Lambach would threaten the women if he thought they were giving information to the police.']
+[22044, 'By mid-November, police felt they had enough probable cause to arrest the men.']
+[22045, 'Lambach was picked up without incident about 4 p.m. Nov. 14.']
+[22046, 'Van Wert was arrested at his apartment shortly thereafter.']
+[22047, 'Lambach has pleaded not guilty in Central Berkshire District Court to four counts of human trafficking.']
+[22048, 'Van Wert has pleaded not guilty to conspiracy to commit human trafficking, deriving support from prostitution, maintaining a house of prostitution and sexual conduct for a fee.']
+
+
+5. Trump blames 'disgusting' media: 'I would be beating Hillary by 20%'
+(1) Future Plans: 
+(2) Assumptions:
+(3) Opinions: 
+[22078] "My rallies are not covered properly by the media,"
+[22079] "Trump blames 'disgusting' media: 'I would be beating Hillary by 20%'"
+[22080] In a series of tweets Sunday, Donald Trump launched a new tirade against the media, calling it 'disgusting' and blaming it for his drop in polls.
+[22081] His latest tweet storm first targeted The New York Times, which published an article Saturday about the GOP nominee's allegedly failing campaign, but quickly expanded as an indictment of the media in general.
+[22082] "'The failing @nytimes talks about anonymous sources and meetings that never happened."
+[22083] "Their reporting is fiction."
+[22084] "The media protects Hillary!"
+[22085] "In the article, colleagues who spoke on the condition of anonymity described Trump as 'exhausted, frustrated and still bewildered by fine points of the political process.'"
+[22086] "'The failing @nytimes, which never spoke to me, keeps saying that I am saying to advisers that I will change."
+[22087] "False, I am who I am-never said,"
+[22088] "The GOP nominee later tweeted Sunday afternoon saying Hillary Clinton is 'being protected by the media.'"
+[22089] "'She is not a talented person or politician."
+[22090] "The dishonest media refuses to expose!'"
+[22091] "He then added: 'I am not only fighting Crooked Hillary, I am fighting the dishonest and corrupt media and her government protection process."
+[22092] "People get it!"
+[22093] "Trump's relationship with the news media has been shaky, at times denying reporters credentials to cover his rallies, including those from POLITICO, BuzzFeed and The Washington Post."
+[22094] "If the disgusting and corrupt media covered me honestly and didn't put false meaning into the words I say, I would be beating Hillary by 20% — Donald J. Trump (@realDonaldTrump) August 14, 2016"
+[22095] "My rallies are not covered properly by the media."
+[22096] "They never discuss the real message and never show crowd size or enthusiasm."
+[22097] "— Donald J. Trump (@realDonaldTrump) August 14, 2016"
+[22098] "At a rally on Saturday, hours after The New York Times article was released, Trump said 'the newspaper is going to hell.'"
+[22099] "He even suggested he would take away its reporters' credentials."
+[22100] "'When they write dishonest stories we should be a little bit tough,' Trump said at his rally in Fairfield, Connecticut."
+[22101] "He also tweeted yesterday: 'The failing @nytimes has become a newspaper of fiction."
+[22102] "Their stories about me always quote non-existent unnamed sources."
+[22103] "Very dishonest!'"
+
+6. Rare photographs from Nirvana's first concert in March 1987 have been unearthed and shared by an unlikely source: Maggie Poukkula, the 19-year-old daughter of Tony Poukkula, a member of Seattle band Laytem who grew up with Kurt Cobain and hosted the fledging outfit's first show in his basement.
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: 
+[22102] "Rare photographs from Nirvana's first concert in March 1987 have been unearthed and shared by an unlikely source: Maggie Poukkula, the 19-year-old daughter of Tony Poukkula, a member of Seattle band Laytem who grew up with Kurt Cobain and hosted the fledging outfit's first show in his basement."
+[22103] "Related PHOTOS: No Apologies: All 102 Nirvana Songs Ranked RS tackles the complete catalog of the band that defined the Nineties and made the world a lot noisier"
+[22104] "At the time, Nirvana's lineup consisted of Cobain, bassist Krist Novoselic and drummer Aaron Burckhard, though that night, Poukkula reportedly joined the outfit on guitar for, at least, two Led Zeppelin covers."
+[22105] "'I had no idea that those were during Nirvana's first concert,' Poukkula tells Rolling Stone."
+[22106] "'My dad showed me them a while back, but he never mentioned that's what was going on in the photos."
+[22107] "I found out because of all the articles."
+[22108] "I didn't realize it was such a historical thing."
+[22109] "I thought they were just cool pictures of my dad and Kurt jamming together.'"
+[22110] "Poukkula said she found the photos tucked away inside her father's biographies of Cobain and Nirvana."
+[22111] "Pictures of my dad and Kurt Cobain playing together back in the day pic.twitter.com/y7lXh6acVn — Maggs❂ (@mjpoukkula) July 16, 2015"
+[22112] "According to an incomplete set list from the show, Nirvana jammed on covers of Led Zeppelin's 'Heartbreaker' and 'How Many More Times,' but also performed nascent versions of 'Aero Zeppelin,' 'Mexican Seafood,' 'Pen Cap Chew,' 'Hairspray Queen,' 'Spank Thru' and 'If You Must.'"
+[22113] "A recording of the band's 'Heartbreaker' jam appeared on the 2004 box set, With the Lights Out, while a bootleg version of 'If You Must' is available on YouTube."
+[22114] "Poukkula's shots come on the heels of a deluge of rare Cobain and Nirvana artifacts, many of which were incorporated into Brett Morgen's acclaimed documentary, Montage of Heck."
+[22115] "Morgen was given unprecedented access to Cobain's archives, comprising mountains of notebooks and hours of never-before-heard audio cassette tapes, which featured eerie Beatles covers and the noise collage that gave the film its title."
+[22116] "After a successful stretch on the festival circuit, limited theatrical run and HBO premiere, Montage of Heck is set to return to movie theaters starting August 7th.
+
+
+7. Tesla Board Members Respond to Musk's Tweet on Going Private
+(1) Future Plans: The board has met several times over the last week and is taking the appropriate next steps to evaluate this.
+(2) Assumptions: This included discussion as to how being private could better serve Tesla's long-term interests, and also addressed the funding for this to occur.
+(3) Opinions: The statement from members of Tesla Inc.'s TSLA, +5.77% board does show there was a discussion of how he could fund such a bid.
+(4) Facts: Last week, Elon opened a discussion with the board about taking the company private. Two board members, venture capital investor Steve Jurvetson as well as Musk's brother, Kimbal Musk, didn't sign on to the statement. (Jurvetson has taken leave from Tesla after being accused of sexual harassment.)
+
+8. Alleged Phoenix Freeway Shooter Released from Jail
+(1) Future Plans: Merritt was expected to be released later in the day.
+(2) Assumptions: There was no evidence against him to show he's responsible for this.
+(3) Opinions: 'He is no more the I-10 shooter than, respectfully, you are,' defense lawyer Jason Lamm said.
+(4) Facts: A judge on Tuesday allowed a man charged in freeway shootings that rattled Phoenix last year to be released from jail amid questions about evidence authorities say links him to the crimes. The judge overseeing the case of Leslie Merritt Jr. reduced his bond to zero and said he can return to his home under electronic monitoring. Merritt has pleaded not guilty to drive-by shooting, aggravated assault and other charges. Judge Warren Granville has imposed a gag order on lawyers in the case.
+
+
+Headlines 9-10:
+
+9. Kenya: Lion Kills Child at Safari Lodge
+(1) Future Plans: 
+[22104, "'The TV showed the mandatory evacuation and I burst into tears,' Cook said."]
+[22105, "'Everything I had planned and dreamed about.'"]
+(2) Assumptions:
+[22152, "'We are working towards establishing the leopard and evaluating options such as relocating it somewhere else.'", 22106, "'It is not good to keep it there,' he said in Watsapp message to this reporter."]
+(3) Opinions: 
+[22159, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."]
+[22160, "'Why has it taken us 60 years?", 22161, "The materials didn't exist to allow us to do it.", 22162, "We had to make a heat shield, and we love it.", 22163, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"]
+(4) Facts:
+[22093, "A game ranger's two and a half year old child has been eaten by a leopard at Mweya Safari Lodge in Queen Elizabeth National Park."]
+[22094, 'Elisha Nabugyere was killed by the wild animal on Friday at around 7:30pm.']
+[22095, 'His father, SSP Francis Manana Nabugyere says the child was attacked at their house doorway where he was seated at the Uganda Wildlife Authority (UWA) staff quarters.']
+[22096, "'He was seated with the maid when the leopard grabbed and ran with him.", 22097, "Efforts to rescue him did not yield, we later recovered the skull and some other bones,' SSP Nabugyere, an officer at the police senior Command and staff college Bwebajja told Kampala Post."]
+[22098, "The deceased's mother who is a park ranger was at the neighbour's at the time, according to Mr Nabugyere."]
+[22099, "He says his son's remains have been buried."]
+[22100, "'UWA gave us the coffin.", 22101, "I have not talked to them about the incident but I would expect something reasonable to compensate me, although my son's life is gone,' Nabugyere said, challenging UWA to do more in ensuring the security of their staff and children."]
+[22102, 'UWA communications manager Bashir Hangi described the incident as unfortunate.']
+[22103, "He was however not specific on whether the parents would be compensated or not, saying: 'We have an arrangement for our staff who lose their lives or their loved ones in the line of duty.'"]
+[22104, "'The TV showed the mandatory evacuation and I burst into tears,' Cook said."]
+[22105, "'Everything I had planned and dreamed about.'"]
+[22152, "'We are working towards establishing the leopard and evaluating options such as relocating it somewhere else.'"]
+[22106, "'It is not good to keep it there,' he said in Watsapp message to this reporter."]
+[22159, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."]
+[22160, "'Why has it taken us 60 years?"]
+[22161, "The materials didn't exist to allow us to do it."]
+[22162, "We had to make a heat shield, and we love it."]
+[22163, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"]
+
+10. BP Shareholders Revolt Over CEO Pay
+(1) Future Plans:
+[22128, 'Carl-Henric Svanberg, the chairman, promised to review the terms on which pay is awarded in consultation with shareholders before next year.']
+[22129, 'BP blamed the falling oil price and a $9.8bn charge to settle claims related to Deepwater Horizon for its loss, among other factors.']
+[22130, "'On remuneration, the shareholders' reactions are very strong.", 22131, 'They are seeking change in the way we should approach this in the future.', 22132, "'We hear you.", 22133, "We will sit down with our largest shareholders to make sure we understand their concerns and return to seek your support for a renewed policy.'"]
+(2) Assumptions:
+[22134, "'Investors are sending a clear message to executives on pay.", 22135, "They are saying enough is enough and you have gone too far.'"]
+(3) Opinions:
+[22108, "Investors voted against the company's pay decisions for the first time in living memory, with 59 per cent of proxy votes cast going against BP's decision to pay Mr Dudley nearly $20m for 2015, a year in which the company ran up a $5.2bn loss."]
+[22119, "'The company has ignored warnings.", 22120, "They really need to get this right next time, or it could mean people will have to step down.'"]
+[22134, "'Investors are sending a clear message to executives on pay.", 22135, "They are saying enough is enough and you have gone too far.'"]
+(4) Facts:
+[22107, 'Angry shareholders mounted an unprecedented protest against BP on Thursday, rebelling against a 20 per cent pay rise for chief executive Bob Dudley despite the oil group making its worst ever loss.']
+[22109, "It was the first time that a top British company was defeated over executive pay since shareholders at advertising group WPP and Xstrata, the mining company, rebelled four years ago during what was dubbed the 'shareholder spring'."]
+[22110, "It left BP scrambling to win back support of some of the City's biggest institutions."]
+[22111, 'The rebellion highlighted a growing trend of institutional investors and advisers around the world taking a more aggressive stance over pay.']
+[22112, 'Smith & Nephew, the FTSE 100 medical devices group, also suffered a defeat on their remuneration report on Thursday as 53 per cent of shareholders voted against the pay package of chief executive Olivier Bohuon.']
+[22113, "Although Mr Bohuon's overall pay fell to $5.5m in 2015 compared with $6.8m in 2014, shareholders protested because the company allowed long-term incentives to vest despite falling below initial targets."]
+[22114, "US banks from Citigroup to Bank of America have faced pressure to toughen bonus 'clawback' regimes, which put executives on the hook for future losses."]
+[22115, "A resolution demanding more details of JPMorgan's clawback plans attracted 44 per cent support last year."]
+[22116, "Mr Dudley's pay looked particularly out of line to shareholders because other major energy company bosses took pay cuts in 2015, a year when energy companies were hit hard by the oil price crash."]
+[22117, 'According to ISS Corporate Solutions in the US, the median pay of an S&P 500 energy company chief executive, excluding their pension, fell by 1.8 per cent last year after four years of increases that ranged from 4.8 to 8.2 per cent.']
+[22118, "Lombard Shareholders get sniffy over Dudley's pay City nostrils are twitching for the whiff of other corporate fat cats, writes Jonathan Guthrie."]
+[22119, "'The company has ignored warnings.", 22120, "They really need to get this right next time, or it could mean people will have to step down.'"]
+[22128, 'Carl-Henric Svanberg, the chairman, promised to review the terms on which pay is awarded in consultation with shareholders before next year.']
+[22129, 'BP blamed the falling oil price and a $9.8bn charge to settle claims related to Deepwater Horizon for its loss, among other factors.']
+[22130, "'On remuneration, the shareholders' reactions are very strong.", 22131, 'They are seeking change in the way we should approach this in the future.', 22132, "'We hear you.", 22133, "We will sit down with our largest shareholders to make sure we understand their concerns and return to seek your support for a renewed policy.'"]
+
+Headline 11: Equifax told the Committee they had information as specific as: Whether a consumer purchased a particular soft drink or shampoo product in the last six months Whether they use laxatives or yeast infection products How many OB/GYN doctor visits they've had within the last 12 months How many miles they traveled in the last 4 weeks The number of whiskey drinks they consumed in the past 30 days.
+
+(1) Future Plans: 
+[21992, "Equifax told the Committee they had information as specific as: Whether a consumer purchased a particular soft drink or shampoo product in the last six months Whether they use laxatives or yeast infection products How many OB/GYN doctor visits they've had within the last 12 months How many miles they traveled in the last 4 weeks The number of whiskey drinks they consumed in the past 30 days."]
+
+(2) Assumptions:
+None.
+
+(3) Opinions: 
+None.
+
+(4) Facts:
+[21992, "Equifax told the Committee they had information as specific as: Whether a consumer purchased a particular soft drink or shampoo product in the last six months Whether they use laxatives or yeast infection products How many OB/GYN doctor visits they've had within the last 12 months How many miles they traveled in the last 4 weeks The number of whiskey drinks they consumed in the past 30 days."]
+
+Headline 12: That data is then sorted into a dictionary with more than 75,000 data points like, 'whether the individual or household is a pet owner, smokes, has a propensity to purchase prescriptions through the mail, donates to charitable causes, is active military or a veteran, holds certain insurance products including burial insurance or juvenile life insurance, enjoys reading romance novels, or is a hunter.'
+
+(1) Future Plans:
+None.
+
+(2) Assumptions: 
+None.
+
+(3) Opinions:
+None. 
+
+(4) Facts:
+[21993, "That data is then sorted into a dictionary with more than 75,000 data points like, 'whether the individual or household is a pet owner, smokes, has a propensity to purchase prescriptions through the mail, donates to charitable causes, is active military or a veteran, holds certain insurance products including burial insurance or juvenile life insurance, enjoys reading romance novels, or is a hunter.'"]
+
+
+Headlines 13-14:
+13. Maybe it was the Cirque du Soleil acrobats dancing to taiko drums, the 9-foot tall elephant puppet or the ponchos with illuminating shoulder pads for audience members, but Microsoft's much-anticipated Project Natal preview was a cross between a gospel revival and a Las Vegas show.
+14. The evacuation from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene.
+
+Headlines 13:
+(1) Future Plans: [22207, "Maybe it was the Cirque du Soleil acrobats dancing to taiko drums, the 9-foot tall elephant puppet or the ponchos with illuminating shoulder pads for audience members, but Microsoft's much-anticipated Project Natal preview was a cross between a gospel revival and a Las Vegas show."], [22208, 'Microsoft While the event was short on news, Microsoft did unveil a new name — Kinect — for Project Natal, the motion technology that lets users play videogames and interact with the Xbox 360 console with gestures and spoken commands.'], [22209, 'The Sunday night event, which kicked off the E3 Expo videogame industry tradeshow, was meant to be a way for audience members to get a sneak peek at Kinect.'], [22210, 'The details about pricing and availability are expected to be unveiled at its Monday press conference.'], [22211, "Kinect is seen as Microsoft's answer to Nintendo Co.'s Wii, which popularized game play."], [22212, "However, unlike the Wii, Kinect doesn't require a controller at all and, according to Microsoft, it can recognize a wider range of motion and even differentiate voices."]
+(2) Assumptions: []
+(3) Opinions: []
+(4) Facts: [22213, 'Audience members were handed white silk ponchos with shoulder pads upon entering the University of Southern California basketball arena.'], [22214, 'In order to reach the event, certain audience members were told to walk into one of many fake living rooms where a family greeted them and pointed the way to the main stage.'], [22215, 'Once there, hundreds of audience members, all wearing the white silky robes, milled about the floor of the arena until the show started.'], [22216, 'In one corner, a family sat on a sofa suspended about 50 feet in the air.'], [22217, "Declaring that 'history is about to be rewritten,' the show started off with Cirque acrobats, dressed prehistorically, forming a procession with Japanese taiko drums beating in the background."], [22218, 'Then a boy rode in on what appeared to be a mechanical elephant with a screen on the side.'], [22219, 'Once he reached the stage, the boy demonstrated the evolution from playing games with a controller to playing games with motion as the audience oohed and aahed.'], [22220, "The final step revealed the boy standing on a giant black ball with a neon-green 'X,' the Xbox logo."], [22221, "The rest of the show was a parade of games, which the boy and 'his family' demonstrated in a model living room, which occasionally rotated 360 degrees."], [22222, 'There were also moments where the family would be playing with Kinect while what appeared to be a young girl walked upside down on the ceiling above them.'], [22223, 'Among the games previewed by Microsoft was whitewater rafting and a racing game, as well as virtual Tai Chi and a preview of a Star Wars game that lets players fight Darth Vader with a light saber.'], [22224, 'There was also a collection of sports games that lets players jump hurdles, run sprints, play volleyball, kick a soccer ball and bowl.'], [22225, 'Another let you train and play with a virtual tiger cub.'], [22226, 'The show ended with a grand finale demo of many different families playing dancing games where they learn various steps and moves with the help of a virtual instructor']
+
+Headlines 14:
+(1) Future Plans: []
+(2) Assumptions: []
+(3) Opinions: []
+(4) Facts: [22021, 'The exodus from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene.'], [22022, "Gas stations are running out, ATM's are out of cash and one woman was out of a very special night."], [22023, 'Melissa Cook was supposed to get married this weekend.'], [22024, "'The TV showed the mandatory evacuation and I burst into tears,'"], [22025, "'Everything I had planned and dreamed about.'"], [22026, "Hurricane Irene's wave of disappointment also affected beach goers in South Carolina."], [22027, 'Police closed the beaches to swimming after six swimmers were rescued from rip currents caused by the massive storm.'], [22028, "As Irene -- a Category 3 hurricane with 115 mph winds -- blasted through the Bahamas, the U.S. began bracing for the storm's worst."], [22029, "To See Irene's Expected Path Over East Coast, Click Here Homeland Security Secretary Janet Napolitano, under President Obama's direction, contacted East Coast mayors and governors potentially in Irene's path."], [22030, 'Later, she and FEMA director Craig Fugate later held a conference call with state, local, and tribal officials on planning for the storm.'], [22031, "'Given the unpredictability of these storms, we are currently planning for several scenarios, including potential impacts to major metro areas and critical infrastructure,' Napolitano said in a Department of Homeland Security news release."], [22032, 'Evacuation orders were issued along the coast of North Carolina today in Dare, Currituck and Cateret counties.'], [22033, 'There are 180,000 people just in Dare County and another 150,000 people were told to get out of Ocean City, Md.'], [22034, "'This is a very, very serious situation,' said Dorothy Toolan, public information officer for Dare County, N.C. 'We have not seen anything like this in the lifetimes of most our residents...Once the storm hits it will be very difficult to respond to distress calls.'"], [22035, 'Not everyone was heading out of town.'], [22036, 'The parking lot of a Wal-Mart in Moorehead City in Cateret County was filled with people stocking up on supplies to ride out the storm.'], [22037, "'I've lived through hurricanes all my life, and I've only run from one,' said a man who identified himself simply as George."], [22038, "'Unless it's a (category) 4 or 5 coming straight at me, I'm not leaving.'"], [22039, "'I'm going to sit at home, watch television and play on my computer."], [22040, "I'm not worried about this thing,' George said."], [22041, 'In Florida, at least 8 people were hurt after a wave knocked them over on the jerry they were on off Boynton Beach Inlet, The Associated Press reported.'], [22042, 'Others were taking no chances.'], [22043, 'A state of emergency was declared in Virginia, Maryland, New Jersey, New York and Connecticut.'], [22044, "New York City's Mayor Michael Bloomberg said police are deploying more than 80 boats around the city as well as several helicopters to prepare for emergencies."], [22045, "City hospitals have tested their emergency generators, and the city's airports are stockpiling diapers, cots, blankets, pillow and bottles of water."], [22046, "Fearing Irene's wrath, Amtrak announced it is canceling all train service south of Washington D.C. for Friday, Saturday and Sunday."], [22047, 'Irene is traveling at 12 mph, making it a slow moving storm which will allow it to hover over an area and area to dump rain and batter it with ferocious winds for an expended period.']
+
+
+15. Suspected Phoenix Freeway Shooter Released from Jail
+(1) Future Plans: None identified.
+(2) Assumptions: None identified.
+(3) Opinions: 
+[22062] "'Our client was branded public enemy No. 1, he was called a domestic terrorist and he's been in jail in solitary confinement for seven months. Our reaction? We're thrilled,' Lamm said."
+(4) Facts:
+[22048] "A judge on Tuesday allowed a man charged in freeway shootings that rattled Phoenix last year to be released from jail amid questions about evidence authorities say links him to the crimes."
+[22049] "The judge overseeing the case of Leslie Merritt Jr. reduced his bond to zero and said he can return to his home under electronic monitoring."
+[22050] "He was expected to be released later in the day."
+[22051] "The reduction of the bond — once $1 million — was a major victory as defense lawyers contend that ballistic tests cast doubt on the claim by authorities that Merritt was behind four of the freeway shootings."
+[22052] "'With all due respect your honor, there's no evidence against him to show he's responsible for this,' defense lawyer Jason Lamm said."
+[22053] "'He is no more the I-10 shooter than, respectfully, you are.'"
+[22054] "Merritt lifted up his shackled arms in celebration as he walked from the courtroom."
+[22055] "After the hearing, family members hugged and shook the hands of defense lawyers."
+[22056] "Merritt has pleaded not guilty to drive-by shooting, aggravated assault and other charges."
+[22057] "Judge Warren Granville has imposed a gag order on lawyers in the case."
+[22058] "As a result, lawyers said they could not discuss the evidence that prompted the shift in bond."
+[22059] "Arizona Department of Public Safety officials declined to comment, citing the gag order."
+[22060] "The Maricopa County Attorney's Office did not immediately return requests for comment."
+[22061] "'Our client was branded public enemy No. 1, he was called a domestic terrorist and he's been in jail in solitary confinement for seven months. Our reaction? We're thrilled,' Lamm said."
+[22062] "'Our client was branded public enemy No. 1, he was called a domestic terrorist and he's been in jail in solitary confinement for seven months. Our reaction? We're thrilled,' Lamm said."
+[22063] "'He is no more the I-10 shooter than, respectfully, you are.'"
+[22064] "Merritt lifted up his shackled arms in celebration as he walked from the courtroom."
+[22065] "After the hearing, family members hugged and shook the hands of defense lawyers."
+
+16. Nazi War Criminal Vladimir Katriuk Dies at 93
+(1) Future Plans: None identified.
+(2) Assumptions: None identified.
+(3) Opinions: 
+[22076] "News of Vladimir Katriuk's death emerged several hours after the Canadian Centre for Israel and Jewish Affairs said Ottawa should take the necessary steps to ensure he be held accountable if he were found guilty of war crimes."
+(4) Facts:
+[22076] "News of Vladimir Katriuk's death emerged several hours after the Canadian Centre for Israel and Jewish Affairs said Ottawa should take the necessary steps to ensure he be held accountable if he were found guilty of war crimes."
+[22077] "Russia charged Katriuk with genocide this month in connection with the 1943 killing of civilians in Khatyn, now part of Belarus."
+[22078] "According to war reports, Katriuk was a member of a Ukrainian battalion of the SS, the elite Nazi storm troops, between 1942 and 1944."
+[22079] "He had denied the accusations against him."
+[22080] "The Russian embassy in Ottawa called on the Canadian government a few weeks ago to support a criminal case against Katriuk."
+[22081] "The Investigative Committee of the Russian Federation, a law enforcement body that reports only to President Vladimir Putin, called on Canada to deliver Katriuk to Moscow so he could be tried for alleged war crimes."
+[22082] "Canada ignored the request and said it would never recognise Moscow's annexation of Crimea and its interference in Ukraine."
+[22083] "A study three years ago alleged Katriuk was a key participant in a village massacre during the second world war."
+[22084] "A man with Katriuk's name lay in wait in March 1943 outside a barn that had been set ablaze, operating a machine-gun and firing on civilians as they tried to flee the burning building, it said."
+[22085] "'One witness stated that Katriuk was a particularly active participant in the atrocity: he reportedly lay behind the stationary machine-gun, firing rounds on anyone attempting to escape the flames,' the study by Lund University historian Per Anders Rudling says."
+[22086] "Rudling, whose research was published in spring 2012 issue of Holocaust and Genocide Studies, attributed these details to KGB interrogations released for the first time in 2008."
+[22087] "Katriuk allegedly deserted his SS unit when it moved to France from eastern Europe in 1944."
+[22088] "He lived in Paris before moving to Canada in 1951, according to court documents."
+[22089] "He later became a Canadian citizen and lived with his French-born wife in Ontario, working as a beekeeper."
+[22090] "In 1999, Canada's federal court ruled Katriuk obtained Canadian citizenship under false pretences, by not telling authorities about his collaboration with the Nazis, but could find no evidence he committed atrocities."
+[22091] "In 2007, the Harper cabinet decided not to revoke his citizenship."
+[22092] "News of Vladimir Katriuk's death emerged several hours after the Canadian Centre for Israel and Jewish Affairs said Ottawa should take the necessary steps to ensure he be held accountable if he were found guilty of war crimes."
+
+
+17. Tesla Board Responds to Musk's Privatization Tweet
+
+(1) Future Plans:
+[22117, 'Last week, Elon opened a discussion with the board about taking the company private.'], [22118, "This included discussion as to how being private could better serve Tesla's long-term interests, and also addressed the funding for this to occur."], [22119, 'The board has met several times over the last week and is taking the appropriate next steps to evaluate this.']
+
+(2) Assumptions:
+None
+
+(3) Opinions:
+None
+
+(4) Facts:
+[22116, 'A statement from Tesla's board members on Wednesday raises further questions following the shock tweet from Elon Musk that he wants to take the auto maker private.'], [22120, 'Two board members, venture capital investor Steve Jurvetson as well as Musk's brother, Kimbal Musk, didn't sign on to the statement.'], [22121, '(Jurvetson has taken leave from Tesla after being accused of sexual harassment.)'], [22122, "The statement from members of Tesla Inc.'s TSLA, +5.77% board does show there was a discussion of how he could fund such a bid."], [22123, "But the board's statement leaves open the crucial question of whether they were satisfied that—as Musk's surprise tweet put it—he had enough backing to assert 'funding secured.'"], [22124, 'At $420 a share, the price at which Musk tweeted he was considering setting the bid, the deal would be valued at $72 billion before debt.'], [22125, 'Related: A Tesla buyout would be the largest in history—by a wide margin Tesla shares were down more than 1% early Wednesday, after surging by about 11% on Tuesday.'], [22126, "The electric-car maker's stock has climbed by 21% so far this year."], [22127, 'By comparison, the Dow Jones Industrial Average DJIA, +3.29% is set for a year-to-date gain of 3.5%, the S&P 500 index SPX, +3.43% is on track for a return of 6.8%, while the Nasdaq Composite Index COMP, +4.26% has advanced by more than 14% so far this year, according to FactSet data.'], [22128, "Tesla's run-up comes despite the company being a consistent target of investors aiming to short the its stock, or bet against Tesla's shares rising."], [22129, 'Another crucial question raised by the statement is the timing.'], [22130, "'Last week' predates Tesla's filing on Monday of its 10-Q with the Securities and Exchange Commission, which didn't mention such discussions."], [22131, "News of a takeover would certainly be considered material, yet it wasn't disclosed until Musk's tweet on Tuesday."], [22132, "Another question is what the 'appropriate next steps' are, though that's probably the imminent formation of a committee to evaluate the bid."], [22133, 'What was left out of the statement also is worth considering.'], [22134, "For instance, there was no indication that the board was satisfied with either Musk's method or timing for announcing the approach, though they didn't rebuke him, either."], [22135, 'Murdoch also sits on the board of News Corp., which owns MarketWatch, the publisher of this report.']
+
+18. Kanye West Seeks Funding from Tech Leaders
+
+(1) Future Plans:
+[22205, 'In his Twitter posts on 14 February, West asked Zuckerberg for $1bn to help handle his debts and bring Donda, his startup idea, to fruition.']
+
+(2) Assumptions:
+None
+
+(3) Opinions:
+[22186, 'There's some context here.'], [22188, 'The entertainment industry and tech have long had a fascination with each other.'], [22189, "For music titans such as West, Nas, MC Hammer and Justin Bieber, it's become a way to grow serious businessperson bona fides."], [22190, "For technologists, it's the ultimate revenge of the nerds."], [22202, "It couldn't be learned what relationship, if any, West maintains with executives at some of the biggest Silicon Valley companies, such as Facebook, Twitter, Uber and Alphabet (the artists formerly known as Google), although he has dined with Kevin Systrom, the cofounder of Facebook-owned Instagram."], [22204, "At Apple's southern California headquarters, where former record executive Jimmy Iovine helps run Apple music, West is sometimes found hanging out in Iovine's office, a person familiar with the meetings said.'], [22206, "As Aaron Levie, the chief executive of Box, noted on Twitter, that's a lot of money these days, even in Silicon Valley."]
+
+(4) Facts:
+[22180, 'There appears to be some truth to Kanye West's claim that he has met 'all the tech guys'.'], [22181, 'The Chicago hip-hop mogul this weekend declared he is $53m in debt and requested funding from Facebook founder Mark Zuckerberg and Google cofounder Larry Page.'], [22182, 'He then threw down this 70-character gauntlet: KANYE WEST (@kanyewest) All you guys had meetings with me and no one lifted a finger to help….'], [22183, "The Guardian wasn't able to determine the true nature of West's finances, but he does appear to have more than a few friends in Silicon Valley, based on public press accounts and interviews with several tech executives."], [22184, "He frequently shows up at Apple's southern California office, is friends with rap-obsessed venture capitalist Ben Horowitz, has reportedly dined with an Instagram founder, and has some sort of social relationship with Dropbox chief executive Drew Houston."], [22185, 'The interactions go back at least half a decade.'], [22192, 'Perhaps trying to grease the levers of finance, West invited several tech thought leaders to his 2013 engagement party at San Francisco's AT&T Park, home of the Giants.'], [22193, "Horowitz, the cofounder of mega venture capital firm Andreessen Horowitz, was there, as was Dropbox's Houston."], [22194, 'Another person present: Mahbod Moghadam, the controversial cofounder of Rap Genius, the Andreessen Horowitz-backed company that helps people understand rap lyrics.'], [22195, "'They're tight."], [22196, "It's cute,' Moghadam, who now works at Everipedia, said of Horowitz and West."], [22197, 'Moghadam left Rap Genius in 2014 after comments he made about a mass shooting at the University of California Santa Barbara.'], [22200, "'In their defense, I did do a lot of stupid things,' he said.'], [22201, "Dropbox and Andreessen Horowitz didn't immediately respond to requests for comment."], [22203, "But he does appear to have a working relationship with Apple, a less-than-surprising development given the iPhone maker's work with streaming music these days – even if he did declare his new album The Life of Pablo would 'never never never' be on Apple's iTunes Store and would be exclusive to the streaming service Tidal."]
+
+
+Headlines 19-20:
+19. Bill Cosby's publicist, Andrew Wyatt, claims both Cosby and Brett Kavanaugh are victims of 'a sex war' that is 'going on in Washington today.'
+20. Maybe it was the Cirque du Soleil acrobats dancing to taiko drums, the 9-foot tall elephant puppet or the ponchos with illuminating shoulder pads for audience members, but Microsoft's much-anticipated Project Natal preview was a cross between a gospel revival and a Las Vegas show.
+
+Headlines 19:
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: [21981, 21982, 21983, 21984, 21985, 21986, 21987, 21988, 21989, 21990, 21991, 21992, 21993, 21994, 21995, 21996, 21997, 21998, 21999]
+(4) Facts: 
+
+Headlines 20:
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: 
+(4) Facts: [22207, 22208, 22209, 22210, 22211, 22212, 22213, 22214, 22215, 22216, 22217, 22218, 22219, 22220, 22221, 22222, 22223, 22224, 22225, 22226]

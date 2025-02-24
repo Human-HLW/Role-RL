@@ -1,0 +1,154 @@
+Headline 1: Homicide detectives investigate deaths of pharmaceutical billionaires Barry and Honey Sherman
+
+(1) Future Plans: 
+(2) Assumptions: [21985, "As questions mount about the cause of the deaths, some news outlets are quoting police sources, saying the case is being investigated as a murder-suicide."]
+(3) Opinions: [21986, "In a statement released Saturday, the family said 'our parents shared an enthusiasm for life and commitment to their family and community totally inconsistent with the rumours regrettably circulated in the media as to the circumstances surrounding their deaths.'"], [21987, "'We are shocked' 'We are shocked and think it's irresponsible that police sources have reportedly advised the media of a theory which neither their family, their friends nor their colleagues believe to be true,' the statement continued."], [22008, "He counted many people among his friends, including Toronto Mayor John Tory who commented on his contributions to the city on Saturday."], [22009, "'Barry Sherman was a reserved man, but a man who, over his business career, created hundreds and hundreds of jobs for people in the city of Toronto,' he said."], [22010, "'He loyally invested in the city of Toronto and kept many of the manufacturing and other operations of Apotex here,' Tory added."], [22014, "'If you looked up in the dictionary the word 'workaholic', you'd see a picture of Barry Sherman,' he told CBC News."], [22015, "'He built a business up from absolutely nothing to serving generic drugs to 115 countries in the world.'"], [22016, "Honey Sherman, on the other hand, was described as a dedicated philanthropist."], [22020, "(Sean Kilpatrick/Canadian Press) 'Honey always got her way."], [22021, 'She pushed and pushed, especially in charity causes.'], [22022, "Honey didn't need anything from anybody, so what she did; she tried to be the link between the haves and the have nots,' said Godfrey."], [22023, "Former Ontario premier Bob Rae remembered Barry Sherman fondly, telling CBC that he 'didn't hesitate to let you know when he was happy and wasn't happy.'"], [22024, "'It's going to be big loss."], [22025, "The Canadian business community has lost a truly remarkable individual.'"]
+(4) Facts: [21981, "Homicide detectives have now taken over the investigation into the deaths of two pharmaceutical billionaires that police have deemed 'suspicious.'"], [21982, "Apotex founder Barry Sherman, 75, and his wife, Honey Sherman, 70, both died from 'ligature neck compression,' meaning strangulation, police said in a statement issued Sunday."], [21983, 'The influential couple were found dead in their North York home on Friday.'], [21984, 'A police source previously told CBC News that someone outside the Sherman family discovered the bodies, but police remain tight-lipped about the investigation.'], [21988, "One of two bodies removed from the home of billionaire founder of Canadian pharmaceutical firm Apotex Inc., Barry Sherman and his wife Honey, who were found dead under circumstances that police described as 'suspicious' Friday."], [21989, '(Chris Helgren/Reuters) Toronto homicide Det.'], [21990, "Brandon Price told reporters outside the couple's home on Friday that police 'cannot say 100 per cent with certainty' whether or not foul play was involved."], [21991, 'Price said there were no signs of forced entry into the home, and that police were not searching for any outstanding suspects.'], [21992, 'The couple had listed their home at 50 Old Colony Rd.'], [21993, 'in Willowdale near Bayview Avenue and Highway 401, shortly before they died, for $7 million.'], [21994, 'Friends, employees react Barry and Honey Sherman were found dead at 50 Old Colony Rd.'], [21995, 'in the Bayview Avenue and Highway 401 area.'], [21996, '(Katherine Brulotte/CBC) Over the weekend, a makeshift memorial was set up in front of the home.'], [21997, 'A steady stream of neighbours, Apotex workers, and well-wishers dropped off flowers in honour of the Shermans.'], [21998, "'I was shocked."], [21999, "I couldn't sleep the last few days because of the memories,' he said on his way to visit the memorial."], [22000, "Flowers and police tape could be seen outside the billionaire and noted philanthropist couple's North York mansion on Old Colony road in the Bayview Avenue and Highway 401 area, from which their bodies were removed on stretchers the evening before."], [22001, "(Lorenda Reddekopp/CBC) 'Amazing person, just amazing."], [22002, "I've never seen a person like him in my life,' said Vinay Chopra, a former Apotex employee."], [22003, 'He worked with the company for 23 years and said he is struggling to come to grips with the tragedy.'], [22004, "'I was shocked."], [22005, "I couldn't sleep the last few days because of the memories,' he said on his way to visit the memorial."], [22006, 'Barry Sherman founded Apotex in 1974 and has amassed a vast fortune since.'], [22007, 'His net worth was recently estimated by Canadian Business magazine at $4.77 billion, making him the 15th richest person in the country.'], [22011, "'A big loss' Vinay Chopra, a former Apotex worker."], [22012, '(CBC) Paul Godfrey, CEO of Postmedia, also considered himself a friend of the couple.'], [22013, 'He says Barry was dedicated to his work.'], [22017, 'She was a member of the board of the Baycrest Foundation and the York University Foundation.'], [22018, "She also served on the boards of Mount Sinai's Women's Auxiliary, the Simon Wiesenthal Center and the International American Joint Distribution Committee."], [22019, 'Postmedia CEO Paul Godfrey.']
+
+Headline 2: Ariel Winter defends her fashion choices and calls out haters
+
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: [22028, "Instagram I don't know about you, but I love Ariel Winter for this."], [22029, 'Her zero-fucks-given attitude is refreshing, inspiring and empowering.'], [22030, "However, what's not refreshing, inspiring and empowering is the cringeworthy baby voice Ariel Winder made when she joined the 'Conan' show Thursday night."], [22031, "Honestly, I'm not sure how to describe this horrifying sound, so just take a listen for yourself."], [22034, "Honestly, I don't know if I'll ever be the same after hearing that voice."], [22035, 'I think I need to take five shots of whiskey right now and forget this ever happened.'], [22036, "Think of the worst sound you've ever heard."], [22037, 'Got it?'], [22038, "Well, I'm certain the sounds cats make while dying in an alley isn't as bad as Ariel Winter's baby voice."], [22039, 'I love you, girl, but I have to keep it real.'], [22040, "Let's get back to talking about the 19-year-old 'Modern Family' star's presence on social media, where she is an absolute queen."], [22041, "In an interview with Elite Daily, Ariel Winter spoke about the photos she posts on Instagram and how she couldn't care less what trolls and haters have to say."]
+(4) Facts: [22026, 'What are you doing, Ariel Winter?'], [22027, "The 19-year-old 'Modern Family' star is known for posting scantily clad photos on Instagram and Snapchat and genuinely not giving a crap about what anyone thinks."], [22032, 'Team Coco on YouTube See?'], [22033, "I wasn't lying."], [22042, "She said, If I can't win, I'm going to work on a relationship with myself, which I also think is the most important thing we can teach young women and men today."], [22043, "And for me, now I post a photo and I don't care."], [22044, "If you're going to write something on it, whatever… If somebody doesn't like what I'm doing, you can unfollow me."], [22045, 'Donald Trump said Saturday that had teachers been armed at Umpqua Community College in Roseburg, Oregon, the deadly shooting there this week would not have been as tragic.']
+
+
+Headline 3: Donald Trump comments on gun control and Oregon shooting
+
+(1) Future Plans: 
+
+(2) Assumptions: 
+
+(3) Opinions: 
+[22046, "Donald Trump said Saturday that had teachers been armed at Umpqua Community College in Roseburg, Oregon, the deadly shooting there this week would not have been as tragic."]
+[22049, "'By the way, it was a gun-free zone,' he said at a campaign event in Franklin, Tennessee."]
+[22050, "'Let me tell you, if you had a couple teachers with guns in that room, you would have been a hell of a lot better off.'"]
+[22059, "'In fact, I have a license to carry in New York, can you believe that?"]
+[22060, "Nobody knows that,' he said"]
+
+(4) Facts: 
+[22047, "Trump has previously cited mental health issues, not guns, as the biggest cause of shootings in the U.S."]
+[22048, "But his comments on Saturday are his most extensive and emotionally charged about firearms since he launched his campaign in June, as he spoke about his personal gun ownership and elicited his biggest applause of the afternoon in discussing gun rights."]
+[22051, "Photos: Shooting at Oregon community college Photos: Shooting at Oregon community college Community members attend a candlelight vigil at Stewart Park for those killed during a shooting at Umpqua Community College in Roseburg, Oregon, on Thursday, October 1."]
+[22052, "The massacre left nine people dead and nine wounded."]
+[22053, "The gunman also died."]
+[22054, "'Somehow this has become routine,' he said."]
+[22055, "'The reporting is routine."]
+[22056, "My response here at this podium ends up being routine, the conversation in the aftermath of it."]
+[22057, "We've become numb to this.'"]
+[22058, "Douglas County Sheriff John Hanlin announced at a news conference that the shooter was dead."]
+
+Headline 4: Kim Jong-nam killed by VX nerve agent, say Malaysian police
+
+(1) Future Plans: 
+[22096, "The authorities say they intend to decontaminate the airport and areas the suspects are known to have visited."]
+
+(2) Assumptions: 
+[22079, "There is widespread suspicion that North Korea was responsible for the attack, which it fiercely denies."]
+[22124, "North Korea is one of just six countries not to have signed the Chemical Weapons Convention (CWC) arms control treaty banning the production, stockpiling and use of chemical weapons."]
+[22125, "According to the Nuclear Threat Initiative project, however, North Korea is thought to have the third largest stockpile of chemical weapons, after the US and Russia."]
+[22126, "South Korea's defence ministry estimated in 2014 that the North has somewhere between 2,500 and 5,000 tonnes of nerve agents in stock, with VX identified as among them."]
+
+(3) Opinions: 
+
+(4) Facts: 
+[22076, "Kim Jong-nam, the half-brother of North Korea's leader, was killed by a highly toxic nerve agent, says Malaysia."]
+[22077, "Mr Kim died last week after two women accosted him briefly in a check-in hall at a Kuala Lumpur airport."]
+[22078, "Malaysian toxicology reports indicate he was attacked using VX nerve agent, which is classified as a weapon of mass destruction by the United Nations."]
+[22080, "It responded furiously to Malaysia's insistence on conducting a post-mortem examination and has accused Malaysia of having 'sinister' purposes."]
+[22081, "What does the toxicology report say?"]
+[22082, "Malaysia's police chief Khalid Abu Bakar said on Friday that the presence of the nerve agent had been detected in swabs taken from Mr Kim's eyes and face."]
+[22083, "One of the women Mr Kim interacted with at the airport on 13 February had also fallen ill with vomiting afterwards, he added."]
+[22084, "Mr Khalid said other exhibits were still under analysis and that police were investigating how the banned substance might have entered Malaysia."]
+[22085, "'If the amount of the chemical brought in was small, it would be difficult for us to detect,' he said."]
+[22086, "What is the deadly VX nerve agent?"]
+[22087, "Image copyright Science Photo Library Image caption Molecular model of VX nerve agent shows atoms represented as spheres The most potent of the known chemical warfare agents, it is a clear, amber-coloured, oily liquid which is tasteless and odourless Works by penetrating the skin and disrupting the transmission of nerve impulses - a drop on the skin can kill in minutes."]
+[22088, "Lower doses can cause eye pain, blurred vision, drowsiness and vomiting It can be disseminated in a spray or vapour when used as a chemical weapon, or used to contaminate water, food, and agricultural products VX can be absorbed into the body by inhalation, ingestion, skin contact, or eye contact Clothing can carry VX for about 30 minutes after contact with the vapour, which can expose other people Banned by the 1993 Chemical Weapons Convention Read more about VX Who could be behind the attack?"]
+[22089, "How could it have killed Mr Kim?"]
+[22090, "Media playback is unsupported on your device Media caption CCTV footage appears to show the moment Kim Jong-nam is attacked Bruce Bennett, a weapons expert at the research institute the Rand Corporation, told the BBC it would have taken only a tiny amount of the substance to kill Mr Kim."]
+[22091, "He suggests a small quantity of VX - just a drop - was likely to have been put on cloths used by the attackers to touch his face."]
+[22092, "A separate spray may have been used as a diversion."]
+[22093, "Mr Khalid has previously said the fact the woman who accosted Mr Kim immediately went to wash her hands showed she was 'very aware' that she had been handling a toxin."]
+[22094, "It would have begun affecting his nervous system immediately, causing first shaking and then death within minutes."]
+[22095, "More from expert Bruce Bennett Is Kuala Lumpur airport safe?"]
+[22097, "VX is a v-type nerve agent, which means the substance can remain lethal for a long period of time."]
+[22098, "'It's as persistent as motor oil."]
+[22099, "It's going to stay there for a long time... which means anyone coming in contact with this could be intoxicated from it,' forensic toxicologist John Trestrail told the Associated Press news agency."]
+[22100, "No passengers, airport workers or medical staff who treated Mr Kim were reported to have become ill in the aftermath of the incident, the news agency adds."]
+[22101, "Tens of thousands of passengers are believed to have passed through the airport since the attack more than 10 days ago."]
+[22102, "Who was Kim Jong-nam?"]
+[22103, "Image copyright AP Image caption North Korea has not identified the man who died as Kim Jong-nam, only as a North Korean citizen The well-travelled and multilingual oldest son of late North Korean leader Kim Jong-il, he was once considered a potential future leader."]
+[22104, "He has lived abroad for years and was bypassed in favour of his half-brother, Kim Jong-un."]
+[22105, "He had been travelling on a passport under the name Kim Chol."]
+[22106, "North Korea has yet to confirm that the deceased was actually Kim Jong-nam."]
+[22107, "For many years, it was believed Kim Jong-nam was being groomed to succeed his father as the next leader."]
+[22108, "But that appears to have come to an end in 2001 when Kim was caught sneaking into Japan on a fake passport."]
+[22109, "He later became one of the regime's most high-profile critics, openly questioning the Stalinist policies and dynastic succession his grandfather Kim Il-sung began crafting in 1948."]
+[22110, "Kim Jong-nam: North Korea's critic in exile How did he die?"]
+[22111, "A woman was seen in CCTV footage approaching Mr Kim and wiping something across his face."]
+[22112, "He sought medical help at the airport, saying someone had splashed or sprayed him with liquid."]
+[22113, "He had a seizure and died on the way to hospital."]
+[22114, "His body remains in the hospital's mortuary, amid a diplomatic dispute over who should claim it."]
+[22115, "Main players in mysterious killing Who did it?"]
+[22116, "Malaysia says it was clearly an attack by North Korean agents."]
+[22117, "Four people are in custody, including one North Korean and the two women he interacted with at the airport."]
+[22118, "Seven North Koreans are being sought, including a diplomat."]
+[22119, "There are a number of North Korean organisations capable of directing such an attack, including the exclusive Guard Command."]
+[22120, "The North hit back at Malaysia on Thursday, saying it was responsible for the death of one of its citizens."]
+[22121, "In response, Malaysian Foreign Minister Anifah Aman warned North Korean envoy Kang Chol on Friday that he would be expelled unless he stopped 'spewing lies' about the attack."]
+[22122, "Who in North Korea could organise a VX murder?"]
+[22123, "North Korea's history of foreign assassinations Does North Korea have VX?"]
+
+
+Headline 5: Donald Trump said Saturday that had teachers been armed at Umpqua Community College in Roseburg, Oregon, the deadly shooting there this week would not have been as tragic.
+Headline 6: Kim Jong-nam, the half-brother of North Korea's leader, was killed by a highly toxic nerve agent, says Malaysia.
+
+Step 2: Categorize sentences for Headline 5
+
+(1) Future Plans: None
+(2) Assumptions: [22049, "'By the way, it was a gun-free zone,' he said at a campaign event in Franklin, Tennessee."], [22050, "'Let me tell you, if you had a couple teachers with guns in that room, you would have been a hell of a lot better off.'"]
+(3) Opinions: [22046, "Donald Trump said Saturday that had teachers been armed at Umpqua Community College in Roseburg, Oregon, the deadly shooting there this week would not have been as tragic."], [22047, "Trump has previously cited mental health issues, not guns, as the biggest cause of shootings in the U.S."], [22048, "But his comments on Saturday are his most extensive and emotionally charged about firearms since he launched his campaign in June, as he spoke about his personal gun ownership and elicited his biggest applause of the afternoon in discussing gun rights."]
+(4) Facts: [22051, "Photos: Shooting at Oregon community college Photos: Shooting at Oregon community college Community members attend a candlelight vigil at Stewart Park for those killed during a shooting at Umpqua Community College in Roseburg, Oregon, on Thursday, October 1."], [22052, "The massacre left nine people dead and nine wounded."], [22053, "The gunman also died."], [22054, "'Somehow this has become routine,' he said."], [22055, "'The reporting is routine."], [22056, "My response here at this podium ends up being routine, the conversation in the aftermath of it."], [22057, "We've become numb to this.'"], [22058, "Douglas County Sheriff John Hanlin announced at a news conference that the shooter was dead."], [22059, "'In fact, I have a license to carry in New York, can you believe that?"], [22060, "Nobody knows that,' he said"]
+
+Step 3: Categorize sentences for Headline 6
+
+(1) Future Plans: None
+(2) Assumptions: [22089, "How could it have killed Mr Kim?"], [22090, "Media playback is unsupported on your device Media caption CCTV footage appears to show the moment Kim Jong-nam is attacked Bruce Bennett, a weapons expert at the research institute the Rand Corporation, told the BBC it would have taken only a tiny amount of the substance to kill Mr Kim."], [22091, "He suggests a small quantity of VX - just a drop - was likely to have been put on cloths used by the attackers to touch his face."], [22092, "A separate spray may have been used as a diversion."]
+(3) Opinions: [22079, "There is widespread suspicion that North Korea was responsible for the attack, which it fiercely denies."], [22080, "It responded furiously to Malaysia's insistence on conducting a post-mortem examination and has accused Malaysia of having 'sinister' purposes."]
+(4) Facts: [22076, "Kim Jong-nam, the half-brother of North Korea's leader, was killed by a highly toxic nerve agent, says Malaysia."], [22077, "Mr Kim died last week after two women accosted him briefly in a check-in hall at a Kuala Lumpur airport."], [22078, "Malaysian toxicology reports indicate he was attacked using VX nerve agent, which is classified as a weapon of mass destruction by the United Nations."], [22081, "What does the toxicology report say?"], [22082, "Malaysia's police chief Khalid Abu Bakar said on Friday that the presence of the nerve agent had been detected in swabs taken from Mr Kim's eyes and face."], [22083, "One of the women Mr Kim interacted with at the airport on 13 February had also fallen ill with vomiting afterwards, he added."], [22084, "Mr Khalid said other exhibits were still under analysis and that police were investigating how the banned substance might have entered Malaysia."], [22085, "'If the amount of the chemical brought in was small, it would be difficult for us to detect,' he said."], [22086, "What is the deadly VX nerve agent?"], [22087, "Image copyright Science Photo Library Image caption Molecular model of VX nerve agent shows atoms represented as spheres The most potent of the known chemical warfare agents, it is a clear, amber-coloured, oily liquid which is tasteless and odourless Works by penetrating the skin and disrupting the transmission of nerve impulses - a drop on the skin can kill in minutes."], [22088, "Lower doses can cause eye pain, blurred vision, drowsiness and vomiting It can be disseminated in a spray or vapour when used as a chemical weapon, or used to contaminate water, food, and agricultural products VX can be absorbed into the body by inhalation, ingestion, skin contact, or eye contact Clothing can carry VX for about 30 minutes after contact with the vapour, which can expose other people Banned by the 1993 Chemical Weapons Convention Read more about VX Who could be behind the attack?"]
+
+
+Headline 7: "United Airlines updates boarding process to speed up passenger loading"
+
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: [22140, 'And while that method successfully segmented passengers in the boarding zone and prepared them for departure, it also created a fair amount of idle, standing passengers and congestion near the gate – especially during delays.'], [22141, 'The new strategy launched this week helps alleviate that problem.']
+(4) Facts: [22127, "Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers."], [22128, 'Just this week, Chicago-based United Airlines updated its boarding process to rely on fewer boarding lanes, a move that will cut down on congestion and potentially speed up passenger loading.'], [22129, 'The new boarding process has been in the works for months.'], [22130, "In June, United started experimenting with different boarding procedures in a handful of test gates in Chicago and Houston, two of the busiest hubs in the airline's network."], [22131, 'Now, as of this week, the official new boarding process is finally in place.'], [22132, 'Moving forward, the airline will still have five boarding groups but will only use two lanes for boarding.'], [22133, 'Elite and other priority passengers in group 1 and 2 will load through lane 1, while customers in group 3, 4 and 5 will use lane 2.'], [22134, 'Those not actively boarding will be asked to remain seated until paged.'], [22135, 'Chase co-branded credit card holders, according to the blog Wandering Aramean, will board in group 2.'], [22136, "In addition to the new boarding process, United is also launching push notifications for those who have the airline's mobile app."], [22137, 'Those who opt in will be given a push notification when boarding starts, a tool that will be particularly useful if a flight is delayed or if the ground crew decides to load the aircraft early.'], [22138, "This week's updates come as the latest milestone in a long history of experimentation that United and other airlines have performed around the oft-complicated and congested boarding process."], [22139, 'Several years ago, in an effort to better segment the cabin and speed up loading, United started using five lanes to feed through passengers.'], [22142, "Indeed, some of United's peers are already using this simplified process."], [22143, 'American Airlines currently boards by zone using only two lanes while Delta Air Lines splits the difference and boards with four.'], [22144, "One difference between United and its competitors, however, is that as of this week, top tier or '1K' elite members will be able to pre-board before the official process starts; with most carriers only VIP passengers are given that access."]
+
+Headline 8: "Ariel Winter defends her outfit choice"
+
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: [22151, '*Insert fire emojis here.'], [22154, "But we're still at a loss in trying to find what gave people the right to make some of the remarks tweeted in response to a cast photo."], [22155, "Though in all honesty, we didn't search too hard."]
+(4) Facts: [22145, 'Ariel Winter is tired of being told what to wear.'], [22146, "USA TODAY Ariel Winter has got it and she isn't afraid to flaunt it."], [22147, "She also isn't afraid to call out her haters."], [22148, 'The Modern Family actress attended an event for the ABC series Wednesday night, embracing the cold-shoulder trend in a gilded, embellished minidress.'], [22149, 'Mesh panels showed off her cleavage as well as the tops of her thighs.'], [22150, 'She paired the look with fire engine red nail polish and matching gold pumps.'], [22152, '* (Photo: Jordan Strauss/Invision/AP) And, yes, compared to her co-stars she was dressed the snazziest.'], [22153, 'Most of the men opted for casual slacks or jeans and neither of her female counterparts pictured opted for cocktail attire.'], [22156, "(Left to right) Nolan Gould, Steven Levitan, Ariel Winter, Eric Stonestreet, Julie Bowen, Aubrey Anderson-Emmons, Jesse Tyler Ferguson and Ty Burrell attend the 'Modern Family' ATAS event at Saban Media Center on May 3, 2017 in North Hollywood."], [22157, '(Photo: Jason LaVeris, FilmMagic) Some commenters implied she was overdressed.'], [22158, 'But some tweets were incredibly offensive.'], [22159, "'Ariel is def trying too hard to look slutty,' one user wrote."], [22160, "'That girl @arielwinter1 oozes insecurity and is 2 minutes away from being like or worse than Lindsay Lohan."], [22161, "Sad,' another tweeted."], [22162, 'Winter chose to clapback on Instagram Thursday evening, telling haters to mind their business.'], [22163, "'Why TF does anyone care that I didn't dress casual like everyone else for the panel?'"], [22164, 'she asked in the shared screenshot, captioned with just an emoji.'], [22165, "'Why do I have to be like everyone else?"], [22166, "Why can't people just let other people feel good about themselves and do what they want?'"], [22167, "😘 A post shared by ARIEL WINTER (@arielwinter) on May 4, 2017 at 5:57pm PDT 'WEAR WHATEVER YOU WANT PEOPLE!'"], [22168, 'she exclaimed.'], [22169, "'As long as you feel good about yourself that's what matters."], [22170, 'I know I did.'], [22171, "Don't ever let anyone stifle who you are and how you express yourself.'"]
+
+
+Headline 9: Two women charged in connection with hot glue gun incident at Logan Square daycare
+Headline 10: There doesn't appear to be a clear 10th headline in the given text.
+
+
+Step 3: Organize sentences into categories for Headline 9
+
+(1) Future Plans: None
+(2) Assumptions: None
+(3) Opinions: None
+(4) Facts: 
+[22338, "Two women were charged in connection to an incident at a Logan Square daycare in which five toddlers were injured with hot glue.Lizandra Cosme, 32, of Chicago, was arrested Sunday and charged with five counts of aggravated battery of a child under 13 years old causing great bodily harm."]
+[22339, "A Cook County judge ordered her held without bail on Monday."]
+[22340, "She is scheduled to return to court on Dec. 26.Cosme allegedly 'caused injury' to the five 2-year-old children - three girls and two boys - on Dec. 1 at the Children's Learning Place in the 3100-block of West Fullerton, authorities said."]
+[22342, "A second woman, Susana D. Gonzalez, 27, of Melrose Park, was charged with five misdemeanor counts of causing the circumstances of child endangerment, police said."]
+[22343, "In an email, daycare spokeswoman Lissa Druss Christman said: 'The well-being of our students is paramount. Upon learning of the alleged incident, we notified DCFS immediately and terminated two of our employees. We are currently working with investigators.' The state Department of Children and Family Services is investigating allegations of abuse , an agency spokeswoman said."]
+[22344, "Cosme brought the glue gun to the daycare to use on a Christmas project, prosecutors said during a hearing in a Cook County court."]
+[22345, "Cosme, who had 16 children under her care, was captured on surveillance video applying the glue gun directly to the hands and arms of five 2-year-old children."]
+[22346, "'Each of the child victims winced and some whined at the hot glue gun application,' a prosecutor said, adding that Cosme tried to apply neosporin to one of them after she saw circular burn marks starting to appear."]
+[22347, "Later in the day, in what appears to have been an effort to cover up what had happened, prosecutors said Cosme asked the father of one of the burned children whether the child had been injured at home. Her actions were discovered, they said in court, after the mother of another child, who is an ER physician, noticed the burns and called the daycare director to inquire about what happened, demanding that surveillance footage be reviewed.Cosme's defense attorney said in court his client 'screwed up' but did not act out of malice, citing her 12 years working with young childre"]

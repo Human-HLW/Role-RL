@@ -1,0 +1,69 @@
+Headline 1:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions: [21981, "The Senate Commerce Committee issued a report on the multibillion dollar data industry today, and the accompanying testimony and findings are chilling."]
+(4) Facts: [21983, "What's emerged is that collectively, these companies own an astounding number of consumer profiles, and they're selling deeply personal information — sometimes to identity thieves — in categories like rape victims, people with cancer, and 'Rural and Barely Making It.'"]
+[21990, 'In October, Experian admitted that it sold personal information — including social security numbers and banking information — through a subsidiary to an alleged online identity theft ring.']
+[21999, "And despite recent transparency efforts — like Acxiom's aboutthedata.com — that also means the consumers on these lists still have no right to find out what information is out there, or who is buying it."]
+Headline 2:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions: [21981, "Shortly after Bill Cosby was sentenced to three to 10 years in state prison for sexual assault and taken away in handcuffs, his spokesperson Andrew Wyatt told reporters that Cosby — along with embattled Supreme Court nominee Brett Kavanaugh — was the victim of a 'sex war.'"]
+(4) Facts: [21992, "Kavanaugh's nomination has been embroiled in controversy after two women accused him of sexual assault and misconduct in incidents dating back to the 1980s."]
+Headline 3:
+(1) Future Plans: [22001, "The Parker Solar Probe is NASA's plan to send a spacecraft closer to our Sun than ever before."]
+[22003, 'To do this, the vehicle will do seven flybys of Venus, which will eventually bring the spacecraft within 3.7 million miles of the Sun.']
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [21997, "NASA is naming its upcoming mission to 'touch the Sun' after Eugene Parker, a prominent astrophysicist who discovered the existence of solar wind — the charged particles that are constantly streaming from our star."]
+Headline 4:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22021, 'The exodus from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene.']
+[22028, "As Irene -- a Category 3 hurricane with 115 mph winds -- blasted through the Bahamas, the U.S. began bracing for the storm's worst."]
+[22043, 'A state of emergency was declared in Virginia, Maryland, New Jersey, New York and Connecticut.']
+Headline 5:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22048, 'This Nov. 16, 2015 file photo suspected Phoenix freeway shooter Leslie Allen Merritt Jr., right, talks with his attorney Ulises Ferragut during a motion to modify his release at Superior Court... (Associated Press) FILE - This Nov. 16, 2015 file photo suspected Phoenix freeway shooter Leslie Allen Merritt Jr., right, talks with his attorney Ulises Ferragut during a motion to modify his release at Superior Court... (Associated Press) PHOENIX (AP) — A judge on Tuesday allowed a man charged in freeway shootings that rattled Phoenix last year to be released from jail amid questions about evidence authorities say links him to the crimes.']
+[22066, 'The shootings caused panic on Phoenix-area freeways, where 11 vehicles were hit in August and September.']
+Headline 6:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22076, "The second most wanted man on the Simon Wiesenthal Centre's list of Nazi war criminals has died at 93 after a long illness, his lawyer has said."]
+[22078, 'Russia charged Katriuk with genocide this month in connection with the 1943 killing of civilians in Khatyn, now part of Belarus.']
+Headline 7:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22093, "A game ranger's two and a half year old child has been eaten by a leopard at Mweya Safari Lodge in Queen Elizabeth National Park."]
+[22095, 'His father, SSP Francis Manana Nabugyere says the child was attacked at their house doorway where he was seated at the Uganda Wildlife Authority (UWA) staff quarters.']
+Headline 8:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22107, 'Angry shareholders mounted an unprecedented protest against BP on Thursday, rebelling against a 20 per cent pay rise for chief executive Bob Dudley despite the oil group making its worst ever loss.']
+[22108, "Investors voted against the company's pay decisions for the first time in living memory, with 59 per cent of proxy votes cast going against BP's decision to pay Mr Dudley nearly $20m for 2015, a year in which the company ran up a $5.2bn loss."]
+[22111, 'The rebellion highlighted a growing trend of institutional investors and advisers around the world taking a more aggressive stance over pay.']
+Headline 9:
+(1) Future Plans: [22136, "Wearing a nearly 5-inch coat of carbon-composite solar shields, NASA's Parker Solar Probe will explore the sun's atmosphere in a mission that begins in the summer of 2018."]
+[22154, "The probe will eventually orbit within 3.7 million miles of the sun's surface."]
+(2) Assumptions:
+(3) Opinions:
+(4) Facts: [22140, "This is NASA's first mission to the sun and its outermost atmosphere, called the corona."]
+[22155, 'The observations and data could provide insight about the physics of stars, change what we know about the mysterious corona, increase understanding of solar wind and help improve forecasting of major space weather events.']
+Headline 10:
+(1) Future Plans:
+(2) Assumptions: [22180, "There appears to be some truth to Kanye West's claim that he has met 'all the tech guys'."]
+(3) Opinions:
+(4) Facts: [22181, 'The Chicago hip-hop mogul this weekend declared he is $53m in debt and requested funding from Facebook founder Mark Zuckerberg and Google cofounder Larry Page.']
+[22205, 'In his Twitter posts on 14 February, West asked Zuckerberg for $1bn to help handle his debts and bring Donda, his startup idea, to fruition.']
+Headline 11:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions: [22207, "Maybe it was the Cirque du Soleil acrobats dancing to taiko drums, the 9-foot tall elephant puppet or the ponchos with illuminating shoulder pads for audience members, but Microsoft's much-anticipated Project Natal preview was a cross between a gospel revival and a Las Vegas show."]
+(4) Facts: [22208, 'Microsoft While the event was short on news, Microsoft did unveil a new name — Kinect — for Project Natal, the motion technology that lets users play videogames and interact with the Xbox 360 console with gestures and spoken commands.']
+[22211, "Kinect is seen as Microsoft's answer to Nintendo Co.'s Wii, which popularized game play."]

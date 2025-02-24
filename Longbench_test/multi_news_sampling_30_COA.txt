@@ -1,0 +1,28 @@
+Headline 5:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+[21981, "Shortly after Bill Cosby was sentenced to three to 10 years in state prison for sexual assault and taken away in handcuffs, his spokesperson Andrew Wyatt told reporters that Cosby — along with embattled Supreme Court nominee Brett Kavanaugh — was the victim of a 'sex war.'"]
+(4) Facts:
+[21993, "Christine Blasey Ford came forward earlier this month to accuse him of attempted rape during a high school party in the '80s."]
+Headline 6:
+(1) Future Plans:
+[22001, "The Parker Solar Probe is NASA's plan to send a spacecraft closer to our Sun than ever before."]
+(2) Assumptions:
+(3) Opinions:
+(4) Facts:
+[21997, "NASA is naming its upcoming mission to 'touch the Sun' after Eugene Parker, a prominent astrophysicist who discovered the existence of solar wind — the charged particles that are constantly streaming from our star."]
+Headline 7:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts:
+[22021, 'The exodus from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene.']
+[22028, "As Irene -- a Category 3 hurricane with 115 mph winds -- blasted through the Bahamas, the U.S. began bracing for the storm's worst."]
+Headline 8:
+(1) Future Plans:
+(2) Assumptions:
+(3) Opinions:
+(4) Facts:
+[22093, "A game ranger's two and a half year old child has been eaten by a leopard at Mweya Safari Lodge in Queen Elizabeth National Park."]
+[22094, 'Elisha Nabugyere was killed by the wild animal on Friday at around 7:30pm.']

@@ -1,0 +1,121 @@
+Headline 1: Deaths of pharmaceutical billionaires deemed 'suspicious'
+
+(1) Future Plans:
+
+(2) Assumptions:
+[21985, "As questions mount about the cause of the deaths, some news outlets are quoting police sources, saying the case is being investigated as a murder-suicide."]
+
+(3) Opinions:
+
+(4) Facts:
+[21981, "Homicide detectives have now taken over the investigation into the deaths of two pharmaceutical billionaires that police have deemed 'suspicious.'"]
+[21982, "Apotex founder Barry Sherman, 75, and his wife, Honey Sherman, 70, both died from 'ligature neck compression,' meaning strangulation, police said in a statement issued Sunday."]
+[21991, 'Price said there were no signs of forced entry into the home, and that police were not searching for any outstanding suspects.']
+[22006, 'Barry Sherman founded Apotex in 1974 and has amassed a vast fortune since.']
+
+Headline 2: Kim Jong-nam killed by nerve agent
+
+(1) Future Plans:
+
+(2) Assumptions:
+[22079, 'There is widespread suspicion that North Korea was responsible for the attack, which it fiercely denies.']
+
+(3) Opinions:
+[22116, 'Malaysia says it was clearly an attack by North Korean agents.']
+
+(4) Facts:
+[22076, "Kim Jong-nam, the half-brother of North Korea's leader, was killed by a highly toxic nerve agent, says Malaysia."]
+[22078, 'Malaysian toxicology reports indicate he was attacked using VX nerve agent, which is classified as a weapon of mass destruction by the United Nations.']
+[22111, 'A woman was seen in CCTV footage approaching Mr Kim and wiping something across his face.']
+
+Headline 3: United Airlines changes boarding process
+
+(1) Future Plans:
+[22132, 'Moving forward, the airline will still have five boarding groups but will only use two lanes for boarding.']
+[22133, 'Elite and other priority passengers in group 1 and 2 will load through lane 1, while customers in group 3, 4 and 5 will use lane 2.']
+[22136, "In addition to the new boarding process, United is also launching push notifications for those who have the airline's mobile app."]
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22127, "Saddle up to the gate on your next United flight and you may notice that there's now a different system in place for loading passengers."]
+
+Headline 4: Ariel Winter responds to criticism about her clothing
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[22145, 'Ariel Winter is tired of being told what to wear.']
+[22169, "'WEAR WHATEVER YOU WANT PEOPLE!'"]
+[22170, 'she exclaimed.']
+
+(4) Facts:
+[22148, 'The Modern Family actress attended an event for the ABC series Wednesday night, embracing the cold-shoulder trend in a gilded, embellished minidress.']
+[22162, 'Winter chose to clapback on Instagram Thursday evening, telling haters to mind their business.']
+
+Headline 5: President Trump holds wide-ranging news conference
+
+(1) Future Plans:
+[22223, 'LIASSON: He said that there will be an Obamacare replacement by mid-March.']
+[22224, "He's going to have a new executive order revising the travel ban next week that will be tailored to address the objections by the appeals court."]
+
+(2) Assumptions:
+
+(3) Opinions:
+[22182, "There's zero chaos."]
+[22183, 'We are running - this is a fine-tuned machine.']
+
+(4) Facts:
+[22172, "President Trump held a free-flowing wide-ranging news conference on Thursday to defend his administration and decry what he called 'fake news' stories about his associates' ties to Russia."]
+[22189, 'LIASSON: Well, ostensibly it was to announce his new labor secretary nominee, but that was really just a blip.']
+
+Headline 6: O.J. Simpson parole hearing
+
+(1) Future Plans:
+[22254, 'On Thursday, Simpson will appear before a Nevada judge to make his case for parole.']
+[22255, "If parole is granted, 'The Juice' could be on the loose as soon as Oct. 1."]
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22248, "On Oct. 3, 1995, a jury acquitted Orenthal James 'O.J.'"]
+[22249, 'Simpson of the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman.']
+[22267, "In a 2014 interview with CNBC, Goldman's sister Kim said the family has collected less than 1 percent of the judgment."]
+[22296, "This punishment stems from a September 2007 robbery, where Simpson and five other men forced their way into sports memorabilia collector Bruce Fromong's Las Vegas hotel room and robbed him at gunpoint."]
+[22305, "If he's released, Simpson will be able to live on his NFL pension, which is an estimated $25,000 per month."]
+
+Headline 7: Murder suspect on the run in Montpelier
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22307, 'A murder suspect remains on the run following a weekend shooting in Montpelier.']
+[22308, 'It left a former Vermont Frost Heaves basketball player dead.']
+[22311, 'Jayveon Caballero, 29, is wanted for second-degree murder.']
+[22314, 'Police say Caballero fatally shot Markus Austin, 33.']
+[22321, "'He walked over to the victim's car and shot him and walked back,' said Jeff Sarpong, witness."]
+[22335, "They're unsure if he got off at a stop before that and are now reaching out to other states to help."]
+
+Headline 8: Women charged in daycare hot glue incident
+
+(1) Future Plans:
+[22340, "She is scheduled to return to court on Dec. 26."]
+
+(2) Assumptions:
+
+(3) Opinions:
+
+(4) Facts:
+[22338, 'Two women were charged in connection to an incident at a Logan Square daycare in which five toddlers were injured with hot glue.Lizandra Cosme, 32, of Chicago, was arrested Sunday and charged with five counts of aggravated battery of a child under 13 years old causing great bodily harm.']
+[22340, "Cosme allegedly 'caused injury' to the five 2-year-old children - three girls and two boys - on Dec. 1 at the Children's Learning Place in the 3100-block of West Fullerton, authorities said.A second woman, Susana D. Gonzalez, 27, of Melrose Park, was charged with five misdemeanor counts of causing the circumstances of child endangerment, police said.In an email, daycare spokeswoman Lissa Druss Christman said: 'The well-being of our students is paramount."]
+[22344, 'Cosme, who had 16 children under her care, was captured on surveillance video applying the glue gun directly to the hands and arms of five 2-year-old children.']

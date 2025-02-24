@@ -1,0 +1,166 @@
+Thank you for the opportunity to review my response. You're right, and I apologize for the error in my previous answer. I'll provide a corrected and improved version now.
+
+Headline 11: Murder suspect on the run in Montpelier
+
+(1) Future Plans: 
+
+(2) Assumptions: [22309, "It appears to have been a night out at the bar gone wrong."]
+
+(3) Opinions: 
+
+(4) Facts: [22307, "A murder suspect remains on the run following a weekend shooting in Montpelier."], [22308, "It left a former Vermont Frost Heaves basketball player dead."], [22310, "It appears to have been a night out at the bar gone wrong."], [22311, "Jayveon Caballero, 29, is wanted for second-degree murder."], [22312, "Nearly 48 hours after he allegedly shot a man to death in Montpelier, police still don't know where he is."], [22313, "'He may have gotten on a bus yesterday morning in White River Junction, a Greyhound bus, heading south,' said Maj. Glenn Hall, Vermont State Police."], [22314, "Police say Caballero fatally shot Markus Austin, 33."], [22315, "A friend told investigators Austin was invited out with friends to join Caballero, who he called 'my boy Jay.'"], [22316, "But at the end of the night a fight broke out."], [22317, "'We do know from the investigation that there was an altercation outside Gusto's bar in Barre,' said Hall."], [22318, "The alleged shooter's girlfriend, Desiree Cary, 22, told police that she got mad and hit Austin as they left the bar."], [22319, "Austin allegedly hit her back, injuring her jaw bone."], [22320, "Court documents show Caballero appeared upset and then went to find Austin at a Barre Street apartment."], [22321, "'He walked over to the victim's car and shot him and walked back,' said Jeff Sarpong, witness."], [22322, "Sarpong says he woke up to someone yelling outside and a gunshot, and then looked out his window."], [22323, "'I see him turn around, wave with a gun,' said Sarpong."], [22324, "He said Caballero appeared to show sympathy just seconds after pulling the trigger."], [22325, "'He then just kept on asking, 'Are you OK?''"], [22326, "Sarpong said."], [22327, "'After he noticed what he had done and that he wasn't responsive, he just drove away,' said Sarpong."], [22328, "In an attempt to locate Caballero, police raided his apartment early Monday morning but he wasn't there."], [22329, "Neighbors say they've dealt with constant problems from the property in the past."], [22330, "'Drag racing up and down."], [22331, "Cars constantly in and out,' said a neighbor."], [22332, "Late Sunday, Caballero's girlfriend was taken into custody on charges unrelated to the shooting."], [22333, "'She was a target of an ongoing drug investigation,' said Hall."], [22334, "Meanwhile, the search for Caballero continues."], [22335, "Authorities say the bus Caballero may have gotten on was headed for New York City."], [22336, "They're unsure if he got off at a stop before that and are now reaching out to other states to help."], [22337, "They're also asking anyone who may know where he is to contact them."]
+
+Headline 12: Two women charged in connection with daycare incident in Logan Square
+
+(1) Future Plans: 
+
+(2) Assumptions: 
+
+(3) Opinions: 
+
+(4) Facts: [22338, "Two women were charged in connection to an incident at a Logan Square daycare in which five toddlers were injured with hot glue.Lizandra Cosme, 32, of Chicago, was arrested Sunday and charged with five counts of aggravated battery of a child under 13 years old causing great bodily harm."], [22339, "A Cook County judge ordered her held without bail on Monday."], [22340, "She is scheduled to return to court on Dec. 26.Cosme allegedly 'caused injury' to the five 2-year-old children - three girls and two boys - on Dec. 1 at the Children's Learning Place in the 3100-block of West Fullerton, authorities said.A second woman, Susana D. Gonzalez, 27, of Melrose Park, was charged with five misdemeanor counts of causing the circumstances of child endangerment, police said.In an email, daycare spokeswoman Lissa Druss Christman said: 'The well-being of our students is paramount."], [22341, "Upon learning of the alleged incident, we notified DCFS immediately and terminated two of our employees."], [22342, "We are currently working with investigators."], [22343, "'The state Department of Children and Family Services is investigating allegations of abuse , an agency spokeswoman said.Cosme brought the glue gun to the daycare to use on a Christmas project, prosecutors said during a hearing in a Cook County court."], [22344, "Cosme, who had 16 children under her care, was captured on surveillance video applying the glue gun directly to the hands and arms of five 2-year-old children."], [22345, "An assistant in the room with her at the time allegedly stood idly by, laughing with Cosme as this was taking place."], [22346, "'Each of the child victims winced and some whined at the hot glue gun application,' a prosecutor said, adding that Cosme tried to apply neosporin to one of them after she saw circular burn marks starting to appear.Later in the day, in what appears to have been an effort to cover up what had happened, prosecutors said Cosme asked the father of one of the burned children whether the child had been injured at home."], [22347, "Her actions were discovered, they said in court, after the mother of another child, who is an ER physician, noticed the burns and called the daycare director to inquire about what happened, demanding that surveillance footage be reviewed.Cosme's defense attorney said in court his client 'screwed up' but did not act out of malice, citing her 12 years working with young childre"]
+
+In this revised version, I've corrected the categorization of sentence [22310] in Headline 11, moving it from "Opinions" to "Facts" as it's presented as part of the factual narrative in the news report. I've also ensured that all sentences are included and categorized appropriately for both headlines.
+
+
+Thank you for the opportunity to review my response. Upon careful consideration, I believe my categorization can be improved. Here's my revised answer:
+
+Headline 13: "NASA names solar mission after physicist Eugene Parker"
+
+(1) Future Plans: 
+[21998, "The mission, originally named Solar Probe Plus, will now be called the Parker Solar Probe."]
+[22001, "The Parker Solar Probe is NASA's plan to send a spacecraft closer to our Sun than ever before."]
+[22002, "The probe, which is being developed by Johns Hopkins Applied Physics Laboratory, is supposed to launch on top of a Delta IV Heavy rocket in either July or August of 2018 and then spend seven years getting into closer and closer orbits around the Sun."]
+[22003, "To do this, the vehicle will do seven flybys of Venus, which will eventually bring the spacecraft within 3.7 million miles of the Sun."]
+[22005, "NASA's plan to send a spacecraft closer to our Sun than ever before From this distance, the Parker Solar Probe will analyze the Sun's atmosphere, mainly to figure out the mechanics of the solar wind that Parker discovered."]
+[22015, "That's what the Parker Solar Probe is going to help us figure out."]
+[22016, "The spacecraft is designed to 'trace the flow of energy' that's responsible for heating up the corona and accelerating the solar wind."]
+[22020, "Apart from getting the mission named after him, a chip with pictures of Parker will also be included on the vehicles, as well as a copy of his original paper on solar wind."]
+
+(2) Assumptions: 
+[22000, "Parker discovered solar wind in the 1950s and is about to celebrate his 90th birthday."]
+[22017, "And the more we know about how these processes work, the better we can get at predicting when they will happen."]
+
+(3) Opinions: 
+[21999, "It's the first time NASA has named one of its missions after a scientist who is still alive."]
+[22018, "Normally, NASA waits to rename its missions after launch, but the space agency decided to break protocol this time since Parker's work has been so instrumental for the spacecraft's mission."]
+[22019, "His discovery of solar wind has essentially changed our understanding of stars and how they interact with the space around them."]
+
+(4) Facts: 
+[21997, "NASA is naming its upcoming mission to 'touch the Sun' after Eugene Parker, a prominent astrophysicist who discovered the existence of solar wind — the charged particles that are constantly streaming from our star."]
+[22004, "That's about eight times closer than any other spacecraft has been before, according to NASA."]
+[22006, "The Sun is constantly spewing out highly charged particles in the form of plasma — what is known as solar wind."]
+[22007, "And it's all thanks to the Sun's outer atmosphere, or the corona."]
+[22008, "Even though the corona extends millions of miles out into space, it is unbelievably hot — so hot that it heats up particles to such extreme temperatures that they break free of the Sun's gravity and accelerate outward in all directions."]
+[22009, "This solar wind, which carries part of the Sun's magnetic field, travels all the way to Earth and slams into our planet's own magnetic field."]
+[22010, "Fortunately, our field acts like a protective barrier, so usually this process is pretty harmless for us."]
+[22011, "But every now and then, the Sun burps out an extra helping of charged particles known as a coronal mass ejection."]
+[22012, "When this mess of particles reaches Earth, it can disturb our magnetic field enough to cause geomagnetic storms."]
+[22013, "These storms aren't too serious, but they can mess with our power grids and communications systems, as well as damage our satellites."]
+[22014, "We know the basics of how solar wind works, but the processes behind these particle bursts are still not totally understood."]
+
+Headline 14: "Hurricane Irene threatens East Coast"
+
+(1) Future Plans: 
+[22029, "To See Irene's Expected Path Over East Coast, Click Here Homeland Security Secretary Janet Napolitano, under President Obama's direction, contacted East Coast mayors and governors potentially in Irene's path."]
+[22030, "Later, she and FEMA director Craig Fugate later held a conference call with state, local, and tribal officials on planning for the storm."]
+[22044, "New York City's Mayor Michael Bloomberg said police are deploying more than 80 boats around the city as well as several helicopters to prepare for emergencies."]
+[22045, "City hospitals have tested their emergency generators, and the city's airports are stockpiling diapers, cots, blankets, pillow and bottles of water."]
+[22046, "Fearing Irene's wrath, Amtrak announced it is canceling all train service south of Washington D.C. for Friday, Saturday and Sunday."]
+
+(2) Assumptions: 
+[22047, "Irene is traveling at 12 mph, making it a slow moving storm which will allow it to hover over an area and area to dump rain and batter it with ferocious winds for an expended period."]
+
+(3) Opinions: 
+[22021, "The exodus from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene."]
+[22034, "'This is a very, very serious situation,' said Dorothy Toolan, public information officer for Dare County, N.C. 'We have not seen anything like this in the lifetimes of most our residents...Once the storm hits it will be very difficult to respond to distress calls.'"]
+
+(4) Facts: 
+[22022, "Gas stations are running out, ATM's are out of cash and one woman was out of a very special night."]
+[22023, "Melissa Cook was supposed to get married this weekend."]
+[22024, "'The TV showed the mandatory evacuation and I burst into tears,' Cook said."]
+[22025, "'Everything I had planned and dreamed about.'"]
+[22026, "Hurricane Irene's wave of disappointment also affected beach goers in South Carolina."]
+[22027, "Police closed the beaches to swimming after six swimmers were rescued from rip currents caused by the massive storm."]
+[22028, "As Irene -- a Category 3 hurricane with 115 mph winds -- blasted through the Bahamas, the U.S. began bracing for the storm's worst."]
+[22031, "'Given the unpredictability of these storms, we are currently planning for several scenarios, including potential impacts to major metro areas and critical infrastructure,' Napolitano said in a Department of Homeland Security news release."]
+[22032, "Evacuation orders were issued along the coast of North Carolina today in Dare, Currituck and Cateret counties."]
+[22033, "There are 180,000 people just in Dare County and another 150,000 people were told to get out of Ocean City, Md."]
+[22035, "Not everyone was heading out of town."]
+[22036, "The parking lot of a Wal-Mart in Moorehead City in Cateret County was filled with people stocking up on supplies to ride out the storm."]
+[22037, "'I've lived through hurricanes all my life, and I've only run from one,' said a man who identified himself simply as George."]
+[22038, "'Unless it's a (category) 4 or 5 coming straight at me, I'm not leaving.'"]
+[22039, "'I'm going to sit at home, watch television and play on my computer."]
+[22040, "I'm not worried about this thing,' George said."]
+[22041, "In Florida, at least 8 people were hurt after a wave knocked them over on the jerry they were on off Boynton Beach Inlet, The Associated Press reported."]
+[22042, "Others were taking no chances."]
+[22043, "A state of emergency was declared in Virginia, Maryland, New Jersey, New York and Connecticut."]
+
+This revised categorization better reflects the nature of each sentence, particularly in distinguishing between facts, opinions, and future plans.
+
+
+Thank you for the opportunity to review my response. You're right, I made a mistake in my categorization and included some irrelevant sentences. I'll provide a corrected and improved answer below:
+
+Headline 15: Trump touts North Korea's real estate potential
+
+(1) Future Plans: 
+(2) Assumptions: 
+(3) Opinions: [22011] "'Although I tell you what, he looked at that tape, he looked at that iPad, and I'm telling you they really enjoyed it I believe,' Trump added."
+(4) Facts: [22000] "President Trump on Tuesday touted North Korea's untapped property market potential, and said one benefit North Korea would see if it opens up its economy could be placing the 'best hotel in the world' on its coastline."
+[22001] "'They have great beaches."
+[22002] "You see that whenever they're exploding their cannons into the ocean,' Trump said during a marathon press conference held after the conclusion of his historic summit with North Korean leader Kim Jong Un in Singapore."
+[22003] "'I said, 'Boy, look at that view."
+[22004] "Wouldn't that make a great condo?"
+[22005] 'Instead of doing that you could have the best hotels in the world right there.'
+[22006] 'Think of it from a real estate perspective, you have South Korea, you have China, and they own the land in the middle, how bad is that, right?'
+[22007] "It's great,' Trump said."
+[22008] "The U.S. delegation, using economic development as an incentive for their North Korea counterparts to enter denuclearization talks, showed Kim a video simulation of possible projects that could take place in the rogue nation."
+[22009] "[Trump shows Kim video that imagines North Korea glowing with electric lights: Watch] Despite telling Kim he could 'do a smaller version' of the proposal, Trump expressed optimism that the North Korean head of state was interested in the ideas presented to him."
+[22010] "'Although I tell you what, he looked at that tape, he looked at that iPad, and I'm telling you they really enjoyed it I believe,' Trump added."
+[22012] "[Related: Trump emerges from 'very good' private meeting with Kim] Trump is expected to leave Singapore at 7 p.m. local time."
+
+Headline 16: Child eaten by leopard in Uganda national park
+
+(1) Future Plans: [22105] "'We are working towards establishing the leopard and evaluating options such as relocating it somewhere else."
+[22106] "It is not good to keep it there,' he said in Watsapp message to this reporter."
+(2) Assumptions: 
+(3) Opinions: 
+(4) Facts: [22093] "A game ranger's two and a half year old child has been eaten by a leopard at Mweya Safari Lodge in Queen Elizabeth National Park."
+[22094] 'Elisha Nabugyere was killed by the wild animal on Friday at around 7:30pm.'
+[22095] 'His father, SSP Francis Manana Nabugyere says the child was attacked at their house doorway where he was seated at the Uganda Wildlife Authority (UWA) staff quarters.'
+[22096] "'He was seated with the maid when the leopard grabbed and ran with him."
+[22097] "Efforts to rescue him did not yield, we later recovered the skull and some other bones,' SSP Nabugyere, an officer at the police senior Command and staff college Bwebajja told Kampala Post."
+[22098] "The deceased's mother who is a park ranger was at the neighbour's at the time, according to Mr Nabugyere."
+[22099] "He says his son's remains have been buried."
+[22100] "'UWA gave us the coffin."
+[22101] "I have not talked to them about the incident but I would expect something reasonable to compensate me, although my son's life is gone,' Nabugyere said, challenging UWA to do more in ensuring the security of their staff and children."
+[22102] 'UWA communications manager Bashir Hangi described the incident as unfortunate.'
+[22103] "He was however not specific on whether the parents would be compensated or not, saying: 'We have an arrangement for our staff who lose their lives or their loved ones in the line of duty.'"
+[22104] 'He revealed that efforts are underway to track down the killer leopard.'
+
+I apologize for the earlier mistake and thank you for the opportunity to correct it.
+
+
+Thank you for the opportunity to review my response. After careful consideration, I believe my categorization was generally accurate, but I can improve the presentation and ensure all sentences are included. Here's the revised and complete answer:
+
+Headline 17: NASA naming its upcoming sun mission after Eugene Parker
+
+(1) Future Plans: [22136, "Wearing a nearly 5-inch coat of carbon-composite solar shields, NASA's Parker Solar Probe will explore the sun's atmosphere in a mission that begins in the summer of 2018."], [22137, "It's not a journey that any human can make, so NASA is sending a roughly 10-foot-high probe on the historic mission that will put it closer to the sun than any spacecraft has ever reached before."], [22153, 'The Parker Solar Probe will carry a chip with photos of Parker and his revolutionary paper, as well as a plate carrying whatever inscription Parker wishes to provide -- his message to the sun.'], [22154, "The probe will eventually orbit within 3.7 million miles of the sun's surface."], [22166, 'In order to reach an orbit around the sun, the Parker Solar Probe will take seven flybys of Venus that will essentially give the probe a gravity assist, shrinking its orbit around the sun over the course of nearly seven years.'], [22173, 'The mission is scheduled to end in June 2025.']
+
+(2) Assumptions: [22155, 'The observations and data could provide insight about the physics of stars, change what we know about the mysterious corona, increase understanding of solar wind and help improve forecasting of major space weather events.'], [22156, 'Those events can impact satellites and astronauts as well as the Earth -- including the power grid and radiation exposure on airline flights, NASA said.']
+
+(3) Opinions: [22152, "'I'm greatly honored to be associated with such a heroic scientific space mission,' Parker said."], [22159, "'Why has it taken us 60 years?"], [22160, "The materials didn't exist to allow us to do it."], [22161, 'We had to make a heat shield, and we love it.'], [22162, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"], [22175, "'The solar probe is going to a region of space that has never been explored before,' Parker said."], [22176, "'It's very exciting that we'll finally get a look."], [22177, "One would like to have some more detailed measurements of what's going on in the solar wind."], [22178, "I'm sure that there will be some surprises."], [22179, "There always are.'"]
+
+(4) Facts: [22138, "The probe will have to withstand heat and radiation never before experienced by any spacecraft, but the specially designed mission will also address questions that couldn't be answered before."], [22139, 'Understanding the sun in greater detail can also shed light on Earth and its place in the solar system, researchers said.'], [22140, "This is NASA's first mission to the sun and its outermost atmosphere, called the corona."], [22141, 'On Wednesday, the craft -- initially called the Solar Probe Plus -- was renamed the Parker Solar Probe in honor of astrophysicist Eugene Parker.'], [22142, "'This is the first time NASA has named a spacecraft for a living individual,' said Thomas Zurbuchen, associate administrator for the agency's Science Mission Directorate in Washington."], [22143, "'It's a testament to the importance of his body of work, founding a new field of science that also inspired my own research and many important science questions NASA continues to study and further understand every day."], [22144, "I'm very excited to be personally involved honoring a great man and his unprecedented legacy.'"], [22145, "Parker published research predicting the existence of solar wind in 1958, when he was a young professor at the University of Chicago's Enrico Fermi institute."], [22146, 'At the time, astronomers believed that the space between planets was a vacuum.'], [22147, "Parker's first paper was rejected, but it was saved by a colleague, Subrahmanyan Chandrasekhar, an astrophysicist who would be awarded the 1983 Nobel Prize for Physics."], [22148, "Less than two years after Parker's paper was published, his theory of solar wind was confirmed by satellite observations."], [22149, 'His work revolutionized our understanding of the sun and interplanetary space.'], [22150, 'Parker is now the S. Chandrasekhar Distinguished Service Professor Emeritus at the University of Chicago.'], [22151, "Zurbuchen and Nicola Fox, the mission project scientist for Parker Solar Probe, also presented Parker with the first scale model of the probe and NASA's distinguished public service medal."], [22157, "The mission's objectives include 'tracing the flow of energy that heats and accelerates the sun's corona and solar wind, determining the structure and dynamics of the plasma and magnetic fields at the sources of the solar wind and explore mechanisms that accelerate and transport energetic particles.'"], [22158, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."], [22163, 'Solar wind is the flow of charged gases from the sun that is present in most of the solar system.'], [22164, 'That wind screams past Earth at a million miles per hour, and disturbances of the solar wind cause disruptive space weather that impacts our planet.'], [22165, 'Space weather may not sound like something that concerns Earth, but surveys by the National Academy of Sciences have estimated that a solar event without warning could cause $2 trillion in damage in the United States and leave parts of the country without power for a year.'], [22167, 'The probe will eventually be closer to the sun than Mercury.'], [22168, 'It will be close enough to watch solar wind whip up from subsonic to supersonic.'], [22169, "When closest to the sun, the probe's 4½-inch-thick carbon-composite solar shields will have to withstand temperatures close to 2,500 degrees Fahrenheit."], [22170, 'Due to its design, the inside of the spacecraft and its instruments will remain at a comfortable room temperature.'], [22171, 'The probe will reach a speed of 450,000 mph around the sun.'], [22172, 'On Earth, this speed would enable someone to get from Philadelphia to Washington in one second, the agency said.'], [22174, 'The mission will also pass through the origin of the solar particles with the highest energy.']
+
+Headline 18: Hurricane Irene approaching the East Coast
+
+(1) Future Plans: [22032, 'Evacuation orders were issued along the coast of North Carolina today in Dare, Currituck and Cateret counties.'], [22033, 'There are 180,000 people just in Dare County and another 150,000 people were told to get out of Ocean City, Md.'], [22045, "City hospitals have tested their emergency generators, and the city's airports are stockpiling diapers, cots, blankets, pillow and bottles of water."], [22046, "Fearing Irene's wrath, Amtrak announced it is canceling all train service south of Washington D.C. for Friday, Saturday and Sunday."]
+
+(2) Assumptions: [22028, "As Irene -- a Category 3 hurricane with 115 mph winds -- blasted through the Bahamas, the U.S. began bracing for the storm's worst."]
+
+(3) Opinions: [22023, 'Melissa Cook was supposed to get married this weekend.'], [22024, "'The TV showed the mandatory evacuation and I burst into tears,' Cook said."], [22025, "'Everything I had planned and dreamed about.'"], [22034, "'This is a very, very serious situation,' said Dorothy Toolan, public information officer for Dare County, N.C. 'We have not seen anything like this in the lifetimes of most our residents...Once the storm hits it will be very difficult to respond to distress calls.'"], [22037, "'I've lived through hurricanes all my life, and I've only run from one,' said a man who identified himself simply as George."], [22038, "'Unless it's a (category) 4 or 5 coming straight at me, I'm not leaving.'"], [22039, "'I'm going to sit at home, watch television and play on my computer."], [22040, "I'm not worried about this thing,' George said."]
+
+(4) Facts: [22021, 'The exodus from the North Carolina coast has begun and tonight it is a slow motion, bumper to bumper march inland as tens of thousands heed warnings to get out of the way of Hurricane Irene.'], [22022, "Gas stations are running out, ATM's are out of cash and one woman was out of a very special night."], [22026, "Hurricane Irene's wave of disappointment also affected beach goers in South Carolina."], [22027, 'Police closed the beaches to swimming after six swimmers were rescued from rip currents caused by the massive storm.'], [22029, "To See Irene's Expected Path Over East Coast, Click Here Homeland Security Secretary Janet Napolitano, under President Obama's direction, contacted East Coast mayors and governors potentially in Irene's path."], [22030, 'Later, she and FEMA director Craig Fugate later held a conference call with state, local, and tribal officials on planning for the storm.'], [22031, "'Given the unpredictability of these storms, we are currently planning for several scenarios, including potential impacts to major metro areas and critical infrastructure,' Napolitano said in a Department of Homeland Security news release."], [22035, 'Not everyone was heading out of town.'], [22036, 'The parking lot of a Wal-Mart in Moorehead City in Cateret County was filled with people stocking up on supplies to ride out the storm.'], [22041, 'In Florida, at least 8 people were hurt after a wave knocked them over on the jerry they were on off Boynton Beach Inlet, The Associated Press reported.'], [22042, 'Others were taking no chances.'], [22043, 'A state of emergency was declared in Virginia, Maryland, New Jersey, New York and Connecticut.'], [22044, "New York City's Mayor Michael Bloomberg said police are deploying more than 80 boats around the city as well as several helicopters to prepare for emergencies."], [22047, 'Irene is traveling at 12 mph, making it a slow moving storm which will allow it to hover over an area and area to dump rain and batter it with ferocious winds for an expended period.']
+
+

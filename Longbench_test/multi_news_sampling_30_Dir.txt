@@ -1,0 +1,339 @@
+Here are the identified headlines and categorized sentences for Headlines 11-12:
+
+Headline 11: Rare photographs from Nirvana's first concert in March 1987 have been unearthed
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[22103, "Related PHOTOS: No Apologies: All 102 Nirvana Songs Ranked RS tackles the complete catalog of the band that defined the Nineties and made the world a lot noisier"]
+
+(4) Facts:
+[22102, "Rare photographs from Nirvana's first concert in March 1987 have been unearthed and shared by an unlikely source: Maggie Poukkula, the 19-year-old daughter of Tony Poukkula, a member of Seattle band Laytem who grew up with Kurt Cobain and hosted the fledging outfit's first show in his basement."]
+[22104, "Last week, Poukkula tweeted a photo strip featuring three snapshots from the 1987 gig in Raymond, Washington, along with the caption, 'Pictures of my dad and Kurt Cobain playing together back in the day.'"]
+[22105, "'I had no idea that those were during Nirvana's first concert,' Poukkula tells Rolling Stone."]
+[22106, "'My dad showed me them a while back, but he never mentioned that's what was going on in the photos."]
+[22107, 'I found out because of all the articles.']
+[22108, "I didn't realize it was such a historical thing."]
+[22109, "I thought they were just cool pictures of my dad and Kurt jamming together.'"]
+[22110, "Poukkula said she found the photos tucked away inside her father's biographies of Cobain and Nirvana."]
+[22111, "Pictures of my dad and Kurt Cobain playing together back in the day pic.twitter.com/y7lXh6acVn — Maggs❂ (@mjpoukkula) July 16, 2015 According to an incomplete set list from the show, Nirvana jammed on covers of Led Zeppelin's 'Heartbreaker' and 'How Many More Times,' but also performed nascent versions of 'Aero Zeppelin,' 'Mexican Seafood,' 'Pen Cap Chew,' 'Hairspray Queen,' 'Spank Thru' and 'If You Must.'"]
+[22112, "A recording of the band's 'Heartbreaker' jam appeared on the 2004 box set, With the Lights Out, while a bootleg version of 'If You Must' is available on YouTube."]
+[22113, "Poukkula's shots come on the heels of a deluge of rare Cobain and Nirvana artifacts, many of which were incorporated into Brett Morgen's acclaimed documentary, Montage of Heck."]
+[22114, "Morgen was given unprecedented access to Cobain's archives, comprising mountains of notebooks and hours of never-before-heard audio cassette tapes, which featured eerie Beatles covers and the noise collage that gave the film its title."]
+[22115, 'After a successful stretch on the festival circuit, limited theatrical run and HBO premiere, Montage of Heck is set to return to movie theaters starting August 7th.']
+
+Headline 12: A statement from Tesla's board members on Wednesday raises further questions following the shock tweet from Elon Musk that he wants to take the auto maker private.
+
+(1) Future Plans:
+
+(2) Assumptions:
+
+(3) Opinions:
+[22124, 'At $420 a share, the price at which Musk tweeted he was considering setting the bid, the deal would be valued at $72 billion before debt.']
+[22130, "'Last week' predates Tesla's filing on Monday of its 10-Q with the Securities and Exchange Commission, which didn't mention such discussions."]
+[22131, "News of a takeover would certainly be considered material, yet it wasn't disclosed until Musk's tweet on Tuesday."]
+[22132, "Another question is what the 'appropriate next steps' are, though that's probably the imminent formation of a committee to evaluate the bid."]
+[22133, 'What was left out of the statement also is worth considering.']
+[22134, "For instance, there was no indication that the board was satisfied with either Musk's method or timing for announcing the approach, though they didn't rebuke him, either."]
+
+(4) Facts:
+[22116, "A statement from Tesla's board members on Wednesday raises further questions following the shock tweet from Elon Musk that he wants to take the auto maker private."]
+[22117, 'The brief news release from Tesla board members—Brad Buss, Robyn Denholm, Ira Ehrenpreis, Antonio Gracias, Linda Johnson Rice, and James Murdoch—consisted of three sentences: Last week, Elon opened a discussion with the board about taking the company private.']
+[22118, "This included discussion as to how being private could better serve Tesla's long-term interests, and also addressed the funding for this to occur."]
+[22119, 'The board has met several times over the last week and is taking the appropriate next steps to evaluate this.']
+[22120, "Two board members, venture capital investor Steve Jurvetson as well as Musk's brother, Kimbal Musk, didn't sign on to the statement."]
+[22121, '(Jurvetson has taken leave from Tesla after being accused of sexual harassment.)']
+[22122, "The statement from members of Tesla Inc.'s TSLA, +5.77% board does show there was a discussion of how he could fund such a bid."]
+[22123, "But the board's statement leaves open the crucial question of whether they were satisfied that—as Musk's surprise tweet put it—he had enough backing to assert 'funding secured.'"]
+[22125, 'Related: A Tesla buyout would be the largest in history—by a wide margin Tesla shares were down more than 1% early Wednesday, after surging by about 11% on Tuesday.']
+[22126, "The electric-car maker's stock has climbed by 21% so far this year."]
+[22127, 'By comparison, the Dow Jones Industrial Average DJIA, +3.29% is set for a year-to-date gain of 3.5%, the S&P 500 index SPX, +3.43% is on track for a return of 6.8%, while the Nasdaq Composite Index COMP, +4.26% has advanced by more than 14% so far this year, according to FactSet data.']
+[22128, "Tesla's run-up comes despite the company being a consistent target of investors aiming to short the its stock, or bet against Tesla's shares rising."]
+[22129, 'Another crucial question raised by the statement is the timing.']
+[22135, 'Murdoch also sits on the board of News Corp., which owns MarketWatch, the publisher of this report.']
+
+
+Here are the identified headlines and categorized sentences for Headlines 13-14:
+
+Headline 13: NASA names solar mission after physicist Eugene Parker
+
+(1) Future Plans: 
+[22136, "Wearing a nearly 5-inch coat of carbon-composite solar shields, NASA's Parker Solar Probe will explore the sun's atmosphere in a mission that begins in the summer of 2018."]
+[22137, "It's not a journey that any human can make, so NASA is sending a roughly 10-foot-high probe on the historic mission that will put it closer to the sun than any spacecraft has ever reached before."]
+[22166, "In order to reach an orbit around the sun, the Parker Solar Probe will take seven flybys of Venus that will essentially give the probe a gravity assist, shrinking its orbit around the sun over the course of nearly seven years."]
+[22173, "The mission will also pass through the origin of the solar particles with the highest energy."]
+[22174, "The mission is scheduled to end in June 2025."]
+
+(2) Assumptions: 
+[22138, "The probe will have to withstand heat and radiation never before experienced by any spacecraft, but the specially designed mission will also address questions that couldn't be answered before."]
+[22139, "Understanding the sun in greater detail can also shed light on Earth and its place in the solar system, researchers said."]
+
+(3) Opinions: 
+[22175, "'The solar probe is going to a region of space that has never been explored before,' Parker said."]
+[22176, "'It's very exciting that we'll finally get a look."]
+[22177, "One would like to have some more detailed measurements of what's going on in the solar wind."]
+[22178, "I'm sure that there will be some surprises."]
+[22179, "There always are.'"]
+
+(4) Facts: 
+[22140, "This is NASA's first mission to the sun and its outermost atmosphere, called the corona."]
+[22141, "On Wednesday, the craft -- initially called the Solar Probe Plus -- was renamed the Parker Solar Probe in honor of astrophysicist Eugene Parker."]
+[22142, "'This is the first time NASA has named a spacecraft for a living individual,' said Thomas Zurbuchen, associate administrator for the agency's Science Mission Directorate in Washington."]
+[22143, "'It's a testament to the importance of his body of work, founding a new field of science that also inspired my own research and many important science questions NASA continues to study and further understand every day."]
+[22144, "I'm very excited to be personally involved honoring a great man and his unprecedented legacy.'"]
+[22145, "Parker published research predicting the existence of solar wind in 1958, when he was a young professor at the University of Chicago's Enrico Fermi institute."]
+[22146, "At the time, astronomers believed that the space between planets was a vacuum."]
+[22147, "Parker's first paper was rejected, but it was saved by a colleague, Subrahmanyan Chandrasekhar, an astrophysicist who would be awarded the 1983 Nobel Prize for Physics."]
+[22148, "Less than two years after Parker's paper was published, his theory of solar wind was confirmed by satellite observations."]
+[22149, "His work revolutionized our understanding of the sun and interplanetary space."]
+[22150, "Parker is now the S. Chandrasekhar Distinguished Service Professor Emeritus at the University of Chicago."]
+[22151, "Zurbuchen and Nicola Fox, the mission project scientist for Parker Solar Probe, also presented Parker with the first scale model of the probe and NASA's distinguished public service medal."]
+[22152, "'I'm greatly honored to be associated with such a heroic scientific space mission,' Parker said."]
+[22153, "The Parker Solar Probe will carry a chip with photos of Parker and his revolutionary paper, as well as a plate carrying whatever inscription Parker wishes to provide -- his message to the sun."]
+[22154, "The probe will eventually orbit within 3.7 million miles of the sun's surface."]
+[22155, "The observations and data could provide insight about the physics of stars, change what we know about the mysterious corona, increase understanding of solar wind and help improve forecasting of major space weather events."]
+[22156, "Those events can impact satellites and astronauts as well as the Earth -- including the power grid and radiation exposure on airline flights, NASA said."]
+[22157, "The mission's objectives include 'tracing the flow of energy that heats and accelerates the sun's corona and solar wind, determining the structure and dynamics of the plasma and magnetic fields at the sources of the solar wind and explore mechanisms that accelerate and transport energetic particles.'"]
+[22158, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."]
+[22159, "'Why has it taken us 60 years?"]
+[22160, "The materials didn't exist to allow us to do it."]
+[22161, "We had to make a heat shield, and we love it."]
+[22162, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"]
+[22163, "Solar wind is the flow of charged gases from the sun that is present in most of the solar system."]
+[22164, "That wind screams past Earth at a million miles per hour, and disturbances of the solar wind cause disruptive space weather that impacts our planet."]
+[22165, "Space weather may not sound like something that concerns Earth, but surveys by the National Academy of Sciences have estimated that a solar event without warning could cause $2 trillion in damage in the United States and leave parts of the country without power for a year."]
+[22167, "The probe will eventually be closer to the sun than Mercury."]
+[22168, "It will be close enough to watch solar wind whip up from subsonic to supersonic."]
+[22169, "When closest to the sun, the probe's 4½-inch-thick carbon-composite solar shields will have to withstand temperatures close to 2,500 degrees Fahrenheit."]
+[22170, "Due to its design, the inside of the spacecraft and its instruments will remain at a comfortable room temperature."]
+[22171, "The probe will reach a speed of 450,000 mph around the sun."]
+[22172, "On Earth, this speed would enable someone to get from Philadelphia to Washington in one second, the agency said."]
+
+Headline 14: Kanye West's meetings with tech moguls revealed
+
+(1) Future Plans: 
+
+(2) Assumptions: 
+
+(3) Opinions: 
+[22188, "For music titans such as West, Nas, MC Hammer and Justin Bieber, it's become a way to grow serious businessperson bona fides."]
+[22189, "For technologists, it's the ultimate revenge of the nerds."]
+[22197, "'They're tight."]
+[22198, "It's cute,' Moghadam, who now works at Everipedia, said of Horowitz and West."]
+
+(4) Facts: 
+[22180, "There appears to be some truth to Kanye West's claim that he has met 'all the tech guys'."]
+[22181, "The Chicago hip-hop mogul this weekend declared he is $53m in debt and requested funding from Facebook founder Mark Zuckerberg and Google cofounder Larry Page."]
+[22182, "He then threw down this 70-character gauntlet: KANYE WEST (@kanyewest) All you guys had meetings with me and no one lifted a finger to help…."]
+[22183, "The Guardian wasn't able to determine the true nature of West's finances, but he does appear to have more than a few friends in Silicon Valley, based on public press accounts and interviews with several tech executives."]
+[22184, "He frequently shows up at Apple's southern California office, is friends with rap-obsessed venture capitalist Ben Horowitz, has reportedly dined with an Instagram founder, and has some sort of social relationship with Dropbox chief executive Drew Houston."]
+[22185, "The interactions go back at least half a decade."]
+[22186, "Elon Musk (@elonmusk) Kanye stopped by the SpaceX rocket factory today."]
+[22187, "pic.twitter.com/6z7gHBn6 There's some context here."]
+[22190, "Some of West's early interactions with Silicon Valley were well-documented by Gawker's tech industry gossip site Valleywag."]
+[22191, "In 2012 and 2013, the producer and rapper began pitching his latest vision, Donda, to investors."]
+[22192, "It was presented as a sort of hip man's General Electric that would have its fingers in everything from fashion and publishing to 'alternative energy sources' and 'hovercrafts'."]
+[22193, "KANYE WEST (@kanyewest) Here is my Donda chart that I wrote 4 years ago that everyone laughed at… pic.twitter.com/g1po6Z3H55 Perhaps trying to grease the levers of finance, West invited several tech thought leaders to his 2013 engagement party at San Francisco's AT&T Park, home of the Giants."]
+[22194, "Horowitz, the cofounder of mega venture capital firm Andreessen Horowitz, was there, as was Dropbox's Houston."]
+[22195, "Another person present: Mahbod Moghadam, the controversial cofounder of Rap Genius, the Andreessen Horowitz-backed company that helps people understand rap lyrics."]
+[22196, "'They're tight."]
+[22199, "Moghadam left Rap Genius in 2014 after comments he made about a mass shooting at the University of California Santa Barbara."]
+[22200, "'In their defense, I did do a lot of stupid things,' he said."]
+[22201, "Dropbox and Andreessen Horowitz didn't immediately respond to requests for comment."]
+[22202, "It couldn't be learned what relationship, if any, West maintains with executives at some of the biggest Silicon Valley companies, such as Facebook, Twitter, Uber and Alphabet (the artists formerly known as Google), although he has dined with Kevin Systrom, the cofounder of Facebook-owned Instagram."]
+[22203, "But he does appear to have a working relationship with Apple, a less-than-surprising development given the iPhone maker's work with streaming music these days – even if he did declare his new album The Life of Pablo would 'never never' be on Apple's iTunes Store and would be exclusive to the streaming service Tidal."]
+[22204, "At Apple's southern California headquarters, where former record executive Jimmy Iovine helps run Apple music, West is sometimes found hanging out in Iovine's office, a person familiar with the meetings said."]
+[22205, "In his Twitter posts on 14 February, West asked Zuckerberg for $1bn to help handle his debts and bring Donda, his startup idea, to fruition."]
+[22206, "As Aaron Levie, the chief executive of Box, noted on Twitter, that's a lot of money these days, even in Silicon Valley."]
+
+
+Here are the identified headlines and categorized sentences for Headlines 15-16:
+
+Headline 15: NASA names solar mission after physicist Eugene Parker
+
+(1) Future Plans: 
+[22136, "Wearing a nearly 5-inch coat of carbon-composite solar shields, NASA's Parker Solar Probe will explore the sun's atmosphere in a mission that begins in the summer of 2018."]
+[22137, "It's not a journey that any human can make, so NASA is sending a roughly 10-foot-high probe on the historic mission that will put it closer to the sun than any spacecraft has ever reached before."]
+[22151, "Zurbuchen and Nicola Fox, the mission project scientist for Parker Solar Probe, also presented Parker with the first scale model of the probe and NASA's distinguished public service medal."]
+[22153, "The Parker Solar Probe will carry a chip with photos of Parker and his revolutionary paper, as well as a plate carrying whatever inscription Parker wishes to provide -- his message to the sun."]
+[22154, "The probe will eventually orbit within 3.7 million miles of the sun's surface."]
+[22166, "In order to reach an orbit around the sun, the Parker Solar Probe will take seven flybys of Venus that will essentially give the probe a gravity assist, shrinking its orbit around the sun over the course of nearly seven years."]
+[22167, "The probe will eventually be closer to the sun than Mercury."]
+[22168, "It will be close enough to watch solar wind whip up from subsonic to supersonic."]
+[22171, "The probe will reach a speed of 450,000 mph around the sun."]
+[22173, "The mission will also pass through the origin of the solar particles with the highest energy."]
+[22174, "The mission is scheduled to end in June 2025."]
+
+(2) Assumptions:
+[22138, "The probe will have to withstand heat and radiation never before experienced by any spacecraft, but the specially designed mission will also address questions that couldn't be answered before."]
+[22139, "Understanding the sun in greater detail can also shed light on Earth and its place in the solar system, researchers said."]
+[22155, "The observations and data could provide insight about the physics of stars, change what we know about the mysterious corona, increase understanding of solar wind and help improve forecasting of major space weather events."]
+[22156, "Those events can impact satellites and astronauts as well as the Earth -- including the power grid and radiation exposure on airline flights, NASA said."]
+[22165, "Space weather may not sound like something that concerns Earth, but surveys by the National Academy of Sciences have estimated that a solar event without warning could cause $2 trillion in damage in the United States and leave parts of the country without power for a year."]
+
+(3) Opinions:
+[22143, "'It's a testament to the importance of his body of work, founding a new field of science that also inspired my own research and many important science questions NASA continues to study and further understand every day."]
+[22144, "I'm very excited to be personally involved honoring a great man and his unprecedented legacy.'"]
+[22152, "'I'm greatly honored to be associated with such a heroic scientific space mission,' Parker said."]
+[22159, "'Why has it taken us 60 years?"]
+[22160, "The materials didn't exist to allow us to do it."]
+[22161, "We had to make a heat shield, and we love it."]
+[22162, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"]
+[22175, "'The solar probe is going to a region of space that has never been explored before,' Parker said."]
+[22176, "'It's very exciting that we'll finally get a look."]
+[22177, "One would like to have some more detailed measurements of what's going on in the solar wind."]
+[22178, "I'm sure that there will be some surprises."]
+[22179, "There always are.'"]
+
+(4) Facts:
+[22140, "This is NASA's first mission to the sun and its outermost atmosphere, called the corona."]
+[22141, "On Wednesday, the craft -- initially called the Solar Probe Plus -- was renamed the Parker Solar Probe in honor of astrophysicist Eugene Parker."]
+[22142, "'This is the first time NASA has named a spacecraft for a living individual,' said Thomas Zurbuchen, associate administrator for the agency's Science Mission Directorate in Washington."]
+[22145, "Parker published research predicting the existence of solar wind in 1958, when he was a young professor at the University of Chicago's Enrico Fermi institute."]
+[22146, "At the time, astronomers believed that the space between planets was a vacuum."]
+[22147, "Parker's first paper was rejected, but it was saved by a colleague, Subrahmanyan Chandrasekhar, an astrophysicist who would be awarded the 1983 Nobel Prize for Physics."]
+[22148, "Less than two years after Parker's paper was published, his theory of solar wind was confirmed by satellite observations."]
+[22149, "His work revolutionized our understanding of the sun and interplanetary space."]
+[22150, "Parker is now the S. Chandrasekhar Distinguished Service Professor Emeritus at the University of Chicago."]
+[22157, "The mission's objectives include 'tracing the flow of energy that heats and accelerates the sun's corona and solar wind, determining the structure and dynamics of the plasma and magnetic fields at the sources of the solar wind and explore mechanisms that accelerate and transport energetic particles.'"]
+[22158, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."]
+[22163, "Solar wind is the flow of charged gases from the sun that is present in most of the solar system."]
+[22164, "That wind screams past Earth at a million miles per hour, and disturbances of the solar wind cause disruptive space weather that impacts our planet."]
+[22169, "When closest to the sun, the probe's 4½-inch-thick carbon-composite solar shields will have to withstand temperatures close to 2,500 degrees Fahrenheit."]
+[22170, "Due to its design, the inside of the spacecraft and its instruments will remain at a comfortable room temperature."]
+[22172, "On Earth, this speed would enable someone to get from Philadelphia to Washington in one second, the agency said."]
+
+Headline 16: Kanye West's meetings with tech leaders
+
+(1) Future Plans:
+[22205, "In his Twitter posts on 14 February, West asked Zuckerberg for $1bn to help handle his debts and bring Donda, his startup idea, to fruition."]
+
+(2) Assumptions:
+[22188, "For music titans such as West, Nas, MC Hammer and Justin Bieber, it's become a way to grow serious businessperson bona fides."]
+[22189, "For technologists, it's the ultimate revenge of the nerds."]
+
+(3) Opinions:
+[22197, "'They're tight."]
+[22198, "It's cute,' Moghadam, who now works at Everipedia, said of Horowitz and West."]
+[22200, "'In their defense, I did do a lot of stupid things,' he said."]
+[22206, "As Aaron Levie, the chief executive of Box, noted on Twitter, that's a lot of money these days, even in Silicon Valley."]
+
+(4) Facts:
+[22180, "There appears to be some truth to Kanye West's claim that he has met 'all the tech guys'."]
+[22181, "The Chicago hip-hop mogul this weekend declared he is $53m in debt and requested funding from Facebook founder Mark Zuckerberg and Google cofounder Larry Page."]
+[22182, "He then threw down this 70-character gauntlet: KANYE WEST (@kanyewest) All you guys had meetings with me and no one lifted a finger to help…."]
+[22183, "The Guardian wasn't able to determine the true nature of West's finances, but he does appear to have more than a few friends in Silicon Valley, based on public press accounts and interviews with several tech executives."]
+[22184, "He frequently shows up at Apple's southern California office, is friends with rap-obsessed venture capitalist Ben Horowitz, has reportedly dined with an Instagram founder, and has some sort of social relationship with Dropbox chief executive Drew Houston."]
+[22185, "The interactions go back at least half a decade."]
+[22186, "Elon Musk (@elonmusk) Kanye stopped by the SpaceX rocket factory today."]
+[22187, "pic.twitter.com/6z7gHBn6 There's some context here."]
+[22190, "Some of West's early interactions with Silicon Valley were well-documented by Gawker's tech industry gossip site Valleywag."]
+[22191, "In 2012 and 2013, the producer and rapper began pitching his latest vision, Donda, to investors."]
+[22192, "It was presented as a sort of hip man's General Electric that would have its fingers in everything from fashion and publishing to 'alternative energy sources' and 'hovercrafts'."]
+[22193, "KANYE WEST (@kanyewest) Here is my Donda chart that I wrote 4 years ago that everyone laughed at… pic.twitter.com/g1po6Z3H55 Perhaps trying to grease the levers of finance, West invited several tech thought leaders to his 2013 engagement party at San Francisco's AT&T Park, home of the Giants."]
+[22194, "Horowitz, the cofounder of mega venture capital firm Andreessen Horowitz, was there, as was Dropbox's Houston."]
+[22195, "Another person present: Mahbod Moghadam, the controversial cofounder of Rap Genius, the Andreessen Horowitz-backed company that helps people understand rap lyrics."]
+[22196, "'They're tight."]
+[22199, "Moghadam left Rap Genius in 2014 after comments he made about a mass shooting at the University of California Santa Barbara."]
+[22201, "Dropbox and Andreessen Horowitz didn't immediately respond to requests for comment."]
+[22202, "It couldn't be learned what relationship, if any, West maintains with executives at some of the biggest Silicon Valley companies, such as Facebook, Twitter, Uber and Alphabet (the artists formerly known as Google), although he has dined with Kevin Systrom, the cofounder of Facebook-owned Instagram."]
+[22203, "But he does appear to have a working relationship with Apple, a less-than-surprising development given the iPhone maker's work with streaming music these days – even if he did declare his new album The Life of Pablo would 'never never never' be on Apple's iTunes Store and would be exclusive to the streaming service Tidal."]
+[22204, "At Apple's southern California headquarters, where former record executive Jimmy Iovine helps run Apple music, West is sometimes found hanging out in Iovine's office, a person familiar with the meetings said."]
+
+
+Here are the identified headlines and categorized sentences for Headlines 17-18:
+
+Headline 17: NASA names solar mission after physicist Eugene Parker
+
+(1) Future Plans:
+[22136, "Wearing a nearly 5-inch coat of carbon-composite solar shields, NASA's Parker Solar Probe will explore the sun's atmosphere in a mission that begins in the summer of 2018."]
+[22158, "'We've been inside the orbit of Mercury and done amazing things, but until you go and touch the sun, you can't answer these questions,' Fox said."]
+[22166, "In order to reach an orbit around the sun, the Parker Solar Probe will take seven flybys of Venus that will essentially give the probe a gravity assist, shrinking its orbit around the sun over the course of nearly seven years."]
+[22173, "The mission is scheduled to end in June 2025."]
+
+(2) Assumptions:
+[22138, "The probe will have to withstand heat and radiation never before experienced by any spacecraft, but the specially designed mission will also address questions that couldn't be answered before."]
+[22155, 'The observations and data could provide insight about the physics of stars, change what we know about the mysterious corona, increase understanding of solar wind and help improve forecasting of major space weather events.']
+[22178, "I'm sure that there will be some surprises."]
+[22179, "There always are.'"]
+
+(3) Opinions:
+[22143, "'It's a testament to the importance of his body of work, founding a new field of science that also inspired my own research and many important science questions NASA continues to study and further understand every day."]
+[22144, "I'm very excited to be personally involved honoring a great man and his unprecedented legacy.'"]
+[22152, "'I'm greatly honored to be associated with such a heroic scientific space mission,' Parker said."]
+[22159, "'Why has it taken us 60 years?"]
+[22160, "The materials didn't exist to allow us to do it."]
+[22161, 'We had to make a heat shield, and we love it.']
+[22175, "'The solar probe is going to a region of space that has never been explored before,' Parker said."]
+[22176, "'It's very exciting that we'll finally get a look."]
+[22177, "One would like to have some more detailed measurements of what's going on in the solar wind."]
+
+(4) Facts:
+[22137, "It's not a journey that any human can make, so NASA is sending a roughly 10-foot-high probe on the historic mission that will put it closer to the sun than any spacecraft has ever reached before."]
+[22139, 'Understanding the sun in greater detail can also shed light on Earth and its place in the solar system, researchers said.']
+[22140, "This is NASA's first mission to the sun and its outermost atmosphere, called the corona."]
+[22141, 'On Wednesday, the craft -- initially called the Solar Probe Plus -- was renamed the Parker Solar Probe in honor of astrophysicist Eugene Parker.']
+[22142, "'This is the first time NASA has named a spacecraft for a living individual,' said Thomas Zurbuchen, associate administrator for the agency's Science Mission Directorate in Washington."]
+[22145, "Parker published research predicting the existence of solar wind in 1958, when he was a young professor at the University of Chicago's Enrico Fermi institute."]
+[22146, 'At the time, astronomers believed that the space between planets was a vacuum.']
+[22147, "Parker's first paper was rejected, but it was saved by a colleague, Subrahmanyan Chandrasekhar, an astrophysicist who would be awarded the 1983 Nobel Prize for Physics."]
+[22148, "Less than two years after Parker's paper was published, his theory of solar wind was confirmed by satellite observations."]
+[22149, 'His work revolutionized our understanding of the sun and interplanetary space.']
+[22150, 'Parker is now the S. Chandrasekhar Distinguished Service Professor Emeritus at the University of Chicago.']
+[22151, "Zurbuchen and Nicola Fox, the mission project scientist for Parker Solar Probe, also presented Parker with the first scale model of the probe and NASA's distinguished public service medal."]
+[22153, 'The Parker Solar Probe will carry a chip with photos of Parker and his revolutionary paper, as well as a plate carrying whatever inscription Parker wishes to provide -- his message to the sun.']
+[22154, "The probe will eventually orbit within 3.7 million miles of the sun's surface."]
+[22156, 'Those events can impact satellites and astronauts as well as the Earth -- including the power grid and radiation exposure on airline flights, NASA said.']
+[22157, "The mission's objectives include 'tracing the flow of energy that heats and accelerates the sun's corona and solar wind, determining the structure and dynamics of the plasma and magnetic fields at the sources of the solar wind and explore mechanisms that accelerate and transport energetic particles.'"]
+[22162, "Something that can withstand the extreme hot and cold temperature shifts of its 24 orbits is revolutionary.'"]
+[22163, 'Solar wind is the flow of charged gases from the sun that is present in most of the solar system.']
+[22164, 'That wind screams past Earth at a million miles per hour, and disturbances of the solar wind cause disruptive space weather that impacts our planet.']
+[22165, 'Space weather may not sound like something that concerns Earth, but surveys by the National Academy of Sciences have estimated that a solar event without warning could cause $2 trillion in damage in the United States and leave parts of the country without power for a year.']
+[22167, 'The probe will eventually be closer to the sun than Mercury.']
+[22168, 'It will be close enough to watch solar wind whip up from subsonic to supersonic.']
+[22169, "When closest to the sun, the probe's 4½-inch-thick carbon-composite solar shields will have to withstand temperatures close to 2,500 degrees Fahrenheit."]
+[22170, 'Due to its design, the inside of the spacecraft and its instruments will remain at a comfortable room temperature.']
+[22171, 'The probe will reach a speed of 450,000 mph around the sun.']
+[22172, 'On Earth, this speed would enable someone to get from Philadelphia to Washington in one second, the agency said.']
+[22174, 'The mission will also pass through the origin of the solar particles with the highest energy.']
+
+Headline 18: Kanye West has met 'all the tech guys', Silicon Valley sources confirm
+
+(1) Future Plans:
+[22205, 'In his Twitter posts on 14 February, West asked Zuckerberg for $1bn to help handle his debts and bring Donda, his startup idea, to fruition.']
+
+(2) Assumptions:
+[22181, 'The Chicago hip-hop mogul this weekend declared he is $53m in debt and requested funding from Facebook founder Mark Zuckerberg and Google cofounder Larry Page.']
+[22184, "He frequently shows up at Apple's southern California office, is friends with rap-obsessed venture capitalist Ben Horowitz, has reportedly dined with an Instagram founder, and has some sort of social relationship with Dropbox chief executive Drew Houston."]
+
+(3) Opinions:
+[22180, "There appears to be some truth to Kanye West's claim that he has met 'all the tech guys'."]
+[22189, "For music titans such as West, Nas, MC Hammer and Justin Bieber, it's become a way to grow serious businessperson bona fides."]
+[22190, "For technologists, it's the ultimate revenge of the nerds."]
+[22197, "'They're tight."]
+[22198, "It's cute,' Moghadam, who now works at Everipedia, said of Horowitz and West."]
+[22200, "'In their defense, I did do a lot of stupid things,' he said."]
+[22206, "As Aaron Levie, the chief executive of Box, noted on Twitter, that's a lot of money these days, even in Silicon Valley."]
+
+(4) Facts:
+[22182, 'He then threw down this 70-character gauntlet: KANYE WEST (@kanyewest) All you guys had meetings with me and no one lifted a finger to help….']
+[22183, "The Guardian wasn't able to determine the true nature of West's finances, but he does appear to have more than a few friends in Silicon Valley, based on public press accounts and interviews with several tech executives."]
+[22185, 'The interactions go back at least half a decade.']
+[22186, 'Elon Musk (@elonmusk) Kanye stopped by the SpaceX rocket factory today.']
+[22187, "pic.twitter.com/6z7gHBn6 There's some context here."]
+[22188, 'The entertainment industry and tech have long had a fascination with each other.']
+[22191, "Some of West's early interactions with Silicon Valley were well-documented by Gawker's tech industry gossip site Valleywag."]
+[22192, 'In 2012 and 2013, the producer and rapper began pitching his latest vision, Donda, to investors.']
+[22193, "It was presented as a sort of hip man's General Electric that would have its fingers in everything from fashion and publishing to 'alternative energy sources' and 'hovercrafts'."]
+[22194, "KANYE WEST (@kanyewest) Here is my Donda chart that I wrote 4 years ago that everyone laughed at… pic.twitter.com/g1po6Z3H55 Perhaps trying to grease the levers of finance, West invited several tech thought leaders to his 2013 engagement party at San Francisco's AT&T Park, home of the Giants."]
+[22195, "Horowitz, the cofounder of mega venture capital firm Andreessen Horowitz, was there, as was Dropbox's Houston."]
+[22196, 'Another person present: Mahbod Moghadam, the controversial cofounder of Rap Genius, the Andreessen Horowitz-backed company that helps people understand rap lyrics.']
+[22199, 'Moghadam left Rap Genius in 2014 after comments he made about a mass shooting at the University of California Santa Barbara.']
+[22201, "Dropbox and Andreessen Horowitz didn't immediately respond to requests for comment."]
+[22202, "It couldn't be learned what relationship, if any, West maintains with executives at some of the biggest Silicon Valley companies, such as Facebook, Twitter, Uber and Alphabet (the artists formerly known as Google), although he has dined with Kevin Systrom, the cofounder of Facebook-owned Instagram."]
+[22203, "But he does appear to have a working relationship with Apple, a less-than-surprising development given the iPhone maker's work with streaming music these days – even if he did declare his new album The Life of Pablo would 'never never' be on Apple's iTunes Store and would be exclusive to the streaming service Tidal."]
+[22204, "At Apple's southern California headquarters, where former record executive Jimmy Iovine helps run Apple music, West is sometimes found hanging out in Iovine's office, a person familiar with the meetings said."]
+
+
