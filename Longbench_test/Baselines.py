@@ -11,7 +11,7 @@ headers = {
     "content-type": "application/json"
 }
 
-LLM_name = "claude-3-5-sonnet-20240620"
+LLM_name = "claude-3-opus-20240229"
 
 file_list = ["lsht_sampling_10convert.txt"]
 
@@ -40,7 +40,7 @@ for file_name in file_list:
 
         ### Direct
         if Chinese:
-            question = "ÒÔÏÂÎÄµµÓĞ" + str(total) + "ÌõĞÂÎÅÆ¬¶Î£¬Ã¿ÌõĞÂÎÅÆ¬¶Î°üº¬Èô¸É¾ä»°£¬Ê×ÏÈÅĞ¶ÏÒÔÏÂÎÄµµÓĞÄÄĞ©ĞÂÎÅ±êÌâ£¬½Ó×ÅÍ¨¹ıµÚ" + str(H) + "-" + str(H+step-1) + "¸öĞÂÎÅ±êÌâµÄ4¸ö·½Ãæ¡±(1) Î´À´¼Æ»®¡±¡¢¡°(2) ²Â²â¡±¡¢¡°(3) ¹Ûµã¡±¡¢¡°(4) ÊÂÊµ¡±£¬¶ÔÒÔÏÂÎÄµµ½øĞĞÕª³­" + "¡°" + txt + "¡±" + "£¬×¢ÒâÅĞ¶ÏÒÔÉÏÎÄµµÓĞÄÄĞ©ĞÂÎÅ±êÌâ²¢Í¨¹ıµÚ" + str(H) + "-" + str(H+step-1) + "¸öĞÂÎÅ±êÌâµÄ4¸ö·½Ãæ¡±(1) Î´À´¼Æ»®¡±¡¢¡°(2) ²Â²â¡±¡¢¡°(3) ¹Ûµã¡±¡¢¡°(4) ÊÂÊµ¡±£¬¶ÔÒÔÉÏÎÄµµ½øĞĞÖğ¾äÕª³­£¨½ö½öÕª³­¶ø²»ÒªÊä³öÆäËûÄÚÈİ£©£¬²¢ÇÒÒÔ[Ô­ĞòºÅ, ¾ä×Ó]µÄ¸ñÊ½£¬²»ÖØ¸´¡¢²»ÒÅÂ©µØ¹éÀà²¢Õª³­ÔÚµÚ" + str(H) + "-" + str(H+step-1) + "¸öĞÂÎÅ±êÌâµÄ4¸ö·½ÃæÏÂ"
+            question = "ä»¥ä¸‹æ–‡æ¡£æœ‰" + str(total) + "æ¡æ–°é—»ç‰‡æ®µï¼Œæ¯æ¡æ–°é—»ç‰‡æ®µåŒ…å«è‹¥å¹²å¥è¯ï¼Œé¦–å…ˆåˆ¤æ–­ä»¥ä¸‹æ–‡æ¡£æœ‰å“ªäº›æ–°é—»æ ‡é¢˜ï¼Œæ¥ç€é€šè¿‡ç¬¬" + str(H) + "-" + str(H+step-1) + "ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢â€(1) æœªæ¥è®¡åˆ’â€ã€â€œ(2) çŒœæµ‹â€ã€â€œ(3) è§‚ç‚¹â€ã€â€œ(4) äº‹å®â€ï¼Œå¯¹ä»¥ä¸‹æ–‡æ¡£è¿›è¡Œæ‘˜æŠ„" + "â€œ" + txt + "â€" + "ï¼Œæ³¨æ„åˆ¤æ–­ä»¥ä¸Šæ–‡æ¡£æœ‰å“ªäº›æ–°é—»æ ‡é¢˜å¹¶é€šè¿‡ç¬¬" + str(H) + "-" + str(H+step-1) + "ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢â€(1) æœªæ¥è®¡åˆ’â€ã€â€œ(2) çŒœæµ‹â€ã€â€œ(3) è§‚ç‚¹â€ã€â€œ(4) äº‹å®â€ï¼Œå¯¹ä»¥ä¸Šæ–‡æ¡£è¿›è¡Œé€å¥æ‘˜æŠ„ï¼ˆä»…ä»…æ‘˜æŠ„è€Œä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ï¼‰ï¼Œå¹¶ä¸”ä»¥[åŸåºå·, å¥å­]çš„æ ¼å¼ï¼Œä¸é‡å¤ã€ä¸é—æ¼åœ°å½’ç±»å¹¶æ‘˜æŠ„åœ¨ç¬¬" + str(H) + "-" + str(H+step-1) + "ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢ä¸‹"
         else:
             question = "There are " + str(total) + " pieces of news in the following document, and each piece of news headline includes multiple sentences. Please first identify the news headlines in the following document, and place each and every sentence into the most appropriate one of the four entries in unchanged sequence: '(1) Future Plans: , (2) Assumptions: , (3) Opinions: , (4) Facts: ' of each headline in Headlines " + str(H) + "-" + str(H+step-1) + " \n" + txt + " \nRemember to identify the news headlines first and then place each and every sentence into the most appropriate one of the 4 entries in unchanged sequence: '(1) Future Plans: , (2) Assumptions: , (3) Opinions: , (4) Facts: ' of each headline in Headlines " + str(H) + "-" + str(H+step-1) + " in the original list format of [sentence index, sentence]. Remember to include ALL the sentences and not to repeat or omit any possible sentence for the Headlines " + str(H) + "-" + str(H+step-1)
         print("question =", question)
@@ -74,7 +74,7 @@ for file_name in file_list:
 
         ### COT
         if Chinese:
-            question_COT = question + "£¬ÇëÒ»²½²½½âÊÍÄãµÄË¼Â·£¬È»ºó¸ø³ö×îÖÕ´ğ°¸"
+            question_COT = question + "ï¼Œè¯·ä¸€æ­¥æ­¥è§£é‡Šä½ çš„æ€è·¯ï¼Œç„¶åç»™å‡ºæœ€ç»ˆç­”æ¡ˆ"
         else:
             question_COT = question + ". Please explain your thought process step by step and then give the final answer"
 
@@ -106,7 +106,7 @@ for file_name in file_list:
         ### Reflex
         while True:
             if Chinese:
-                hint = "Çë×ĞÏ¸»Ø¹ËÄã¸Õ²ÅµÄ»Ø´ğ¡£¿¼ÂÇÒ»ÏÂÄãÊÇ·ñ¿ÉÄÜ·¸ÁË´íÎó£¬»òÕßÊÇ·ñÓĞ¸Ä½øµÄµØ·½¡£È»ºóÖØĞÂ¸ø³ö´ğ°¸"
+                hint = "è¯·ä»”ç»†å›é¡¾ä½ åˆšæ‰çš„å›ç­”ã€‚è€ƒè™‘ä¸€ä¸‹ä½ æ˜¯å¦å¯èƒ½çŠ¯äº†é”™è¯¯ï¼Œæˆ–è€…æ˜¯å¦æœ‰æ”¹è¿›çš„åœ°æ–¹ã€‚ç„¶åé‡æ–°ç»™å‡ºç­”æ¡ˆ"
             else:
                 hint = "Please carefully review your previous response. Consider whether you might have made a mistake, or if there is room for improvement. Then provide the complete answer again."
             try:
@@ -138,7 +138,7 @@ for file_name in file_list:
         while True:
 
             if Chinese:
-                hint = "ÒÔÉÏÊÇÁíÒ»¸öÈËµÄ´ğ°¸£¬Çë½áºÏÄãÃÇµÄ´ğ°¸²¢¸ø³ö×îÖÕ´ğ°¸"
+                hint = "ä»¥ä¸Šæ˜¯å¦ä¸€ä¸ªäººçš„ç­”æ¡ˆï¼Œè¯·ç»“åˆä½ ä»¬çš„ç­”æ¡ˆå¹¶ç»™å‡ºæœ€ç»ˆç­”æ¡ˆ"
             else:
                 hint = "The above is another person's answer; please combine your answers and provide the final answer."
 
@@ -185,7 +185,7 @@ for file_name in file_list:
     txt3 = txt[cut2:]
 
     if Chinese:
-        densify = "Çë¾«Á¶ÒÔÉÏÄÚÈİ£¬Ñ¡ÔñÄãÈÏÎªÖØÒªµÄ¾ä×Ó°´ÕÕÔ­¸ñÊ½Êä³ö£¬±£³ÖÁĞ±íµÄ¸ñÊ½²¢±£Áô¾ä×ÓÇ°ÃæµÄĞòºÅ£º"
+        densify = "è¯·ç²¾ç‚¼ä»¥ä¸Šå†…å®¹ï¼Œé€‰æ‹©ä½ è®¤ä¸ºé‡è¦çš„å¥å­æŒ‰ç…§åŸæ ¼å¼è¾“å‡ºï¼Œä¿æŒåˆ—è¡¨çš„æ ¼å¼å¹¶ä¿ç•™å¥å­å‰é¢çš„åºå·ï¼š"
     else:
         densify = "Please refine the above content, select the sentences you consider important, and output them in the original format, maintaining the list structure and retaining the numbering before each sentence:"
 
@@ -240,7 +240,7 @@ for file_name in file_list:
     dense3 = result.strip()
     print("dense2 =", dense3)
 
-    question = "ÇëÅĞ¶ÏÒÔÏÂÎÄµµÓĞÄÄĞ©ĞÂÎÅ±êÌâ£¬Í¨¹ıÃ¿¸öĞÂÎÅ±êÌâµÄ4¸ö·½Ãæ¡±(1) Î´À´¼Æ»®¡±¡¢¡°(2) ²Â²â¡±¡¢¡°(3) ¹Ûµã¡±¡¢¡°(4) ÊÂÊµ¡±£¬¶ÔÒÔÏÂÎÄµµ½øĞĞÕª³­" + "¡°" + dense3 + "¡±" + '£¬×¢ÒâÊ¶±ğĞÂÎÅ±êÌâ²¢Í¨¹ıÃ¿¸öĞÂÎÅ±êÌâµÄ4¸ö·½Ãæ¡±(1) Î´À´¼Æ»®¡±¡¢¡°(2) ²Â²â¡±¡¢¡°(3) ¹Ûµã¡±¡¢¡°(4) ÊÂÊµ¡±£¬¶ÔÒÔÉÏÎÄµµ½øĞĞÖğ¾äÕª³­£¨½ö½öÕª³­¶ø²»ÒªÊä³öÆäËûÄÚÈİ£©£¬²¢ÇÒÒÔ[ĞòºÅ, ¾ä×Ó]µÄ¸ñÊ½£¬²»ÖØ¸´¡¢²»ÒÅÂ©µØ¹éÀà²¢Õª³­ÔÚÃ¿¸öĞÂÎÅ±êÌâµÄ4¸ö·½ÃæÏÂ'
+    question = "è¯·åˆ¤æ–­ä»¥ä¸‹æ–‡æ¡£æœ‰å“ªäº›æ–°é—»æ ‡é¢˜ï¼Œé€šè¿‡æ¯ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢â€(1) æœªæ¥è®¡åˆ’â€ã€â€œ(2) çŒœæµ‹â€ã€â€œ(3) è§‚ç‚¹â€ã€â€œ(4) äº‹å®â€ï¼Œå¯¹ä»¥ä¸‹æ–‡æ¡£è¿›è¡Œæ‘˜æŠ„" + "â€œ" + dense3 + "â€" + 'ï¼Œæ³¨æ„è¯†åˆ«æ–°é—»æ ‡é¢˜å¹¶é€šè¿‡æ¯ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢â€(1) æœªæ¥è®¡åˆ’â€ã€â€œ(2) çŒœæµ‹â€ã€â€œ(3) è§‚ç‚¹â€ã€â€œ(4) äº‹å®â€ï¼Œå¯¹ä»¥ä¸Šæ–‡æ¡£è¿›è¡Œé€å¥æ‘˜æŠ„ï¼ˆä»…ä»…æ‘˜æŠ„è€Œä¸è¦è¾“å‡ºå…¶ä»–å†…å®¹ï¼‰ï¼Œå¹¶ä¸”ä»¥[åºå·, å¥å­]çš„æ ¼å¼ï¼Œä¸é‡å¤ã€ä¸é—æ¼åœ°å½’ç±»å¹¶æ‘˜æŠ„åœ¨æ¯ä¸ªæ–°é—»æ ‡é¢˜çš„4ä¸ªæ–¹é¢ä¸‹'
     while True:
         try:
             invoke = {"messages": [{"role": "user", "content": question, }], "model": LLM_name,
