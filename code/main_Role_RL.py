@@ -452,6 +452,7 @@ def relationship_checker(LLM_index, a):
                 else:
                     question = "请把“" + this_name + "”和“" + next_name + "”合并为一个类别并输出成['合并后的类别']，注意不要输出其他内容。"
 
+                # rule repeat
                 hint = ""
                 hint2 = ""
 
@@ -519,13 +520,14 @@ def topic_locator(LLM_index, text, item_list):
     for the_item in item_list:
         if English:
             question = "Please read sentence by sentence and extract the first index related to " + the_item + " and the last index related to " + the_item + " from the following text '" + text + "'" + " and then answer by [first index, last index], remember not to output any other content."
-            hint = "Please read sentence by sentence and extract the first index related to " + the_item + " and the last index related to " + the_item + " from the above text, and then answer by [first index, last index], remember not to output any other content."
+            hint = "Please read sentence by sentence and extract the first index related to " + the_item + " and the last index related to " + the_item + " from the above text, and then answer by [first index, last index], remember not to output any other content."            # rule repeat in the query
             hint2 = ""
         else:
             question = "请一句一句地读并摘抄出以下段落中介绍" + the_item + "的第一句的号码和介绍" + the_item + "的最后一句的号码" + "“" + text + "”" + "并用[第一句的号码, 最后一句的号码]来回答，注意不要输出号码以外的其他内容"
-            hint = "一句一句地读并摘抄出以上段落中介绍" + the_item + "的第一句的号码和介绍" + the_item + "的最后一句的号码" + "再用[第一句的号码, 最后一句的号码]来回答，注意不要输出号码以外的其他内容"
+            # rule repeat
+            hint = "一句一句地读并摘抄出以上段落中介绍" + the_item + "的第一句的号码和介绍" + the_item + "的最后一句的号码" + "再用[第一句的号码, 最后一句的号码]来回答，注意不要输出号码以外的其他内容"            # rule repeat in the query
             hint2 = ""
-
+        
         # Ask the LLM
         result, run_time = ask(LLM_name, question)
 
@@ -610,11 +612,11 @@ def topic_finder(LLM_index, text):
     if English:
         question = "Please read sentence by sentence and determine which items are being sold in the following sentences" + "'" + slice_txt + "'" + 'Only select the items with price, and answer in the format of ["item 1: price 1 (if exist)", "item 2: price 2 (if exist)", "item 3: price 3 (if exist)"] in the order of appearance.'
         hint = "read sentence by sentence and determine which items are being sold in the above sentences" + "'" + slice_txt + "'" + 'Only select the items with price, and answer in the format of ["item 1: price 1 (if exist)", "item 2: price 2 (if exist)", "item 3: price 3 (if exist)"] in the order of appearance.'
-        hint2 = "Please note not to output items whose prices are not mentioned,"
+        hint2 = "Please note not to output items whose prices are not mentioned,"            # rule repeat in the query
     else:
         question = "请判断以下段落在销售哪些商品，从头到尾一句一句地阅读" + "“" + text + "”" + "只将有价格的商品名称按出现顺序输出成一个['商品1的名称:商品1的价格', '商品2的名称:商品2的价格', '商品3的名称:商品3的价格']列表"
         hint = "判断以上段落在销售哪些商品，从头到尾一句一句地阅读，只将有价格的商品名称按出现顺序输出成一个['商品1的名称:商品1的价格', '商品2的名称:商品2的价格', '商品3的名称:商品3的价格']列表"
-        hint2 = "注意不要输出价格未提及的商品，"
+        hint2 = "注意不要输出价格未提及的商品，"            # rule repeat in the query
 
     # Ask the LLM
     result, run_time = ask(LLM_name, question)
